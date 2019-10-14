@@ -7,7 +7,8 @@ ref: nso
 order: 6
 ---
 
-A partire dal 1 ° ottobre 2019, gli acquisti pubblici legati al settore sanitario saranno gestiti 
+Come previsto dalla Legge di bilancio 2018, a decorrere dalla data che sarà stabilita con appositi decreti ministeriali, 
+gli acquisti pubblici legati al settore sanitario saranno gestiti 
 con ordini elettronici (eOrder). NSO, il "nodo di smistamento per gli ordini di acquisto della pubblica 
 amministrazione" gestito dal Ministero dell'Economia e delle Finanze (MEF), è il gateway centrale per 
 lo scambio di ordini elettronici tra enti pubblici e fornitori.

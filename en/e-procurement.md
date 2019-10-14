@@ -7,11 +7,11 @@ ref: e-procurement
 order: 7
 ---
 
-Con la Circolare n.3 del 6 dicembre 2016 che definisce le Regole tecniche
-aggiuntive per garantire il colloquio e la condivisione dei dati tra i sistemi
-telematici di acquisto e di negoziazione, AgID ha introdotto PEPPOL come
-architettura di riferimento per garantire l’interoperabilità nell’e-Procurement
-pubblico.
+The Circular No. 3 of 6 December 2016 which defines the Technical Rules
+additional to ensure the communication and sharing of data between the systems
+telematics of purchase and negotiation, AgID has introduced PEPPOL as
+reference architecture to guarantee interoperability in e-Procurement
+public.
 
-In questa sezione sono riportate le modalità di integrazione dell’infrastruttura
-PEPPOL con il sistema italiano di e-procurement.
+This section shows the methods of integrating the infrastructure
+PEPPOL with the Italian e-procurement system.

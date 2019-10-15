@@ -9,7 +9,7 @@ order: 4
 
 Per aderire come AP/SMP Provider:
 
-1. inviare una email a peppol@agid.gov.it manifestando l'intenzione di diventare
+1. inviare una email a [peppol@agid.gov.it](mailto:peppol@agid.gov.it) manifestando l'intenzione di diventare
    AP/SMP Provider
 2. seguire la procedura di iscrizione obbligatoria all’associazione OpenPEPPOL;
 3. scaricare l'accordo per Access Point e/o l'accordo SMP provider insieme ai 6
@@ -17,8 +17,8 @@ Per aderire come AP/SMP Provider:
 4. compilare le informazioni contenute nell'Allegato 1, nell'Allegato 5,
    nell’Accordo AP e nell’Accordo SMP;
 5. firmare digitalmente la documentazione e inviarla via PEC all'indirizzo
-   protocollo@pec.agid.gov.it insieme al certificato di iscrizione al Registro
-   Imprese;
+   [protocollo@pec.agid.gov.it](mailto:protocollo@pec.agid.gov.it) insieme al 
+   certificato di iscrizione al Registro Imprese;
 6. AGID richiede quindi all'autorità competente il rilascio dei certificati
    digitali che il Service Provider utilizzerà per i test
 7. al termine dei test e delle verifiche di interoperabilità AGID trasmette al

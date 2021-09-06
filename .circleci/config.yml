@@ -38,8 +38,8 @@ jobs:
     docker:
       - image: circleci/ruby:2.6.3
     environment:
-      - JEKYLL_ENV: production
-      - NOKOGIRI_USE_SYSTEM_LIBRARIES: true
+      JEKYLL_ENV: production
+      NOKOGIRI_USE_SYSTEM_LIBRARIES: "true"
     steps:
       - checkout
       - restore_gem_cache

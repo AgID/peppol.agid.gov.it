@@ -6,7 +6,7 @@ lang: en
 ref: elenco-ap-smp
 order: 2
 child_of_ref: qualificazione-ap-smp
-last_update: 31/08/2021
+last_update: 01/09/2021
 ---
 
 Below you can view the list of PEPPOL Access Point Providers recognized by the Italian PEPPOL Authority.

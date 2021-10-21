@@ -131,6 +131,12 @@
   registered_office: Piazzale Lombardia, 10 - 28100 Novara
   contact_point: Marco Tacchini
   contact_info: peppol@mastersoft.it
+- business_name: Maxtrino S.P.A.
+  ap: true
+  smp: true
+  registered_office: via Roma 149, 09124, Cagliari (CA)
+  contact_point: Romano Fischetti
+  contact_info: amministrazione@maxtrino.com
 - business_name: MX2 S.r.l.
   ap: true
   smp: true
@@ -173,6 +179,12 @@
   registered_office: Viale Forlanini, 36 - 20024 Garbagnate Milanese (MI)
   contact_point: Marina Gallo
   contact_info: marina.gallo@sbitalia.com
+- business_name: Selecta Digital S.p.A. 
+  ap: true
+  smp: false
+  registered_office: Viale della Resistenza, 47 - 42018, San Martino in Rio (RE)
+  contact_point: Marco Vecchi 
+  contact_info: marco.vecchi@selecta.it
 - business_name: SIAV S.p.A.
   ap: true
   smp: true

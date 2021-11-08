@@ -9,7 +9,7 @@ categories: news
 permalink: /it/news/scadenza-validita-codici/
 ---
 
-A partire dal 15 novembre è obbligatorio l'utilizzo esclusivo 
+A partire dal 15 novembre sarà obbligatorio l'utilizzo esclusivo 
 dei codici 0210 (Codice Fiscale) e 0211 (Partita IVA) che 
 sostituiscono i precedenti codici temporanei italiani 9907 (CF) 
 e 9906 (Partita IVA) per gli indirizzi elettronici registrati 

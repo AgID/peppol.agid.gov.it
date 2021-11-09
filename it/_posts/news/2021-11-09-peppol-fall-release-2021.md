@@ -15,10 +15,10 @@ cui release notes complete sono disponibili agli indirizzi:
 
   - [Ordinazione Semplice](https://peppol-docs.agid.gov.it/docs/docs/ITA/others/guides/release-notes-it/3-order-only/main.html)
   - [Ordinazione Completa](https://peppol-docs.agid.gov.it/docs/docs/ITA/others/guides/release-notes-it/28-ordering/main.html)
-  -	[Ordinazione Pre-concordata](https://peppol-docs.agid.gov.it/docs/docs/ITA/others/guides/release-notes-it/42-orderagreement/main.html)
-  -	[Documento di Trasporto](https://peppol-docs.agid.gov.it/docs/docs/ITA/others/guides/release-notes-it/30-despatchadvice/main.html)
+  - [Ordinazione Pre-concordata](https://peppol-docs.agid.gov.it/docs/docs/ITA/others/guides/release-notes-it/42-orderagreement/main.html)
+  - [Documento di Trasporto](https://peppol-docs.agid.gov.it/docs/docs/ITA/others/guides/release-notes-it/30-despatchadvice/main.html)
 
-Il contenuto originale rilasciato da OpenPeppol è disponibile [qui](https://docs.peppol.eu/poacc/upgrade-3/release-notes/)
+Il contenuto originale rilasciato da OpenPeppol è disponibile [qui](https://docs.peppol.eu/poacc/upgrade-3/release-notes/).
 
 Tali aggiornamenti avranno efficacia in via obbligatoria dal **giorno 15 novembre 2021**.
 
@@ -54,4 +54,4 @@ Se evidenzia che con la presente release **vengono introdotte anche, negli schem
 di rilevanza nazionale con severità “fatal”, pertanto l’introduzione di tali regole non ha nessun impatto operativo. 
 
 Si avvisa infine che le modifiche descritte impattano sui controlli e sulle logiche implementate dal tool di validazione,
-**vi invitiamo pertanto a scaricare la versione aggiornata**
+**vi invitiamo pertanto a scaricare la versione aggiornata**.

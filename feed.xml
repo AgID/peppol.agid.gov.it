@@ -1,4 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://peppol.agid.gov.it/feed.xml" rel="self" type="application/atom+xml" /><link href="https://peppol.agid.gov.it/" rel="alternate" type="text/html" /><updated>2021-11-08T17:02:45+00:00</updated><id>https://peppol.agid.gov.it/feed.xml</id><title type="html">PEPPOL</title><entry xml:lang="it"><title type="html">Scadenza di validità dei codici 9907 (Codice Fiscale) e 9906 (Partita IVA)</title><link href="https://peppol.agid.gov.it/it/news/scadenza-validita-codici/" rel="alternate" type="text/html" title="Scadenza di validità dei codici 9907 (Codice Fiscale) e 9906 (Partita IVA)" /><published>2021-11-08T00:00:00+00:00</published><updated>2021-11-08T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/it/news/scandenza-validita-codici</id><content type="html" xml:base="https://peppol.agid.gov.it/it/news/scadenza-validita-codici/">&lt;p&gt;A partire dal 15 novembre sarà obbligatorio l’utilizzo esclusivo 
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://peppol.agid.gov.it/feed.xml" rel="self" type="application/atom+xml" /><link href="https://peppol.agid.gov.it/" rel="alternate" type="text/html" /><updated>2021-11-09T17:50:24+00:00</updated><id>https://peppol.agid.gov.it/feed.xml</id><title type="html">PEPPOL</title><entry xml:lang="it"><title type="html">Scadenza di validità dei codici 9907 (Codice Fiscale) e 9906 (Partita IVA)</title><link href="https://peppol.agid.gov.it/it/news/scadenza-validita-codici/" rel="alternate" type="text/html" title="Scadenza di validità dei codici 9907 (Codice Fiscale) e 9906 (Partita IVA)" /><published>2021-11-09T00:00:00+00:00</published><updated>2021-11-09T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/it/news/peppol-fall-release-2021</id><content type="html" xml:base="https://peppol.agid.gov.it/it/news/scadenza-validita-codici/">&lt;p&gt;A partire dal 15 novembre sarà obbligatorio l’utilizzo esclusivo 
+dei codici 0210 (Codice Fiscale) e 0211 (Partita IVA) che 
+sostituiscono i precedenti codici temporanei italiani 9907 (CF) 
+e 9906 (Partita IVA) per gli indirizzi elettronici registrati 
+(endpoint) e per l’identificazione delle parti di business (codelist EAS).&lt;/p&gt;
+
+&lt;p&gt;I Service Provider, pertanto, dovranno registrare i partecipant ID attivi 
+ancora attestati con gli schemi 9906 e 9907 con i nuovi schemi 0211 e 0210, 
+comunicando ai propri clienti l’avvenuto aggiornamento al fine di informare 
+tempestivamente punti ordinanti dell’avvenuto cambiamento di registrazione
+per l’adeguamento dei loro sistemi informatici.&lt;/p&gt;
+
+&lt;p&gt;Al fine di evitare il blocco della trasmissione degli ordini NSO dovuto 
+ad eventuali anagrafiche dei punti ordinanti non ancora aggiornate, 
+la coesistenza di entrambi i codici sarà tollerata solo fino al 31/01/2022, 
+data oltre la quale dovrà essere effettuata la deregistrazione dei vecchi 
+participant ID Peppol (9906 e 9907) sull’SMP/SML.&lt;/p&gt;</content><author><name></name></author><category term="it" /><category term="news" /><summary type="html">A partire dal 15 novembre sarà obbligatorio l’utilizzo esclusivo dei codici 0210 (Codice Fiscale) e 0211 (Partita IVA) che sostituiscono i precedenti codici temporanei italiani 9907 (CF) e 9906 (Partita IVA) per gli indirizzi elettronici registrati (endpoint) e per l’identificazione delle parti di business (codelist EAS). I Service Provider, pertanto, dovranno registrare i partecipant ID attivi ancora attestati con gli schemi 9906 e 9907 con i nuovi schemi 0211 e 0210, comunicando ai propri clienti l’avvenuto aggiornamento al fine di informare tempestivamente punti ordinanti dell’avvenuto cambiamento di registrazione per l’adeguamento dei loro sistemi informatici. Al fine di evitare il blocco della trasmissione degli ordini NSO dovuto ad eventuali anagrafiche dei punti ordinanti non ancora aggiornate, la coesistenza di entrambi i codici sarà tollerata solo fino al 31/01/2022, data oltre la quale dovrà essere effettuata la deregistrazione dei vecchi participant ID Peppol (9906 e 9907) sull’SMP/SML.</summary></entry><entry xml:lang="it"><title type="html">Scadenza di validità dei codici 9907 (Codice Fiscale) e 9906 (Partita IVA)</title><link href="https://peppol.agid.gov.it/it/news/scadenza-validita-codici/" rel="alternate" type="text/html" title="Scadenza di validità dei codici 9907 (Codice Fiscale) e 9906 (Partita IVA)" /><published>2021-11-08T00:00:00+00:00</published><updated>2021-11-08T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/it/news/scandenza-validita-codici</id><content type="html" xml:base="https://peppol.agid.gov.it/it/news/scadenza-validita-codici/">&lt;p&gt;A partire dal 15 novembre sarà obbligatorio l’utilizzo esclusivo 
 dei codici 0210 (Codice Fiscale) e 0211 (Partita IVA) che 
 sostituiscono i precedenti codici temporanei italiani 9907 (CF) 
 e 9906 (Partita IVA) per gli indirizzi elettronici registrati 
@@ -254,25 +270,4 @@ SchemeID.&lt;/p&gt;
 logiche implementate dal tool di validazione, sarà pertanto opportuno scaricare
 la versione aggiornata, disponibile
 &lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/&quot;&gt;qui&lt;/a&gt; a partire dal 4 maggio
-2021.&lt;/p&gt;</content><author><name></name></author><category term="it" /><category term="news" /><summary type="html">Il giorno 3 Maggio 2021 OpenPeppol pubblicherà formalmente gli aggiornamenti relativi alla Spring Release 2021, contenenti una serie di modifiche le cui release notes complete sono disponibili agli indirizzi:</summary></entry><entry xml:lang="en"><title type="html">Update of Peppol IT specifications to conform to NSO Technical Rules 4.7 issued by the Italian Ministry of Economy and Finance</title><link href="https://peppol.agid.gov.it/en/news/update-technical-rules-nso-4-7/" rel="alternate" type="text/html" title="Update of Peppol IT specifications to conform to NSO Technical Rules 4.7 issued by the Italian Ministry of Economy and Finance" /><published>2020-12-29T00:00:00+00:00</published><updated>2020-12-29T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/en/news/update-technical-rules-nso-4-7</id><content type="html" xml:base="https://peppol.agid.gov.it/en/news/update-technical-rules-nso-4-7/">&lt;p&gt;The General Accounting Office of the State has published an update to the &lt;a href=&quot;http://www.rgs.mef.gov.it/VERSIONE-I/e_government/amministrazioni_pubbliche/acquisti_pubblici_in_rete_apir/nodo_di_smistamento_degli_ordini_di_acquisto_delle_amministrazioni_pubbliche_nso/&quot;&gt;NSO Technical Rules&lt;/a&gt;, releasing version 4.7. &lt;!--more--&gt;&lt;/p&gt;
-
-&lt;p&gt;The update was also received by the technical specifications published by the Italian Peppol Authority at the link &lt;a href=&quot;https://peppol-docs.agid.gov.it/&quot;&gt;https://peppol-docs.agid.gov.it/&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The main changes are summarized in the &lt;strong&gt;“Release Notes”&lt;/strong&gt; section of the &lt;strong&gt;Simple Ordering&lt;/strong&gt; and &lt;strong&gt;Complete Ordering&lt;/strong&gt;, including:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Integrated a table summarising the structured fields (paragraph 4.3)&lt;/li&gt;
-  &lt;li&gt;Created a new paragraph, “4.4 Document Type”, which describes the sub-type and the variants of the “Order” and “Response” Documents&lt;/li&gt;
-  &lt;li&gt;Added further information on the type of Order (Paragraph 4.5)&lt;/li&gt;
-  &lt;li&gt;Added instructions for the following Order variants: “Ordine di regolazione” (Settlement Order), “Ordine a budget” (Budget Order), “Ordine in conto noleggio” (Charter Order) (paragraph 4.5)&lt;/li&gt;
-  &lt;li&gt;Added further information regarding the use of attachments (Paragraph 6.2)&lt;/li&gt;
-  &lt;li&gt;Added further information for the ordering in the healthcare domain (Paragraph 6.4.1)&lt;/li&gt;
-  &lt;li&gt;Added further examples regarding the reference to another order (Paragraph 6.12)&lt;/li&gt;
-  &lt;li&gt;Added further information on delivery and on the labels to be affixed to the packaging (Section 6.16)&lt;/li&gt;
-  &lt;li&gt;Added further information on the calibration date for Nuclear Medicine products (Section 6.17)&lt;/li&gt;
-  &lt;li&gt;Integrated indications on accounting classifications (Paragraph 6.19)&lt;/li&gt;
-  &lt;li&gt;Added instructions for the epidemiological emergency from COVID-19 (Paragraph 6.19.1)&lt;/li&gt;
-  &lt;li&gt;Added instructions for reversal to the following year (Paragraph 6.20)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;It should be noted that, at the same &lt;a href=&quot;https://peppol-docs.agid.gov.it/&quot;&gt;link&lt;/a&gt;, a new package of sample XML orders is available for download.&lt;/p&gt;</content><author><name></name></author><category term="en" /><category term="news" /><summary type="html">The General Accounting Office of the State has published an update to the NSO Technical Rules, releasing version 4.7.</summary></entry></feed>
+2021.&lt;/p&gt;</content><author><name></name></author><category term="it" /><category term="news" /><summary type="html">Il giorno 3 Maggio 2021 OpenPeppol pubblicherà formalmente gli aggiornamenti relativi alla Spring Release 2021, contenenti una serie di modifiche le cui release notes complete sono disponibili agli indirizzi:</summary></entry></feed>

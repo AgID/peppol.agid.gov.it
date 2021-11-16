@@ -113,6 +113,12 @@
   registered_office: Via dei Mille, 21 - 40121 Bologna
   contact_point: Elisa Bertocchi
   contact_info: elisa.bertocchi@regione.emilia-romagna.it
+- business_name: Interzen Consulting S.r.l.
+  ap: true
+  smp: true
+  registered_office: Strada Comunale Piana, 3 - 65129 Pescara (PE)
+  contact_point: Alessandro Damiani
+  contact_info: alessandro.damiani@interzen.it
 - business_name: Intesi Group S.p.A.
   ap: true
   smp: true

@@ -11,7 +11,7 @@ permalink: /it/news/peppol-fall-release-2021/
 
 Si comunica che sono stati pubblicati gli aggiornamenti relativi alla 
 Fall Release 2021 di OpenPeppol, contenenti una serie di modifiche le 
-cui release notes complete sono disponibili agli indirizzi:
+cui release notes complete sono disponibili agli indirizzi:<!--more-->
 
   - [Ordinazione Semplice](https://peppol-docs.agid.gov.it/docs/docs/ITA/others/guides/release-notes-it/3-order-only/main.html)
   - [Ordinazione Completa](https://peppol-docs.agid.gov.it/docs/docs/ITA/others/guides/release-notes-it/28-ordering/main.html)

@@ -13,7 +13,7 @@ A partire dal 15 novembre sarà obbligatorio l'utilizzo esclusivo
 dei codici 0210 (Codice Fiscale) e 0211 (Partita IVA) che 
 sostituiscono i precedenti codici temporanei italiani 9907 (CF) 
 e 9906 (Partita IVA) per gli indirizzi elettronici registrati 
-(endpoint) e per l’identificazione delle parti di business (codelist EAS). 
+(endpoint) e per l’identificazione delle parti di business (codelist EAS).<!--more--> 
 
 I Service Provider, pertanto, dovranno registrare i partecipant ID attivi 
 ancora attestati con gli schemi 9906 e 9907 con i nuovi schemi 0211 e 0210, 

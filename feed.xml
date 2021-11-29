@@ -1,4 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://peppol.agid.gov.it/feed.xml" rel="self" type="application/atom+xml" /><link href="https://peppol.agid.gov.it/" rel="alternate" type="text/html" /><updated>2021-11-23T10:10:51+00:00</updated><id>https://peppol.agid.gov.it/feed.xml</id><title type="html">PEPPOL</title><entry xml:lang="it"><title type="html">Peppol Fall Release 2021</title><link href="https://peppol.agid.gov.it/it/news/peppol-fall-release-2021/" rel="alternate" type="text/html" title="Peppol Fall Release 2021" /><published>2021-11-09T00:00:00+00:00</published><updated>2021-11-09T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/it/news/peppol-fall-release-2021</id><content type="html" xml:base="https://peppol.agid.gov.it/it/news/peppol-fall-release-2021/">&lt;p&gt;Si comunica che sono stati pubblicati gli aggiornamenti relativi alla 
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://peppol.agid.gov.it/feed.xml" rel="self" type="application/atom+xml" /><link href="https://peppol.agid.gov.it/" rel="alternate" type="text/html" /><updated>2021-11-29T15:12:41+00:00</updated><id>https://peppol.agid.gov.it/feed.xml</id><title type="html">PEPPOL</title><entry><title type="html"></title><link href="https://peppol.agid.gov.it/2021-11-29-webinar-ordinazione-fatturazione-pa/" rel="alternate" type="text/html" title="" /><published>2021-11-29T15:12:41+00:00</published><updated>2021-11-29T15:12:41+00:00</updated><id>https://peppol.agid.gov.it/2021-11-29-webinar-ordinazione-fatturazione-pa</id><content type="html" xml:base="https://peppol.agid.gov.it/2021-11-29-webinar-ordinazione-fatturazione-pa/">&lt;p&gt;Nell’ambito degli incontri previsti dal progetto “Centro di competenze” di Intercent-ER, al &lt;a href=&quot;https://intercenter.regione.emilia-romagna.it/help/centro-di-competenze/appuntamenti/ordinazione-e-fatturazione-elettronica-nella-p-a-impatti-e-scenari-duso-degli-standard-europei&quot;&gt;primo appuntamento&lt;/a&gt; 
+dedicato al tema: “Ordinazione e fatturazione elettronica nella P.A.: impatti e scenari d’uso degli standard
+europei”, interverrà l’Agenzia per l’Italia Digitale per fornire il quadro di riferimento nazionale nel settore
+degli acquisti pubblici e comprendere il ruolo di PEPPOL nella trasformazione digitale del procurement pubblico.&lt;/p&gt;
+
+&lt;p&gt;L’evento verrà trasmesso &lt;strong&gt;giorno 30/11/2021 dalle ore 10:00 alle ore 11:00&lt;/strong&gt; attraverso la piattaforma Microsoft Teams.&lt;/p&gt;
+
+&lt;p&gt;Al webinar interverranno:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Adriano Leli, Direttore Intercent-ER&lt;/li&gt;
+  &lt;li&gt;Emanuela Mariotti, Responsabile Eprocurement e Fatturazione elettronica - AgID&lt;/li&gt;
+  &lt;li&gt;Elisa Bertocchi, Servizio Innovazione Tecnologica, Trasformazione Digitale e Standard - Intercent-ER&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;La partecipazione al webinar è gratuita, previa iscrizione da effettuarsi compilando l’apposito &lt;a href=&quot;https://applicazioni.regione.emilia-romagna.it/IscrizioneConvegni/Iscrizione.aspx?6z%2bN8MruZcSn1eAbpPuVPPehhNhAMNuu&amp;amp;Lang=IT&quot;&gt;modulo di registrazione&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Prima dell’evento gli iscritti riceveranno via email le indicazioni per partecipare.&lt;/p&gt;</content><author><name></name></author><category term="it" /></entry><entry xml:lang="it"><title type="html">Peppol Fall Release 2021</title><link href="https://peppol.agid.gov.it/it/news/peppol-fall-release-2021/" rel="alternate" type="text/html" title="Peppol Fall Release 2021" /><published>2021-11-09T00:00:00+00:00</published><updated>2021-11-09T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/it/news/peppol-fall-release-2021</id><content type="html" xml:base="https://peppol.agid.gov.it/it/news/peppol-fall-release-2021/">&lt;p&gt;Si comunica che sono stati pubblicati gli aggiornamenti relativi alla 
 Fall Release 2021 di OpenPeppol, contenenti una serie di modifiche le 
 cui release notes complete sono disponibili agli indirizzi:&lt;!--more--&gt;&lt;/p&gt;
 
@@ -182,132 +198,4 @@ disponibile tutto il materiale di supporto all’implementazione:&lt;/p&gt;
   &lt;li&gt;Foglio di stile&lt;/li&gt;
   &lt;li&gt;Esempi XML&lt;/li&gt;
   &lt;li&gt;Schematron e tool di validazione&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="it" /><category term="news" /><summary type="html">La Peppol Authority supporta l’utilizzo della specifica italiana dell’Ordine pre-concordato Peppol. Il profilo Peppol BIS 3 Ordinazione pre-concordata è stato definito in accordo con le specifica Peppol e con le Regole Tecniche NSO (RGS-MEF) valide per il contesto italiano.</summary></entry><entry xml:lang="it"><title type="html">Spring Release 2021</title><link href="https://peppol.agid.gov.it/it/news/spring-release-2021/" rel="alternate" type="text/html" title="Spring Release 2021" /><published>2021-04-21T00:00:00+00:00</published><updated>2021-04-21T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/it/news/spring-release-2021</id><content type="html" xml:base="https://peppol.agid.gov.it/it/news/spring-release-2021/">&lt;p&gt;Il giorno 3 Maggio 2021 OpenPeppol pubblicherà formalmente gli aggiornamenti
-relativi alla Spring Release 2021, contenenti una serie di modifiche le cui
-release notes complete sono disponibili agli indirizzi:&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/docs/ITA/others/guides/release-notes-it/3-order-only/main.html&quot;&gt;Ordinazione Semplice&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/docs/ITA/others/guides/release-notes-it/28-ordering/main.html&quot;&gt;Ordinazione Completa&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/docs/ITA/others/guides/release-notes-it/30-despatchadvice/main.html&quot;&gt;Documento di Trasporto&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Il contenuto originale è disponibile &lt;a href=&quot;https://docs.peppol.eu/poacc/upgrade-3/release-notes/&quot;&gt;qui&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Tali aggiornamenti saranno pubblicati (Publication date) ed avranno efficacia
-in via obbligatoria (Mandatory date) in conformità con le seguenti date (cfr
-&lt;a href=&quot;https://peppol.eu/downloads/post-award/&quot;&gt;https://peppol.eu/downloads/post-award/&lt;/a&gt;):&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Review date&lt;/th&gt;
-      &lt;th&gt;Publication date&lt;/th&gt;
-      &lt;th&gt;Mandatory date&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;11.04.2021&lt;/td&gt;
-      &lt;td&gt;03.05.2021&lt;/td&gt;
-      &lt;td&gt;17.05.2021&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;Di seguito si riepilogano i principali cambiamenti che sono previsti per
-&lt;strong&gt;Ordinazione Semplice&lt;/strong&gt; e &lt;strong&gt;Documento di Trasporto&lt;/strong&gt;:&lt;/p&gt;
-
-&lt;h3 id=&quot;ordinazione-semplice&quot;&gt;ORDINAZIONE SEMPLICE&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;em&gt;Cambiamenti alla specifica (Documentazione)&lt;/em&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Corretto refuso nel paragrafo sul calcolo dei totali. Tutti i campi
-citati sono all’interno del cac:AnticipatedMonetaryTotal invece di
-cac:LegalMonetaryTotal&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Cambiamenti alla sintassi&lt;/em&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Aggiunto il campo cac:Shipment/cbc:ID, campo obbligatorio in UBL, da
-valorizzare con valore fisso NA&lt;/li&gt;
-      &lt;li&gt;Invertito l’ordine di cac:Contat e cac:PostalAddress nel
-cac:DeliveryParty (ora viene prima cac:PostalAddress, con tutti i campi
-al suo interno)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Cambiamenti alle code lists e ai tool di validazione&lt;/em&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Codifica ICD: aggiunti i codici 0210 (Codice Fiscale), 0211 (Partita
-IVA), 0212, 0213&lt;/li&gt;
-      &lt;li&gt;Codifica EAS: aggiunti i codici 0210 (Codice Fiscale), 0211 (Partita
-IVA), 0212, 0213. Rimosso 9956&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;documento-di-trasporto&quot;&gt;DOCUMENTO DI TRASPORTO&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;em&gt;Cambiamenti alla specifica (Documentazione)&lt;/em&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Modificate le regole PEPPOL-T16-R009 e PEPPOL-T16-R010, prima riferite al
-“Buyer Party” ed ora rispettivamente a “Seller party” e “Originator
-customer party”&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Cambiamenti alla sintassi&lt;/em&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Aggiunta descrizione e tir id al campo cac:DespatchAddress/cbc:ID&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Cambiamenti alle code lists e ai tool di validazione&lt;/em&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Codifica ICD: aggiunti i codici 0210 (Codice Fiscale), 0211 (Partita
-IVA), 0212, 0213&lt;/li&gt;
-      &lt;li&gt;Codifica EAS: aggiunti i codici 0210 (Codice Fiscale), 0211 (Partita
-IVA), 0212, 0213. Rimosso 9956&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;È importante porre particolare attenzione alla modifica relativa all’aggiunta
-dei nuovi codici 0210 (Codice Fiscale) e 0211 (Partita IVA) che sostituiscono i
-precedenti codici temporanei italiani 9907 (CF) e 9906 (Partita IVA) sia a
-livello di lista EAS (indirizzi elettronici registrati) sia a livello di lista
-ISO 6523 (identificativi delle parti).&lt;/p&gt;
-
-&lt;p&gt;L’introduzione dei nuovi schemeID avverrà secondo un periodo di transizione che
-seguirà le seguenti date:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;a partire dal 3 Maggio 2021&lt;/strong&gt;, sarà opzionale supportare i nuovi codici
-0210 e 0211 e sarà quindi possibile registrare nuovi participantID Peppol
-(endpointID) sulla rete Peppol. Resterà tuttavia possibile continuare a
-registrare participantID con i vecchi codici 9906 e 9907.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;a partire dal 17 Maggio 2021&lt;/strong&gt;, data di entrata in vigore della Spring
-Release 2021, sarà obbligatorio supportare 0210 e 0211 e pertanto i codici
-temporanei 9906 e 9907 saranno deprecati, pertanto, ogni nuova registrazione
-dovrà avvenire utilizzando i codici 0210 e 0211. I participant identifier
-precedentemente registri con i codici 9906 e 9907 resteranno validi e la
-trasmissione dei documenti avverrà comunque per consentire ai Provider ed ai
-relativi clienti di aggiornare tutti i soggetti coinvolti e le relative
-anagrafiche.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;a partire dal 15/11/2021&lt;/strong&gt; con l’entrata in vigore della Fall Release 2021
-saranno rimossi definitivamente i codici 9906 e 9907 e, pertanto, per quella
-data è necessario che tutti i participant identifier registrati utilizzando i
-vecchi schemeID siano rimossi dall’SML ed registrati con i nuovi codici 0210
-e 0211.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Si precisa che in concomitanza con la Spring Release sarà rilasciata una nuova
-versione delle codelist dell’eDelivery Peppol
-(&lt;a href=&quot;https://docs.peppol.eu/edelivery/codelists/&quot;&gt;qui&lt;/a&gt;), che includerà i nuovi
-SchemeID.&lt;/p&gt;
-
-&lt;p&gt;Si avvisa infine che le modifiche descritte impattano sui controlli e sulle
-logiche implementate dal tool di validazione, sarà pertanto opportuno scaricare
-la versione aggiornata, disponibile
-&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/&quot;&gt;qui&lt;/a&gt; a partire dal 4 maggio
-2021.&lt;/p&gt;</content><author><name></name></author><category term="it" /><category term="news" /><summary type="html">Il giorno 3 Maggio 2021 OpenPeppol pubblicherà formalmente gli aggiornamenti relativi alla Spring Release 2021, contenenti una serie di modifiche le cui release notes complete sono disponibili agli indirizzi:</summary></entry></feed>
+&lt;/ul&gt;</content><author><name></name></author><category term="it" /><category term="news" /><summary type="html">La Peppol Authority supporta l’utilizzo della specifica italiana dell’Ordine pre-concordato Peppol. Il profilo Peppol BIS 3 Ordinazione pre-concordata è stato definito in accordo con le specifica Peppol e con le Regole Tecniche NSO (RGS-MEF) valide per il contesto italiano.</summary></entry></feed>

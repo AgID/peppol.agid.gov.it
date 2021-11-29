@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Webinar - Ordinazione e fatturazione elettronica nella P.A.: impatti e scenari d'uso degli standard europei
+title: Webinar Ordinazione e fatturazione elettronica nella P.A. - impatti e scenari d'uso degli standard europei
 lang: it
 ref: webinar-ordinazione-fatturazione-pa
 excerpt_separator: <!--more-->
@@ -12,7 +12,7 @@ permalink: /it/news/webinar-ordinazione-fatturazione-pa/
 Nell’ambito degli incontri previsti dal progetto "Centro di competenze" di Intercent-ER, al [primo appuntamento](https://intercenter.regione.emilia-romagna.it/help/centro-di-competenze/appuntamenti/ordinazione-e-fatturazione-elettronica-nella-p-a-impatti-e-scenari-duso-degli-standard-europei) 
 dedicato al tema: "Ordinazione e fatturazione elettronica nella P.A.: impatti e scenari d'uso degli standard
 europei", interverrà l’Agenzia per l’Italia Digitale per fornire il quadro di riferimento nazionale nel settore
-degli acquisti pubblici e comprendere il ruolo di PEPPOL nella trasformazione digitale del procurement pubblico.
+degli acquisti pubblici e comprendere il ruolo di PEPPOL nella trasformazione digitale del procurement pubblico.<!--more-->
 
 L’evento verrà trasmesso **giorno 30/11/2021 dalle ore 10:00 alle ore 11:00** attraverso la piattaforma Microsoft Teams.
 

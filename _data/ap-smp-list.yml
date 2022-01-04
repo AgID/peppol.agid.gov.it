@@ -119,18 +119,6 @@
   registered_office: Strada Comunale Piana, 3 - 65129 Pescara (PE)
   contact_point: Alessandro Damiani
   contact_info: alessandro.damiani@interzen.it
-- business_name: Intesi Group S.p.A.
-  ap: true
-  smp: true
-  registered_office: Via Torino, 28 - 20123 Milano
-  contact_point: Giuseppe Damiano
-  contact_info: gdamiano@intesigroup.com
-- business_name: Link Service S.r.l.
-  ap: true
-  smp: true
-  registered_office: Via Lusitania, 4 - 00183 Roma
-  contact_point: Alessandro Giosuè Sganga
-  contact_info: alessandro.sganga@gmail.com
 - business_name: Master Soft S.r.l.
   ap: true
   smp: true

@@ -12,7 +12,7 @@ permalink: /it/news/calendario-manutenzione-2022/
 Si informa che,  nel corso dell'anno 2022 l’Access Point e l’SMP Unico della PA saranno oggetto di manutenzioni programmate. Durante tali interventi potrebbero verificarsi eventuali indisponibilità del sistema.
 
 Nello specifico, gli interventi di manutenzione sono pianificati **sempre dalle ore 13.00 alle ore 14.00**, avverranno nelle seguenti date:
-
+<!--more-->
  - 28 gennaio 2022
  - 29 aprile 2022
  - 29 luglio 2022

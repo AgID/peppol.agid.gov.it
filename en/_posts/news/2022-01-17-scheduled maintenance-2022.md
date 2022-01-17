@@ -12,7 +12,7 @@ permalink: /en/news/scheduled maintenance-2022/
 We inform you that, in the course of 2022, the Access Point and the Single SMP of the PA will be subject to scheduled maintenance. During these interventions, possible unavailability of the system could occur.
 
 Specifically, maintenance interventions are scheduled **always from 13.00 to 14.00**, they will take place on the following dates:
-
+<!--more-->
  - January 28, 2022
  - April 29, 2022
  - July 29, 2022

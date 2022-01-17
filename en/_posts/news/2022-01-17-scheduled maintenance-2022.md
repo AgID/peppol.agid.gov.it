@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PEPPOL technical assistance during the 2021 Christmas holidays
+title: Scheduled maintenance for the year 2022
 lang: en
 ref: scheduled maintenance-2022.
 excerpt_separator: <!--more-->

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Save the date: Scadenza codici 907 (Codice Fiscale) e 9906 (Partita IVA)
+title: Save the date:Scadenza codici 907 (Codice Fiscale) e 9906 (Partita IVA)
 lang: it
 ref: NSO-reminder-scadenza-codici
 excerpt_separator: <!--more-->

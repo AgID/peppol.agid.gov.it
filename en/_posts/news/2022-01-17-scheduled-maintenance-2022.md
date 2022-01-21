@@ -2,11 +2,11 @@
 layout: post
 title: Scheduled maintenance for the year 2022
 lang: en
-ref: scheduled maintenance-2022.
+ref: scheduled-maintenance-2022
 excerpt_separator: <!--more-->
 tags:
 categories: news
-permalink: /en/news/scheduled maintenance-2022/
+permalink: /en/news/scheduled-maintenance-2022/
 ---
 
 We inform you that, in the course of 2022, the Access Point and the Single SMP of the PA will be subject to scheduled maintenance. During these interventions, possible unavailability of the system could occur.

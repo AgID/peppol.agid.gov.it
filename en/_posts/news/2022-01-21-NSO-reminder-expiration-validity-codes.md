@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Save the date:Expiration validity of codes 9907 (Tax Code) and 9906 (VAT number)
+title: January 31, 2022:Expiration validity of codes 9907 (Tax Code) and 9906 (VAT number)
 lang: en
 ref: NSO-reminder-expiration-validity-codes
 excerpt_separator: <!--more-->

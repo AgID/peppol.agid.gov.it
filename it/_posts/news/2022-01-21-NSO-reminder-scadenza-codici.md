@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Save the date:Scadenza codici 9907 (Codice Fiscale) e 9906 (Partita IVA)
+title: 31 gennaio 2022:Scadenza codici 9907 (Codice Fiscale) e 9906 (Partita IVA)
 lang: it
 ref: NSO-reminder-scadenza-codici
 excerpt_separator: <!--more-->

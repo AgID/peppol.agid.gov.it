@@ -17,7 +17,7 @@ Procedura da seguire dal 1° gennaio al 30 giugno 2022:
 2. Scaricare la documentazione (attuale TIA e nuovo Peppol Service Provider Agreement e tutti gli allegati);
 3. Compilare e firmare digitalmente i seguenti documenti:
     - **Attuale TIA**:
-    - [AP Service Provider Agreement] e/o [SMP Provider Agreement] o entrambe, a seconda di quanto comunicato ad OpenPEPPOL;
+    - [AP Service Provider Agreement] e/o [SMP Provider Agreement](/attachments/PEPPOL_Transport_Infrastructure_Agreement_in_Italy_SMP_V_1_0.pdf) o entrambe, a seconda di quanto comunicato ad OpenPEPPOL;
     - [_Annex 1 - Contact Points_](/attachments/annex1-contatcpoints_0.pdf)
     - [_Annex 5 - Domain and its specific services and service levels_](/attachments/annex5-regionaldomain_rev5.pdf);
     - [_Dichiarazione sostitutiva del certificato di iscrizione alla CCIAA_](/attachments/dichirazione_rea_compilabile_rev201812.pdf).
@@ -51,7 +51,7 @@ Per i quesiti tecnici relativi ai test e alle verifiche di interoperabilità è 
 - [Checklist italiana per l'onboarding AP Peppol](/attachments/APTest_Checklist_3.1.0_IT.docx)
 - [Dichiarazione sostitutiva del certificato di iscrizione alla CCIAA](/attachments/dichirazione_rea_compilabile_rev201812.pdf)
 - [PEPPOL Transport Infrastructure Agreements in Italy Terms and conditions for the provision of PEPPOL Access Point Services in the Italian market]
-- [PEPPOL Transport Infrastructure Agreements in Italy Terms and conditions for the provision of PEPPOL SMP Services in the Italian market]
+- [PEPPOL Transport Infrastructure Agreements in Italy Terms and conditions for the provision of PEPPOL SMP Services in the Italian market](/attachments/PEPPOL_Transport_Infrastructure_Agreement_in_Italy_SMP_V_1_0.pdf)
 - [PEPPOL Service Provider Agreement](/attachments/PeppolServiceProviderAgreement_V_1_0.pdf)
 
 ### Documenti di supporto alla lettura (esclusivo uso di consultazione)

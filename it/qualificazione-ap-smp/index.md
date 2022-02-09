@@ -16,19 +16,20 @@ Procedura da seguire dal 1° gennaio al 30 giugno 2022:
 1. Eseguire l'[iscrizione obbligatoria all'associazione OpenPEPPOL](https://peppol.eu/get-involved/join-openpeppol), specificando il ruolo che si vuole assumere: **Access Point (AP)** e/o **Service Metadata Publisher (SMP)**;
 2. Scaricare la documentazione (attuale TIA e nuovo Peppol Service Provider Agreement e tutti gli allegati);
 3. Compilare e firmare digitalmente i seguenti documenti:
- - **Attuale TIA**:
+ **Attuale TIA**:
     - [_AP Service Provider Agreement_] e/o [_SMP Provider Agreement_] o entrambe, a seconda di quanto comunicato ad OpenPEPPOL;
     - [_Annex 1 - Contact Points_](/attachments/annex1-contatcpoints_0.pdf)
     - [_Annex 5 - Domain and its specific services and service levels_](/attachments/annex5-regionaldomain_rev5.pdf);
     - [_Dichiarazione sostitutiva del certificato di iscrizione alla CCIAA_](/attachments/dichirazione_rea_compilabile_rev201812.pdf).
- - **Nuovo PEPPOL Service Provider Agreement**:
+ **Nuovo PEPPOL Service Provider Agreement**:
     - [_PEPPOL Service Provider Agreement]
 4. Inviare, via PEC, all'indirizzo [protocollo@pec.agid.gov.it](mailto:protocollo@pec.agid.gov.it), i suddetti documenti firmati oltre i seguenti:
     - [PEPPOL Transport Infrastructure Agreements Annex 2 – Definitions](/attachments/annex2-definitions.pdf)
     - [PEPPOL Transport Infrastructure Agreements Annex 3 – Services and service levels](/attachments/annex3-servicesandservicelevels.pdf)
     - [PEPPOL Transport Infrastructure Agreements Annex 4 – Technical standards](/attachments/annex4-technicalstandards.pdf)
     - [PEPPOL Transport Infrastructure Agreements Annex 6 – Change procedure](/attachments/annex6-changeprocedure.pdf)
-5. NOTA BENE: la PEC deve avere, obbligatoriamente, il seguente oggetto: > _[PEPPOL] richiesta di \*nomeSocietà\* per sottoscrizione accordo PEPPOL_
+5. NOTA BENE - la PEC deve avere, obbligatoriamente, il seguente oggetto: 
+> _[PEPPOL] richiesta di \*nomeSocietà\* per sottoscrizione accordo PEPPOL_
 6. La Peppol Authority scriverà al contatto specificato nell'Annex 1 (al paragrafo 4.5), comunicandogli l'esito della verifica della documentazione;
 7. Il Service Provider potrà quindi compilare il [form](https://openpeppol.atlassian.net/servicedesk/customer/portal/1/create/13) per richiedere il rilascio dei certificati digitali per lo svolgimento dei **test** ;
 8. La Peppol Authority autorizzerà il rilascio dei suddetti certificati di test;
@@ -53,7 +54,7 @@ Per i quesiti tecnici relativi ai test e alle verifiche di interoperabilità è 
 - [PEPPOL Transport Infrastructure Agreements in Italy Terms and conditions for the provision of PEPPOL Access Point Services in the Italian market](/attachments/peppol_ap_service_provider_agreement_in_italy_rev5.pdf)
 - [PEPPOL Transport Infrastructure Agreements in Italy Terms and conditions for the provision of PEPPOL SMP Services in the Italian market](/attachments/peppol_smp_provider_agreement_rev5.pdf)
 
-### Documenti di supporto alla lettura (escusivo uso di consultazione)
+### Documenti di supporto alla lettura (esclusivo uso di consultazione)
 - [Supporto alla lettura del documento: PEPPOL Transport Infrastructure Agreements Annex 1 - Contact Points](/attachments/support_annex1-contactpoints_en-it_0.pdf)
 - [Supporto alla lettura del documento: PEPPOL Transport Infrastructure Agreements Annex 2 - Definitions](/attachments/support_annex2-definitions_en-it.pdf)
 - [Supporto alla lettura del documento: PEPPOL Transport Infrastructure Agreements Annex 3 – Services and service levels](/attachments/support_annex3-servicesandservicelevels_en-it.pdf)

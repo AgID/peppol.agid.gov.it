@@ -7,7 +7,7 @@ ref: qualificazione-ap-smp
 order: 1
 ---
 
-Dal 1° gennaio al 30 giugno 2022, i fornitori di servizi Peppol in entrata dovranno sottoscrivere l'attuale Transport Infrastructure Agreements (TIA) con la clausola di validità fino al 30 giugno 2022) e relativi allegati, nonché il nuovo Peppol Service Provider Agreement.
+Dal 1° gennaio al 30 giugno 2022, i fornitori di servizi Peppol in entrata, che intendono avviare i servizi prima del 30 giugno p.v., dovranno sottoscrivere l'attuale Transport Infrastructure Agreements (TIA) ed i relatici allegati con la clausola di validità fino al 30 giugno 2022, nonché il nuovo Peppol Service Provider Agreement.
 
 Dal 1° luglio 2022 sarà sufficiente sottoscrivere il nuovo Peppol Service Provider Agreement.
 
@@ -21,7 +21,7 @@ Procedura da seguire dal 1° gennaio al 30 giugno 2022:
     - [_Annex 1 - Contact Points_](/attachments/annex1-contatcpoints_0.pdf)
     - [_Annex 5 - Domain and its specific services and service levels_](/attachments/annex5-regionaldomain_rev5.pdf);
     - [_Dichiarazione sostitutiva del certificato di iscrizione alla CCIAA_](/attachments/dichirazione_rea_compilabile_rev201812.pdf).
-    - **Nuovo PEPPOL Service Provider Agreement**: [PEPPOL Service Provider Agreement](/attachments/PeppolServiceProviderAgreement_V_1_0.pdf)
+    - **Nuovo PEPPOL Service Provider Agreement**: [PEPPOL Service Provider Agreement]
 4. Inviare, via PEC, all'indirizzo [protocollo@pec.agid.gov.it](mailto:protocollo@pec.agid.gov.it), i suddetti documenti firmati oltre i seguenti:
     - [PEPPOL Transport Infrastructure Agreements Annex 2 – Definitions](/attachments/annex2-definitions.pdf)
     - [PEPPOL Transport Infrastructure Agreements Annex 3 – Services and service levels](/attachments/annex3-servicesandservicelevels.pdf)
@@ -52,7 +52,7 @@ Per i quesiti tecnici relativi ai test e alle verifiche di interoperabilità è 
 - [Dichiarazione sostitutiva del certificato di iscrizione alla CCIAA](/attachments/dichirazione_rea_compilabile_rev201812.pdf)
 - [PEPPOL Transport Infrastructure Agreements in Italy Terms and conditions for the provision of PEPPOL Access Point Services in the Italian market](/attachments/PEPPOL_Transport_Infrastructure_Agreement_in_Italy_AP_V_1_0.pdf)
 - [PEPPOL Transport Infrastructure Agreements in Italy Terms and conditions for the provision of PEPPOL SMP Services in the Italian market](/attachments/PEPPOL_Transport_Infrastructure_Agreement_in_Italy_SMP_V_1_0.pdf)
-- [PEPPOL Service Provider Agreement](/attachments/PeppolServiceProviderAgreement_V_1_0.pdf)
+- [PEPPOL Service Provider Agreement]
 
 ### Documenti di supporto alla lettura (esclusivo uso di consultazione)
 - [Supporto alla lettura del documento: PEPPOL Transport Infrastructure Agreements Annex 1 - Contact Points](/attachments/support_annex1-contactpoints_en-it_0.pdf)

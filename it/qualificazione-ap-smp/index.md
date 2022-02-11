@@ -7,36 +7,36 @@ ref: qualificazione-ap-smp
 order: 1
 ---
 
-Dal 1° gennaio al 30 giugno 2022, i fornitori di servizi Peppol in entrata, che intendono avviare i servizi prima del 30 giugno p.v., dovranno sottoscrivere l'attuale Transport Infrastructure Agreements (TIA) ed i relatici allegati con la clausola di validità fino al 30 giugno 2022, nonché il nuovo Peppol Service Provider Agreement.
+Dal 1° gennaio al 30 giugno 2022, i fornitori di servizi Peppol in entrata, che intendono avviare i servizi prima del 30 giugno p.v., dovranno sottoscrivere l'attuale Transport Infrastructure Agreements (TIA) ed i relativi allegati con la clausola di validità fino al 30 giugno 2022, nonché il nuovo Peppol Service Provider Agreement.
 
 Dal 1° luglio 2022 sarà sufficiente sottoscrivere il nuovo Peppol Service Provider Agreement.
 
 Procedura da seguire dal 1° gennaio al 30 giugno 2022:
 
 1. Eseguire l'[iscrizione obbligatoria all'associazione OpenPEPPOL](https://peppol.eu/get-involved/join-openpeppol), specificando il ruolo che si vuole assumere: **Access Point (AP)** e/o **Service Metadata Publisher (SMP)**;
-2. Scaricare la documentazione (attuale TIA e nuovo Peppol Service Provider Agreement e tutti gli allegati);
-3. Compilare e firmare digitalmente i seguenti documenti:
+2. Compilare e firmare digitalmente i seguenti documenti:
     - **Attuale TIA**:
-    - [AP Service Provider Agreement](/attachments/PEPPOL_Transport_Infrastructure_Agreement_in_Italy_AP_V_1_0.pdf) e/o [SMP Provider Agreement](/attachments/PEPPOL_Transport_Infrastructure_Agreement_in_Italy_SMP_V_1_0.pdf) o entrambe, a seconda di quanto comunicato ad OpenPEPPOL;
-    - [_Annex 1 - Contact Points_](/attachments/annex1-contatcpoints_0.pdf)
-    - [_Annex 5 - Domain and its specific services and service levels_](/attachments/annex5-regionaldomain_rev5.pdf);
+    - - [AP Service Provider Agreement](/attachments/PEPPOL_Transport_Infrastructure_Agreement_in_Italy_AP_V_1_0.pdf) e/o [SMP Provider Agreement](/attachments/PEPPOL_Transport_Infrastructure_Agreement_in_Italy_SMP_V_1_0.pdf) o entrambe, a seconda di quanto comunicato ad OpenPEPPOL;
+    - - [_Annex 1 - Contact Points_](/attachments/annex1-contatcpoints_0.pdf)
+    - - [_Annex 5 - Domain and its specific services and service levels_](/attachments/annex5-regionaldomain_rev5.pdf);
+    - **Nuovo PEPPOL Service Provider Agreement**: 
+    - [PEPPOL Service Provider Agreement](/attachments/PeppolServiceProviderAgreement_rev_V_1_0.pdf)
     - [_Dichiarazione sostitutiva del certificato di iscrizione alla CCIAA_](/attachments/dichirazione_rea_compilabile_rev201812.pdf).
-    - **Nuovo PEPPOL Service Provider Agreement**: [PEPPOL Service Provider Agreement](/attachments/PeppolServiceProviderAgreement_rev_V_1_0.pdf)
-4. Inviare, via PEC, all'indirizzo [protocollo@pec.agid.gov.it](mailto:protocollo@pec.agid.gov.it), i suddetti documenti firmati oltre i seguenti:
+3. Inviare, via PEC, all'indirizzo [protocollo@pec.agid.gov.it](mailto:protocollo@pec.agid.gov.it), i suddetti documenti firmati oltre i seguenti:
     - [PEPPOL Transport Infrastructure Agreements Annex 2 – Definitions](/attachments/annex2-definitions.pdf)
     - [PEPPOL Transport Infrastructure Agreements Annex 3 – Services and service levels](/attachments/annex3-servicesandservicelevels.pdf)
     - [PEPPOL Transport Infrastructure Agreements Annex 4 – Technical standards](/attachments/annex4-technicalstandards.pdf)
     - [PEPPOL Transport Infrastructure Agreements Annex 6 – Change procedure](/attachments/annex6-changeprocedure.pdf)
-5. NOTA BENE - la PEC deve avere, obbligatoriamente, il seguente oggetto: 
+4. NOTA BENE - la PEC deve avere, obbligatoriamente, il seguente oggetto: 
 > _[PEPPOL] richiesta di \*nomeSocietà\* per sottoscrizione accordo PEPPOL_
-6. La Peppol Authority scriverà al contatto specificato nell'Annex 1 (al paragrafo 4.5), comunicandogli l'esito della verifica della documentazione;
-7. Il Service Provider potrà quindi compilare il [form](https://openpeppol.atlassian.net/servicedesk/customer/portal/1/create/13) per richiedere il rilascio dei certificati digitali per lo svolgimento dei **test** ;
-8. La Peppol Authority autorizzerà il rilascio dei suddetti certificati di test;
-9. Il Service Provider dovrà eseguire i test e verifiche di interoperabilità secondo le seguenti FASI sequenziali:
+5. La Peppol Authority scriverà al contatto specificato nell'Annex 1 (al paragrafo 4.5), comunicandogli l'esito della verifica della documentazione;
+6. Il Service Provider potrà quindi compilare il [form](https://openpeppol.atlassian.net/servicedesk/customer/portal/1/create/13) per richiedere il rilascio dei certificati digitali per lo svolgimento dei **test** ;
+7. La Peppol Authority autorizzerà il rilascio dei suddetti certificati di test;
+8. Il Service Provider dovrà eseguire i test e verifiche di interoperabilità secondo le seguenti FASI sequenziali:
     - **FASE 1**: seguire le indicazioni presenti nella sezione *Test and Onboarding* del sito [https://peppol.eu/support/](https://peppol.eu/support/)
     - **FASE 2**: dopo il superamento della FASE1, seguire la procedura riportata nel documento [_Checklist italiana per l'onboarding AP Peppol_](/attachments/APTest_Checklist_3.1.0_IT.docx);
-10. La Peppol Authority comunicherà al Service Provider il superamento dei test e delle verifiche di interoperabilità, autorizzandolo alla richiesta dei certificati digitali per l'ambiente di **produzione**;
-11. La Peppol Authority trasmetterà al Service Provider la documentazione controfirmata digitalmente dalla medesima.
+9. La Peppol Authority comunicherà al Service Provider il superamento dei test e delle verifiche di interoperabilità, autorizzandolo alla richiesta dei certificati digitali per l'ambiente di **produzione**;
+10. La Peppol Authority trasmetterà al Service Provider la documentazione controfirmata digitalmente dalla medesima.
 
 Per i quesiti tecnici relativi ai test e alle verifiche di interoperabilità è possibile avvalersi del team di Assistenza Peppol, scrivendo all'indirizzo [assistenzaPEPPOL@agid.gov.it](mailto:assistenzaPEPPOL@agid.gov.it)
 

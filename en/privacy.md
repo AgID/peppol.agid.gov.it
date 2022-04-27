@@ -82,7 +82,7 @@ This website uses the following third-party services:
 -   [GitHub Pages](https://pages.github.com/) is a platform for the publication
     of static web pages generated from source code hosted on a GitHub
     repository. Please refer to the [privacy
-    policy](https://help.github.com/en/github/site-policy/github-privacy-statement)
+    policy](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement)
     for GitHub products for further details.
 
 -   [Google Search Console](https://search.google.com/search-console/about) is

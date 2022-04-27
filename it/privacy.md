@@ -87,7 +87,7 @@ Il sito utilizza i seguenti servizi di terze parti:
 -   [GitHub Pages](https://pages.github.com/): piattaforma per la pubblicazione
     di pagine web statiche generate da codice sorgente ospitato su repository
     GitHub. Consulta la [privacy
-    policy](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement.)
+    policy](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement)
     dei prodotti GitHub.
 
 -   [Google Search Console](https://search.google.com/search-console/about):

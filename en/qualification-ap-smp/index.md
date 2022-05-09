@@ -12,13 +12,13 @@ From January 1st to June 30th 2022, incoming Peppol service providers, who inten
 1. Follow the [mandatory registration procedure for the OpenPEPPOL association](https://peppol.eu/get-involved/join-openpeppol), specifying the role you want to take on: **Access Point (AP)** and/or **Service Metadata Publisher (SMP)**;
 2. Complete and digitally sign the following documents:
     - **Current TIA**:
-      - [AP Service Provider Agreement](/attachments/PEPPOL_Transport_Infrastructure_Agreement_in_Italy_AP_V_1_0.pdf) e/o [SMP Provider Agreement](/attachments/PEPPOL_Transport_Infrastructure_Agreement_in_Italy_SMP_V_1_0.pdf) o entrambe, a seconda di quanto comunicato ad OpenPEPPOL;
+      - [AP Service Provider Agreement](/attachments/PEPPOL_Transport_Infrastructure_Agreement_in_Italy_AP_V_1_0.pdf) e/o [SMP Provider Agreement](/attachments/PEPPOL_Transport_Infrastructure_Agreement_in_Italy_SMP_V_1_0.pdf) or both, depending on what is communicated to OpenPEPPOL;
       - [_Annex 1 - Contact Points_](/attachments/annex1-contatcpoints_0.pdf)
       - [_Annex 5 - Domain and its specific services and service levels_](/attachments/annex5-regionaldomain_rev5.pdf);
     - **New PEPPOL Service Provider Agreement**: 
       - [PEPPOL Service Provider Agreement](/attachments/PeppolServiceProviderAgreement_V_1_1.pdf)
       - [_Substitutive declaration of the certificate of registration with the Chamber of Commerce_](/attachments/dichirazione_rea_compilabile_rev201812.pdf).
-3. Inviare, via PEC, all'indirizzo [protocollo@pec.agid.gov.it](mailto:protocollo@pec.agid.gov.it), i suddetti documenti firmati oltre i seguenti:
+3.Send, via certified email, to the address [protocollo@pec.agid.gov.it](mailto:protocollo@pec.agid.gov.it), the aforementioned signed documents as well as the following:
     - [PEPPOL Transport Infrastructure Agreements Annex 2 – Definitions](/attachments/annex2-definitions.pdf)
     - [PEPPOL Transport Infrastructure Agreements Annex 3 – Services and service levels](/attachments/annex3-servicesandservicelevels.pdf)
     - [PEPPOL Transport Infrastructure Agreements Annex 4 – Technical standards](/attachments/annex4-technicalstandards.pdf)

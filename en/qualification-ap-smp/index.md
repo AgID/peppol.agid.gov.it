@@ -18,7 +18,7 @@ From January 1st to June 30th 2022, incoming Peppol service providers, who inten
     - **New PEPPOL Service Provider Agreement**: 
       - [PEPPOL Service Provider Agreement](/attachments/PeppolServiceProviderAgreement_V_1_1.pdf)
       - [_Substitutive declaration of the certificate of registration with the Chamber of Commerce_](/attachments/dichirazione_rea_compilabile_rev201812.pdf).
-3.Send, via certified email, to the address [protocollo@pec.agid.gov.it](mailto:protocollo@pec.agid.gov.it), the aforementioned signed documents as well as the following:
+3. Send, via certified email, to the address [protocollo@pec.agid.gov.it](mailto:protocollo@pec.agid.gov.it), the aforementioned signed documents as well as the following:
     - [PEPPOL Transport Infrastructure Agreements Annex 2 – Definitions](/attachments/annex2-definitions.pdf)
     - [PEPPOL Transport Infrastructure Agreements Annex 3 – Services and service levels](/attachments/annex3-servicesandservicelevels.pdf)
     - [PEPPOL Transport Infrastructure Agreements Annex 4 – Technical standards](/attachments/annex4-technicalstandards.pdf)

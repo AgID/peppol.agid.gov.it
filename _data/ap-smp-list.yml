@@ -35,6 +35,12 @@
   registered_office: Via Isonzo 19/E - 00198 Rome
   contact_point: Luca Mastrogregori
   contact_info: luca.mastrogregori@consip.it
+- business_name: Credemtel S.p.a 
+  ap: true
+  smp: true
+  registered_office: Via Togliatti 36/1 - 42020 Montecavolo di Quattro Castella (RE)
+  contact_point: Francesco Pedrielli
+  contact_info: francesco.pedrielli@credemtel.it
 - business_name: CST S.r.l.
   ap: true
   smp: false

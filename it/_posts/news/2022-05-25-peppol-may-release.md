@@ -16,6 +16,8 @@ Si comunica che sono pubblicati gli aggiornamenti relativi alla May Release 2022
  - [Documento di Trasporto](https://peppol-docs.agid.gov.it/docs/docs/ITA/others/guides/release-notes-it/30-despatchadvice/main.html)
  - [Fatturazione](https://peppol-docs.agid.gov.it/docs/docs/ITA/invoice/guide/release-notes-it/main.html)
 <!--more-->
+
+
 Il contenuto originale rilasciato da OpenPeppol relativo alla fatturazione è disponibile [qui](https://docs.peppol.eu/poacc/billing/3.0/release-notes/), mentre il contenuto originale rilasciato da OpenPeppol relativo agli altri processi è disponibile [qui](https://docs.peppol.eu/poacc/upgrade-3/release-notes/).
 Tali aggiornamenti avranno efficacia in via obbligatoria dal giorno **30 maggio 2022**.
 

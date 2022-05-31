@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://peppol.agid.gov.it/feed.xml" rel="self" type="application/atom+xml" /><link href="https://peppol.agid.gov.it/" rel="alternate" type="text/html" /><updated>2022-05-31T13:19:41+00:00</updated><id>https://peppol.agid.gov.it/feed.xml</id><title type="html">PEPPOL</title><entry xml:lang="it"><title type="html">Peppol May Release 2022</title><link href="https://peppol.agid.gov.it/it/news/peppol-may-release/" rel="alternate" type="text/html" title="Peppol May Release 2022" /><published>2022-05-25T00:00:00+00:00</published><updated>2022-05-25T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/it/news/peppol-may-release</id><content type="html" xml:base="https://peppol.agid.gov.it/it/news/peppol-may-release/">&lt;p&gt;Si comunica che sono pubblicati gli aggiornamenti relativi alla May Release 2022 di OpenPeppol, contenenti una serie di modifiche le cui release notes complete sono disponibili agli indirizzi:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://peppol.agid.gov.it/feed.xml" rel="self" type="application/atom+xml" /><link href="https://peppol.agid.gov.it/" rel="alternate" type="text/html" /><updated>2022-05-31T13:27:40+00:00</updated><id>https://peppol.agid.gov.it/feed.xml</id><title type="html">PEPPOL</title><entry xml:lang="it"><title type="html">Peppol May Release 2022</title><link href="https://peppol.agid.gov.it/it/news/peppol-may-release/" rel="alternate" type="text/html" title="Peppol May Release 2022" /><published>2022-05-25T00:00:00+00:00</published><updated>2022-05-25T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/it/news/peppol-may-release</id><content type="html" xml:base="https://peppol.agid.gov.it/it/news/peppol-may-release/">&lt;p&gt;Si comunica che sono pubblicati gli aggiornamenti relativi alla May Release 2022 di OpenPeppol, contenenti una serie di modifiche le cui release notes complete sono disponibili agli indirizzi:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/docs/ITA/others/guides/release-notes-it/3-order-only/main.html&quot;&gt;Ordinazione Semplice&lt;/a&gt;&lt;/li&gt;
@@ -6,10 +6,11 @@
   &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/docs/ITA/others/guides/release-notes-it/42-orderagreement/main.html&quot;&gt;Ordinazione Pre-concordata&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/docs/ITA/others/guides/release-notes-it/30-despatchadvice/main.html&quot;&gt;Documento di Trasporto&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/docs/ITA/invoice/guide/release-notes-it/main.html&quot;&gt;Fatturazione&lt;/a&gt;
-&lt;!--more--&gt;
-Il contenuto originale rilasciato da OpenPeppol relativo alla fatturazione è disponibile &lt;a href=&quot;https://docs.peppol.eu/poacc/billing/3.0/release-notes/&quot;&gt;qui&lt;/a&gt;, mentre il contenuto originale rilasciato da OpenPeppol relativo agli altri processi è disponibile &lt;a href=&quot;https://docs.peppol.eu/poacc/upgrade-3/release-notes/&quot;&gt;qui&lt;/a&gt;.
-Tali aggiornamenti avranno efficacia in via obbligatoria dal giorno &lt;strong&gt;30 maggio 2022&lt;/strong&gt;.&lt;/li&gt;
+&lt;!--more--&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;Il contenuto originale rilasciato da OpenPeppol relativo alla fatturazione è disponibile &lt;a href=&quot;https://docs.peppol.eu/poacc/billing/3.0/release-notes/&quot;&gt;qui&lt;/a&gt;, mentre il contenuto originale rilasciato da OpenPeppol relativo agli altri processi è disponibile &lt;a href=&quot;https://docs.peppol.eu/poacc/upgrade-3/release-notes/&quot;&gt;qui&lt;/a&gt;.
+Tali aggiornamenti avranno efficacia in via obbligatoria dal giorno &lt;strong&gt;30 maggio 2022&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;p&gt;Di seguito si riportano i cambiamenti effettuati:&lt;/p&gt;
 &lt;ul&gt;

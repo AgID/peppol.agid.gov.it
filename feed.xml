@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://peppol.agid.gov.it/feed.xml" rel="self" type="application/atom+xml" /><link href="https://peppol.agid.gov.it/" rel="alternate" type="text/html" /><updated>2022-05-13T12:54:59+00:00</updated><id>https://peppol.agid.gov.it/feed.xml</id><title type="html">PEPPOL</title><entry xml:lang="en"><title type="html">Italian Peppol BIS 3 Billing specifications</title><link href="https://peppol.agid.gov.it/en/news/peppol-bis-specifications/" rel="alternate" type="text/html" title="Italian Peppol BIS 3 Billing specifications" /><published>2022-04-26T00:00:00+00:00</published><updated>2022-04-26T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/en/news/peppol-bis-specifications</id><content type="html" xml:base="https://peppol.agid.gov.it/en/news/peppol-bis-specifications/">&lt;p&gt;The &lt;a href=&quot;https://notier.regione.emilia-romagna.it/docs/my_index_fatt.jsp&quot;&gt;Italian Peppol BIS 3 specifications&lt;/a&gt; for electronic invoicing are published in compliance with version 2.1 of the Technical Rules relating to the management of invoices pursuant to art. 3, paragraph 1, Legislative Decree 148/2018 of the Revenue Agency in force from 1 April 2022.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://peppol.agid.gov.it/feed.xml" rel="self" type="application/atom+xml" /><link href="https://peppol.agid.gov.it/" rel="alternate" type="text/html" /><updated>2022-05-31T13:19:41+00:00</updated><id>https://peppol.agid.gov.it/feed.xml</id><title type="html">PEPPOL</title><entry xml:lang="it"><title type="html">Peppol May Release 2022</title><link href="https://peppol.agid.gov.it/it/news/peppol-may-release/" rel="alternate" type="text/html" title="Peppol May Release 2022" /><published>2022-05-25T00:00:00+00:00</published><updated>2022-05-25T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/it/news/peppol-may-release</id><content type="html" xml:base="https://peppol.agid.gov.it/it/news/peppol-may-release/">&lt;p&gt;Si comunica che sono pubblicati gli aggiornamenti relativi alla May Release 2022 di OpenPeppol, contenenti una serie di modifiche le cui release notes complete sono disponibili agli indirizzi:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/docs/ITA/others/guides/release-notes-it/3-order-only/main.html&quot;&gt;Ordinazione Semplice&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/docs/ITA/others/guides/release-notes-it/28-ordering/main.html&quot;&gt;Ordinazione Completa&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/docs/ITA/others/guides/release-notes-it/42-orderagreement/main.html&quot;&gt;Ordinazione Pre-concordata&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/docs/ITA/others/guides/release-notes-it/30-despatchadvice/main.html&quot;&gt;Documento di Trasporto&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/docs/ITA/invoice/guide/release-notes-it/main.html&quot;&gt;Fatturazione&lt;/a&gt;
+&lt;!--more--&gt;
+Il contenuto originale rilasciato da OpenPeppol relativo alla fatturazione è disponibile &lt;a href=&quot;https://docs.peppol.eu/poacc/billing/3.0/release-notes/&quot;&gt;qui&lt;/a&gt;, mentre il contenuto originale rilasciato da OpenPeppol relativo agli altri processi è disponibile &lt;a href=&quot;https://docs.peppol.eu/poacc/upgrade-3/release-notes/&quot;&gt;qui&lt;/a&gt;.
+Tali aggiornamenti avranno efficacia in via obbligatoria dal giorno &lt;strong&gt;30 maggio 2022&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Di seguito si riportano i cambiamenti effettuati:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Cambiamenti alla specifica (Documentazione)&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Corretto un errore che provocava la comparsa di errori in sede di caricamento/utilizzo di file di schematron in alcuni convertitori/tool di file XLS;&lt;/li&gt;
+      &lt;li&gt;Modificata da “warning” a “fatal” la severità della regola PEPPOL-COMMON-R043 (ICD 0208) relativa alla validazione del formato del “Belgian organisation numbers”, come annunciato nella Fall release 2021;&lt;/li&gt;
+      &lt;li&gt;Aggiunta una regola con severità “warning” per la validazione del formato del “Swedish organisation numbers” (ICD/EAS 0007). La severità passerà a “fatal” con la Fall release 2022;&lt;/li&gt;
+      &lt;li&gt;Corretta la regola PEPPOL-EN16931-R080 che deve attivarsi solo per la Nota di credito e non per la Fattura;&lt;/li&gt;
+      &lt;li&gt;Aggiunti i codici 0214, 0215 e 0216 alla codifica ICD e adeguati gli artefatti di validazione;&lt;/li&gt;
+      &lt;li&gt;Aggiunti i codici 0147, 0170, 0188, 0215 e 0216 alla codifica EAS e adeguati gli artefatti di validazione;&lt;/li&gt;
+      &lt;li&gt;Corretta la ripetizione del codice TSP presente nella codifica UNCL7143.&lt;/li&gt;
+      &lt;li&gt;Inseriti i codici tipo fattura aggiuntivi 71, 102, 218, 219, 331, 382, 553, 817, 870, 875, 876 e 877, in linea con l’aggiornamento effettuato dal 
+  TC434/EC-DIGITAL. Aggiunta all’interno della sezione Documentazione l’indicazione che questi codici tipo fattura addizionali possono essere trattati come sinonimi del codice 380 e quindi non richiedono una modifica nell’elaborazione;&lt;/li&gt;
+      &lt;li&gt;Inserito il codice tipo fattura 0388. Aggiunta all’interno della sezione Documentazione l’indicazione che questo codice tipo fattura può essere trattato come sinonimo del codice 380 e quindi non richiede una modifica nell’elaborazione.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Cambiamenti alle code lists e artefatti di validazione – Altri processi (ordine, ordine con risposta, ordine pre-concordato e documento di trasporto)&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Aggiunta una regola con severità “warning” per la validazione del formato del “Swedish organisation numbers” (ICD/EAS 0007). La severità passerà a “fatal” con la Fall release 2022;&lt;/li&gt;
+      &lt;li&gt;Corretto un errore che provocava la comparsa di errori in sede di caricamento/utilizzo di file di schematron in alcuni convertitori/tool di file XLS;&lt;/li&gt;
+      &lt;li&gt;Modificata da “warning” a “fatal” la severità della regola PEPPOL-COMMON-R043 (ICD 0208) relativa alla validazione del formato del “Belgian organisation numbers”, come annunciato nella Fall release 2021;&lt;/li&gt;
+      &lt;li&gt;Corretta la regola PEPPOL-T77-R001 che veniva erroneamente ignorata in casi di omissione dell’indicazione del periodo di validità;&lt;/li&gt;
+      &lt;li&gt;Aggiunta una regola con severità “warning” per la validazione del formato del “Australian ABN” (ICD/EAS 0151). La severità passerà a “fatal” con la Fall release  2022;&lt;/li&gt;
+      &lt;li&gt;Aggiunti i codici 0214, 0215 e 0216 alla codifica ICD e adeguati gli artefatti di validazione;&lt;/li&gt;
+      &lt;li&gt;Aggiunti i codici 0147, 0170, 0188, 0215 e 0216 alla codifica EAS e adeguati gli artefatti di validazione;&lt;/li&gt;
+      &lt;li&gt;Rimozione della ripetizione del codice TSP dalla codifica UNCL7143.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="it" /><category term="news" /><summary type="html">Si comunica che sono pubblicati gli aggiornamenti relativi alla May Release 2022 di OpenPeppol, contenenti una serie di modifiche le cui release notes complete sono disponibili agli indirizzi: Ordinazione Semplice Ordinazione Completa Ordinazione Pre-concordata Documento di Trasporto Fatturazione</summary></entry><entry xml:lang="en"><title type="html">Italian Peppol BIS 3 Billing specifications</title><link href="https://peppol.agid.gov.it/en/news/peppol-bis-specifications/" rel="alternate" type="text/html" title="Italian Peppol BIS 3 Billing specifications" /><published>2022-04-26T00:00:00+00:00</published><updated>2022-04-26T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/en/news/peppol-bis-specifications</id><content type="html" xml:base="https://peppol.agid.gov.it/en/news/peppol-bis-specifications/">&lt;p&gt;The &lt;a href=&quot;https://notier.regione.emilia-romagna.it/docs/my_index_fatt.jsp&quot;&gt;Italian Peppol BIS 3 specifications&lt;/a&gt; for electronic invoicing are published in compliance with version 2.1 of the Technical Rules relating to the management of invoices pursuant to art. 3, paragraph 1, Legislative Decree 148/2018 of the Revenue Agency in force from 1 April 2022.&lt;/p&gt;
 
 &lt;p&gt;The new version of the Technical Rules is the result of the collaboration between the Revenue Agency and AgID with the contribution of UNINFO experts and aims to make the use of the European invoice fully consistent with the needs of the Italian context. The Peppol BIS 3 specifications for Italy allow the native use of the international standard OASIS Universal Business Language (UBL) for the invoicing process in the cross-border and domestic context, in compliance with national obligations regarding the transmission of invoices to the Exchange System (SDI) of the Revenue Agency.
 &lt;!--more--&gt;
@@ -80,60 +121,4 @@ degli acquisti pubblici e comprendere il ruolo di PEPPOL nella trasformazione di
 
 &lt;p&gt;La partecipazione al webinar è gratuita, previa iscrizione da effettuarsi compilando l’apposito &lt;a href=&quot;https://applicazioni.regione.emilia-romagna.it/IscrizioneConvegni/Iscrizione.aspx?6z%2bN8MruZcSn1eAbpPuVPPehhNhAMNuu&amp;amp;Lang=IT&quot;&gt;modulo di registrazione&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Prima dell’evento gli iscritti riceveranno via email le indicazioni per partecipare.&lt;/p&gt;</content><author><name></name></author><category term="it" /><category term="news" /><summary type="html">Nell’ambito degli incontri previsti dal progetto “Centro di competenze” di Intercent-ER, al primo appuntamento dedicato al tema: “Ordinazione e fatturazione elettronica nella P.A.: impatti e scenari d’uso degli standard europei”, interverrà l’Agenzia per l’Italia Digitale per fornire il quadro di riferimento nazionale nel settore degli acquisti pubblici e comprendere il ruolo di PEPPOL nella trasformazione digitale del procurement pubblico.</summary></entry><entry xml:lang="it"><title type="html">Peppol Fall Release 2021</title><link href="https://peppol.agid.gov.it/it/news/peppol-fall-release-2021/" rel="alternate" type="text/html" title="Peppol Fall Release 2021" /><published>2021-11-09T00:00:00+00:00</published><updated>2021-11-09T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/it/news/peppol-fall-release-2021</id><content type="html" xml:base="https://peppol.agid.gov.it/it/news/peppol-fall-release-2021/">&lt;p&gt;Si comunica che sono stati pubblicati gli aggiornamenti relativi alla 
-Fall Release 2021 di OpenPeppol, contenenti una serie di modifiche le 
-cui release notes complete sono disponibili agli indirizzi:&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/docs/ITA/others/guides/release-notes-it/3-order-only/main.html&quot;&gt;Ordinazione Semplice&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/docs/ITA/others/guides/release-notes-it/28-ordering/main.html&quot;&gt;Ordinazione Completa&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/docs/ITA/others/guides/release-notes-it/42-orderagreement/main.html&quot;&gt;Ordinazione Pre-concordata&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/docs/ITA/others/guides/release-notes-it/30-despatchadvice/main.html&quot;&gt;Documento di Trasporto&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Il contenuto originale rilasciato da OpenPeppol è disponibile &lt;a href=&quot;https://docs.peppol.eu/poacc/upgrade-3/release-notes/&quot;&gt;qui&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Tali aggiornamenti avranno efficacia in via obbligatoria dal &lt;strong&gt;giorno 15 novembre 2021&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Di seguito si riportano i cambiamenti effettuati:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Cambiamenti alla specifica (Documentazione)&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;BIS Ordinazione Semplice – Aggiornamento editoriale al paragrafo “6.10 Totale imposte”;&lt;/li&gt;
-      &lt;li&gt;BIS Ordinazione Semplice, Ordinazione Completa, Ordinazione Pre-concordata – Aggiornamento 
- editoriale sulla descrizione dell’utilizzo della tassazione a livello di riga, paragrafo “6.11 
- Categoria imposte su riga”.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Cambiamenti alla sintassi&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Risposta all’ordine – Aggiornamento editoriale al cac:Party del cac:SellerSupplierParty, ora 
- obbligatorio (1..1) invece di opzionale (0..1);&lt;/li&gt;
-      &lt;li&gt;Ordine - Correzione della duplicazione dei “tir identifiers” dei campi presenti nei 
- cac:PartyLegalEntity di cac:BuyerCustomerParty e cac:SellerSupplierParty. Assegnati 
- nuovi ID per le informazioni contenute nel cac:PartyLegalEntity del Seller, utilizzando valori 
- che vanno da tir01-p038 fino a tir01-p041.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Cambiamenti alle code lists e artefatti di validazione – Tutti i profili (ordine, ordine con risposta, ordine pre-concordato e documento di trasporto)&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Aggiunta una regola con severità “warning” (non bloccante)  per la validazione del formato 
- del “Belgian organisation numbers” (ICD:0208). La severità passerà a “fatal” con la Spring release 2022;&lt;/li&gt;
-      &lt;li&gt;Aggiunte delle regole con severità “warning” (non bloccante) per la validazione dei formati degli 
- identifier italani (ICD/EAS:0201, 0210, 0211 and EAS 9906 and 9907). La severità passerà a “fatal” con 
- la Spring release 2022;&lt;/li&gt;
-      &lt;li&gt;Aggiunti i codici relativi alle unità di trasporto (tir16-085) e alla tipologia di confezionamento (tir16-090) 
- per allineamento ai codici della lista CEF. (O1, O2, O3, O4, O5, O6, O7, O8, O9, OG, OH, OI, OJ, OL, OM, ON, OP, 
- OQ, OR, OS, OV, OW, OX, OY, OZ, P1, P3, P4, SX);&lt;/li&gt;
-      &lt;li&gt;Aggiunti i codici UOM (Unit of Measure) IUG, KWN, KWS, ODG, ODK, ODM, Q41, Q42, XZZ per allineamento ai codici 
- della lista CEF.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Se evidenzia che con la presente release &lt;strong&gt;vengono introdotte anche, negli schematron di OpenPeppol, le regole relative&lt;/strong&gt; 
-&lt;strong&gt;alla validazione dei codici 0201 (Codice IPA), 0210 (Codice Fiscale) e 0211 (Partita IVA)&lt;/strong&gt; già presenti negli schematron 
-di rilevanza nazionale con severità “fatal”, pertanto l’introduzione di tali regole non ha nessun impatto operativo.&lt;/p&gt;
-
-&lt;p&gt;Si avvisa infine che le modifiche descritte impattano sui controlli e sulle logiche implementate dal tool di validazione,
-&lt;strong&gt;vi invitiamo pertanto a scaricare la versione aggiornata&lt;/strong&gt;.&lt;/p&gt;</content><author><name></name></author><category term="it" /><category term="news" /><summary type="html">Si comunica che sono stati pubblicati gli aggiornamenti relativi alla Fall Release 2021 di OpenPeppol, contenenti una serie di modifiche le cui release notes complete sono disponibili agli indirizzi:</summary></entry></feed>
+&lt;p&gt;Prima dell’evento gli iscritti riceveranno via email le indicazioni per partecipare.&lt;/p&gt;</content><author><name></name></author><category term="it" /><category term="news" /><summary type="html">Nell’ambito degli incontri previsti dal progetto “Centro di competenze” di Intercent-ER, al primo appuntamento dedicato al tema: “Ordinazione e fatturazione elettronica nella P.A.: impatti e scenari d’uso degli standard europei”, interverrà l’Agenzia per l’Italia Digitale per fornire il quadro di riferimento nazionale nel settore degli acquisti pubblici e comprendere il ruolo di PEPPOL nella trasformazione digitale del procurement pubblico.</summary></entry></feed>

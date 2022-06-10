@@ -30,7 +30,7 @@ Procedura da seguire dal 1° gennaio al 30 giugno 2022:
 4. NOTA BENE - la PEC deve avere, obbligatoriamente, il seguente oggetto: 
 > _[PEPPOL] richiesta di \*nomeSocietà\* per sottoscrizione accordo PEPPOL_
 5. La Peppol Authority scriverà al contatto specificato nell'Annex 1 (al paragrafo 4.5), comunicandogli l'esito della verifica della documentazione;
-6. Il Service Provider potrà quindi compilare il [form](https://openpeppol.atlassian.net/servicedesk/customer/portal/1/create/13) per richiedere il rilascio dei certificati digitali per lo svolgimento dei **test** ;
+6. Il Service Provider potrà quindi compilare il [form](https://openpeppol.atlassian.net/servicedesk/customer/portal/1/create/13) per richiedere il rilascio dei certificati digitali per lo svolgimento dei **test**;
 7. La Peppol Authority autorizzerà il rilascio dei suddetti certificati di test;
 8. Il Service Provider dovrà eseguire i test e verifiche di interoperabilità secondo le seguenti FASI sequenziali:
     - **FASE 1**: seguire le indicazioni presenti nella sezione *Test and Onboarding* del sito [https://peppol.eu/support/](https://peppol.eu/support/)

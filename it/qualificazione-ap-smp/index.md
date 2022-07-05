@@ -24,11 +24,12 @@ Procedura da seguire per sottoscrivere il Peppol Service Provider Agreement:
 9. La Peppol Authority trasmetterà al Service Provider la documentazione controfirmata digitalmente dalla medesima.
 
 **NOTA BENE**
-Ai fini della corretta compilazione dell’Agreement si precisa quanto segue:
- - in prima pagina sono riportati 3 campi da compilare (Name of organization, Legal identifier e Registry) dove inserire rispettivamente: nome della società,   Codice fiscale/PIVA  e numero d'iscrizione al Registro Imprese;
- - a pagina 23 (pag. 24 del PDF) va compilato il campo “Company identifier assigned by official registration authority con il codice fiscale/PIVA;
- - i possibili domini da elencare nella sezione Annex 4 a pag. 25  sono individuati tra quelli della lista a pag. 20 "Peppol Service Domain coverage of the Peppol Authority" del documento stesso. I possibili domini: Post–award Procurement  e/o Addressing and capability look-up;
- - firmare digitalmente il Peppol Service Provider Agreement  in tutti i campi Signature (pagine 2, 19 ,20 ,24 e 25).
+ 
+ Ai fini della corretta compilazione dell’Agreement si precisa quanto segue:
+   - in prima pagina sono riportati 3 campi da compilare (Name of organization, Legal identifier e Registry) dove inserire rispettivamente: nome della società,   Codice fiscale/PIVA  e numero d'iscrizione al Registro Imprese;
+   - a pagina 23 (pag. 24 del PDF) va compilato il campo “Company identifier assigned by official registration authority con il codice fiscale/PIVA;
+   - i possibili domini da elencare nella sezione Annex 4 a pag. 25  sono individuati tra quelli della lista a pag. 20 "Peppol Service Domain coverage of the Peppol Authority" del documento stesso. I possibili domini: Post–award Procurement  e/o Addressing and capability look-up;
+   - firmare digitalmente il Peppol Service Provider Agreement  in tutti i campi Signature (pagine 2, 19, 20, 24 e 25).
  
 Per i quesiti tecnici relativi ai test e alle verifiche di interoperabilità è possibile avvalersi del team di Assistenza Peppol, scrivendo all'indirizzo [assistenzaPEPPOL@agid.gov.it](mailto:assistenzaPEPPOL@agid.gov.it)
 

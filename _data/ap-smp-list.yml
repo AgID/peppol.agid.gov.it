@@ -137,6 +137,12 @@
   registered_office: via Roma 149, 09124, Cagliari (CA)
   contact_point: Romano Fischetti
   contact_info: amministrazione@maxtrino.com
+- business_name: Nexi Payments S.p.A.
+  ap: true
+  smp: true
+  registered_office: Corso Sempione 55 - 20149 Milano (MI)
+  contact_point: Christian Vetrano
+  contact_info: christian.vetrano@nexigroup.com
 - business_name: Next S.r.l.
   ap: true
   smp: true

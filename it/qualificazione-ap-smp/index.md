@@ -7,37 +7,29 @@ ref: qualificazione-ap-smp
 order: 1
 ---
 
-Dal 1° gennaio al 30 giugno 2022, i fornitori di servizi Peppol in entrata, che intendono avviare i servizi prima del 30 giugno p.v., dovranno sottoscrivere l'attuale Transport Infrastructure Agreements (TIA) ed i relativi allegati con la clausola di validità fino al 30 giugno 2022, nonché il nuovo Peppol Service Provider Agreement.
-
-Dal 1° luglio 2022 sarà sufficiente sottoscrivere il nuovo Peppol Service Provider Agreement.
-
-Procedura da seguire dal 1° gennaio al 30 giugno 2022:
+Procedura da seguire per sottoscrivere il Peppol Service Provider Agreement:
 
 1. Eseguire l'[iscrizione obbligatoria all'associazione OpenPEPPOL](https://peppol.eu/get-involved/join-openpeppol), specificando il ruolo che si vuole assumere: **Access Point (AP)** e/o **Service Metadata Publisher (SMP)**;
-2. Compilare e firmare digitalmente i seguenti documenti:
-    - **Attuale TIA**:
-      - [AP Service Provider Agreement](/attachments/PEPPOL_Transport_Infrastructure_Agreement_in_Italy_AP_V_1_0.pdf) e/o [SMP Provider Agreement](/attachments/PEPPOL_Transport_Infrastructure_Agreement_in_Italy_SMP_V_1_0.pdf) o entrambe, a seconda di quanto comunicato ad OpenPEPPOL;
-      - [_Annex 1 - Contact Points_](/attachments/annex1-contatcpoints_0.pdf)
-      - [_Annex 5 - Domain and its specific services and service levels_](/attachments/annex5-regionaldomain_rev5.pdf);
-    - **Nuovo PEPPOL Service Provider Agreement**: 
+2. Compilare e **firmare digitalmente** i seguenti documenti:
       - [PEPPOL Service Provider Agreement](/attachments/PeppolServiceProviderAgreement_V_1_1.pdf)
       - [_Dichiarazione sostitutiva del certificato di iscrizione alla CCIAA_](/attachments/dichirazione_rea_compilabile_rev201812.pdf).
-3. Inviare, via PEC, all'indirizzo [protocollo@pec.agid.gov.it](mailto:protocollo@pec.agid.gov.it), i suddetti documenti firmati oltre i seguenti:
-    - [PEPPOL Transport Infrastructure Agreements Annex 2 – Definitions](/attachments/annex2-definitions.pdf)
-    - [PEPPOL Transport Infrastructure Agreements Annex 3 – Services and service levels](/attachments/annex3-servicesandservicelevels.pdf)
-    - [PEPPOL Transport Infrastructure Agreements Annex 4 – Technical standards](/attachments/annex4-technicalstandards.pdf)
-    - [PEPPOL Transport Infrastructure Agreements Annex 6 – Change procedure](/attachments/annex6-changeprocedure.pdf)
-4. NOTA BENE - la PEC deve avere, obbligatoriamente, il seguente oggetto: 
-> _[PEPPOL] richiesta di \*nomeSocietà\* per sottoscrizione accordo PEPPOL_
-5. La Peppol Authority scriverà al contatto specificato nell'Annex 1 (al paragrafo 4.5), comunicandogli l'esito della verifica della documentazione;
-6. Il Service Provider potrà quindi compilare il [form](https://openpeppol.atlassian.net/servicedesk/customer/portal/1/create/13) per richiedere il rilascio dei certificati digitali per lo svolgimento dei **test**;
-7. La Peppol Authority autorizzerà il rilascio dei suddetti certificati di test;
-8. Il Service Provider dovrà eseguire i test e verifiche di interoperabilità secondo le seguenti FASI sequenziali:
+3. Inviare via PEC, i documenti di cui al punto precedente, debitamente firmati all'indirizzo [protocollo@pec.agid.gov.it](mailto:protocollo@pec.agid.gov.it) specificando l'oggetto come segue: _[PEPPOL] richiesta di \*nomeSocietà\* per sottoscrizione accordo PEPPOL_
+4. La Peppol Authority scriverà al contatto specificato nella sezione Annex 3 pag. 23 dell’Agreement comunicandogli l’esito della verifica della documentazione;
+5. Il Service Provider potrà quindi compilare il [form](https://openpeppol.atlassian.net/servicedesk/customer/portal/1/create/13) per richiedere il rilascio dei certificati digitali per lo svolgimento dei **test**;
+6. La Peppol Authority autorizzerà il rilascio dei suddetti certificati di test;
+7. Il Service Provider dovrà eseguire i test e verifiche di interoperabilità secondo le seguenti FASI sequenziali:
     - **FASE 1**: seguire le indicazioni presenti nella sezione *Test and Onboarding* del sito [https://peppol.eu/support/](https://peppol.eu/support/)
     - **FASE 2**: dopo il superamento della FASE1, seguire le indicazione contenute nel [manuale utente della Piattaforma di Onboarding](https://peppol-onboarding.agid.gov.it/manuale_utente) per accedere alla <a href="https://peppol-onboarding.agid.gov.it/piattaforma-onboarding/" data-proofer-ignore>piattaforma</a> ed eseguire i test richiesti per il processo di accreditamento degli Access Point Peppol;
-9. Una volta completata con successo la sessione di test e inviato alla Peppol Authority il documento contenente l’esito dei test attraverso la <a href="https://peppol-onboarding.agid.gov.it/piattaforma-onboarding/" data-proofer-ignore>Piattaforma di Onboarding</a>, la Peppol Authority autorizzerà l’emissione dei certificati digitali per l’ambiente di produzione;
-10. La Peppol Authority trasmetterà al Service Provider la documentazione controfirmata digitalmente dalla medesima.
+8. Una volta completata con successo la sessione di test e inviato alla Peppol Authority il documento contenente l’esito dei test attraverso la <a href="https://peppol-onboarding.agid.gov.it/piattaforma-onboarding/" data-proofer-ignore>Piattaforma di Onboarding</a>, la Peppol Authority autorizzerà l’emissione dei certificati digitali per l’ambiente di produzione;
+9. La Peppol Authority trasmetterà al Service Provider la documentazione controfirmata digitalmente dalla medesima.
 
+**NOTA BENE**
+Ai fini della corretta compilazione dell’Agreement si precisa quanto segue:
+ - in prima pagina sono riportati 3 campi da compilare (Name of organization, Legal identifier e Registry) dove inserire rispettivamente: nome della società,   Codice fiscale/PIVA  e numero d'iscrizione al Registro Imprese;
+ - a pagina 23 (pag. 24 del PDF) va compilato il campo “Company identifier assigned by official registration authority con il codice fiscale/PIVA;
+ - i possibili domini da elencare nella sezione Annex 4 a pag. 25  sono individuati tra quelli della lista a pag. 20 "Peppol Service Domain coverage of the Peppol Authority" del documento stesso. I possibili domini: Post–award Procurement  e/o Addressing and capability look-up;
+ - firmare digitalmente il Peppol Service Provider Agreement  in tutti i campi Signature (pagine 2, 19 ,20 ,24 e 25).
+ 
 Per i quesiti tecnici relativi ai test e alle verifiche di interoperabilità è possibile avvalersi del team di Assistenza Peppol, scrivendo all'indirizzo [assistenzaPEPPOL@agid.gov.it](mailto:assistenzaPEPPOL@agid.gov.it)
 
 ### Documenti allegati

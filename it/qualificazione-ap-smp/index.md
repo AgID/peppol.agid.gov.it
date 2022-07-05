@@ -19,7 +19,7 @@ Procedura da seguire per sottoscrivere il Peppol Service Provider Agreement:
 6. La Peppol Authority autorizzerà il rilascio dei suddetti certificati di test;
 7. Il Service Provider dovrà eseguire i test e verifiche di interoperabilità secondo le seguenti FASI sequenziali:
     - **FASE 1**: seguire le indicazioni presenti nella sezione *Test and Onboarding* del sito [https://peppol.eu/support/](https://peppol.eu/support/)
-    - **FASE 2**: dopo il superamento della FASE1, seguire le indicazione contenute nel [manuale utente della Piattaforma di Onboarding](https://peppol-onboarding.agid.gov.it/manuale_utente) per accedere alla <a href="https://peppol-onboarding.agid.gov.it/piattaforma-onboarding/" data-proofer-ignore>piattaforma</a> ed eseguire i test richiesti per il processo di accreditamento degli Access Point Peppol;
+    - **FASE 2**: dopo il superamento della FASE1, seguire le indicazione contenute nel <a href="https://peppol-onboarding.agid.gov.it/manuale_utente/" data-proofer-ignore>manuale utente della Piattaforma di Onboarding</a> per accedere alla <a href="https://peppol-onboarding.agid.gov.it/piattaforma-onboarding/" data-proofer-ignore>piattaforma</a> ed eseguire i test richiesti per il processo di accreditamento degli Access Point Peppol;
 8. Una volta completata con successo la sessione di test e inviato alla Peppol Authority il documento contenente l’esito dei test attraverso la <a href="https://peppol-onboarding.agid.gov.it/piattaforma-onboarding/" data-proofer-ignore>Piattaforma di Onboarding</a>, la Peppol Authority autorizzerà l’emissione dei certificati digitali per l’ambiente di produzione;
 9. La Peppol Authority trasmetterà al Service Provider la documentazione controfirmata digitalmente dalla medesima.
 

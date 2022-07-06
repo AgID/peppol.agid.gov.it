@@ -19,7 +19,7 @@ Procedura da seguire per sottoscrivere il Peppol Service Provider Agreement:
 6. La Peppol Authority autorizzerà il rilascio dei suddetti certificati di test;
 7. Il Service Provider dovrà eseguire i test e verifiche di interoperabilità secondo le seguenti FASI sequenziali:
     - **FASE 1**: qualificazione dei servizi base secondo le indicazioni presenti nella sezione *Test and Onboarding* del sito [https://peppol.eu/support/](https://peppol.eu/support/)
-    - **FASE 2**: dopo il superamento della FASE1, qualificazione dei servizi richiesti per il contesto italiano attraverso i test da eseguire sulla <a href="https://peppol-onboarding.agid.gov.it/piattaforma-onboarding/" data-proofer-ignore>Piattaforma di Onboarding</a> per il processo di accreditamento degli Access Point afferenti alla Peppol Authority AGID. Il processo viene descritto nel <a href="https://peppol-onboarding.agid.gov.it/manuale_utente/" data-proofer-ignore>manuale utente della Piattaforma di Onboarding</a>;
+    - **FASE 2**: dopo il superamento della FASE1, qualificazione dei servizi richiesti per il contesto italiano attraverso i test da eseguire sulla <a href="https://peppol-onboarding.agid.gov.it/piattaforma-onboarding/" data-proofer-ignore>Piattaforma di Onboarding</a> per il processo di accreditamento degli Access Point afferenti alla Peppol Authority AGID. Il processo viene descritto nel [manuale utente della Piattaforma di Onboarding](https://peppol-docs.agid.gov.it/manuali_utente/onboarding);
 8. Una volta completata con successo la sessione di test e inviato alla Peppol Authority il documento contenente l’esito dei test attraverso la <a href="https://peppol-onboarding.agid.gov.it/piattaforma-onboarding/" data-proofer-ignore>Piattaforma di Onboarding</a>, la Peppol Authority autorizzerà l’emissione dei certificati digitali per l’ambiente di produzione;
 9. La Peppol Authority trasmetterà al Service Provider la documentazione controfirmata digitalmente dalla medesima.
 
@@ -35,24 +35,5 @@ Per i quesiti tecnici relativi ai test e alle verifiche di interoperabilità è 
 
 ### Documenti allegati
 
-- [PEPPOL Transport Infrastructure Agreements Annex 1 – Contact Points](/attachments/annex1-contatcpoints_0.pdf)
-- [PEPPOL Transport Infrastructure Agreements Annex 2 – Definitions](/attachments/annex2-definitions.pdf)
-- [PEPPOL Transport Infrastructure Agreements Annex 3 – Services and service levels](/attachments/annex3-servicesandservicelevels.pdf)
-- [PEPPOL Transport Infrastructure Agreements Annex 4 – Technical standards](/attachments/annex4-technicalstandards.pdf)
-- [PEPPOL Transport Infrastructure Agreements Annex 5 – Domain and its specific services and service levels](/attachments/annex5-regionaldomain_rev5.pdf)
-- [PEPPOL Transport Infrastructure Agreements Annex 6 – Change procedure](/attachments/annex6-changeprocedure.pdf)
-- [Checklist italiana per l'onboarding AP Peppol](/attachments/APTest_Checklist_3.1.0_IT.docx)
-- [Dichiarazione sostitutiva del certificato di iscrizione alla CCIAA](/attachments/dichirazione_rea_compilabile_rev201812.pdf)
-- [PEPPOL Transport Infrastructure Agreements in Italy Terms and conditions for the provision of PEPPOL Access Point Services in the Italian market](/attachments/PEPPOL_Transport_Infrastructure_Agreement_in_Italy_AP_V_1_0.pdf)
-- [PEPPOL Transport Infrastructure Agreements in Italy Terms and conditions for the provision of PEPPOL SMP Services in the Italian market](/attachments/PEPPOL_Transport_Infrastructure_Agreement_in_Italy_SMP_V_1_0.pdf)
 - [PEPPOL Service Provider Agreement](/attachments/PeppolServiceProviderAgreement_V_1_1.pdf)
-
-### Documenti di supporto alla lettura (esclusivo uso di consultazione)
-- [Supporto alla lettura del documento: PEPPOL Transport Infrastructure Agreements Annex 1 - Contact Points](/attachments/support_annex1-contactpoints_en-it_0.pdf)
-- [Supporto alla lettura del documento: PEPPOL Transport Infrastructure Agreements Annex 2 - Definitions](/attachments/support_annex2-definitions_en-it.pdf)
-- [Supporto alla lettura del documento: PEPPOL Transport Infrastructure Agreements Annex 3 – Services and service levels](/attachments/support_annex3-servicesandservicelevels_en-it.pdf)
-- [Supporto alla lettura del documento: PEPPOL Transport Infrastructure Agreements Annex 4 – Technical standards](/attachments/support_annex4-technicalstandards_en-it.pdf)
-- [Supporto alla lettura del documento: PEPPOL Transport Infrastructure Agreements Annex 5 – Domain and its specific services and service levels](/attachments/support_annex5-regionaldomain_en-it.pdf)
-- [Supporto alla lettura del documento: PEPPOL Transport Infrastructure Agreements Annex 6 – Change procedure](/attachments/support_annex6-changeprocedure_en-it.pdf)
-- [Supporto alla lettura del documento: PEPPOL Transport Infrastructure Agreements in Italy Terms and conditions for the provision of PEPPOL Access Point Services in the Italian market](/attachments/support_peppol_ap_service_provider_agreement_in_italy_en-it.pdf)
-- [Supporto alla lettura del documento: PEPPOL Transport Infrastructure Agreements in Italy Terms and conditions for the provision of PEPPOL SMP Services in the Italian market](/attachments/support_peppol_smp_provider_agreement_en-it.pdf)
+- [Dichiarazione sostitutiva del certificato di iscrizione alla CCIAA](/attachments/dichirazione_rea_compilabile_rev201812.pdf)

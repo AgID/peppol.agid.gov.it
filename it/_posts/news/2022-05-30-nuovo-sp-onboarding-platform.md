@@ -12,4 +12,4 @@ Si comunica che la Peppol Authority ha aggiornato il processo di qualificazione 
  
 Il nuovo processo prevede che le fasi di test e di verifiche di interoperabilità richieste per il processo di accreditamento degli Access Point Peppol siano svolte autonomamente dal Service Provider attraverso l’utilizzo della nuova <a href="https://peppol-onboarding.agid.gov.it/piattaforma-onboarding/" data-proofer-ignore>Piattaforma di Onboarding</a>, messa a disposizione in data 30/05/2022.
 <!--more-->
-Le indicazioni di utilizzo della Piattaforma di Onboarding e di esecuzione delle sessioni di test sono contenute nel relativo Manuale, disponibile al presente <a href="https://peppol-onboarding.agid.gov.it/manuale_utente/" data-proofer-ignore>link</a>.
+Le indicazioni di utilizzo della Piattaforma di Onboarding e di esecuzione delle sessioni di test sono contenute nel relativo Manuale, disponibile al presente [link](https://peppol-docs.agid.gov.it/manuali_utente/onboarding).

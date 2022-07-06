@@ -37,3 +37,4 @@ Per i quesiti tecnici relativi ai test e alle verifiche di interoperabilità è 
 
 - [PEPPOL Service Provider Agreement](/attachments/PeppolServiceProviderAgreement_V_1_1.pdf)
 - [Dichiarazione sostitutiva del certificato di iscrizione alla CCIAA](/attachments/dichirazione_rea_compilabile_rev201812.pdf)
+- [Guida alla firma del nuovo Service Provider Agreement](Guide_signing_agreement_V_1_0.pdf)

@@ -37,4 +37,4 @@ For technical questions related to interoperability tests and checks, please fee
 
 - [PEPPOL Service Provider Agreement](/attachments/PeppolServiceProviderAgreement_V_1_1.pdf)
 - [Substitutive declaration of the certificate of registration with the Chamber of Commerce](/attachments/dichirazione_rea_compilabile_rev201812.pdf)
-- [Guida alla firma del nuovo Service Provider Agreement](/attachments/Guide_signing_agreement_V_1_0.pdf)
+- [Guide to signing the new Service Provider Agreement](/attachments/Guide_signing_agreement_V_1_0.pdf)

@@ -137,6 +137,12 @@
   registered_office: via Roma 149, 09124, Cagliari (CA)
   contact_point: Romano Fischetti
   contact_info: amministrazione@maxtrino.com
+- business_name: Must Web S.r.l.
+  ap: true
+  smp: false
+  registered_office: Corso Stati Uniti 23/I, 35127, Padova (PD)
+  contact_point: Renato Chinello
+  contact_info: r.chinello@goldtesoreria.it 
 - business_name: Nexi Payments S.p.A.
   ap: true
   smp: true

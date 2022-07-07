@@ -4,7 +4,7 @@ title: Onboarding Platform
 description:
 lang: en
 ref: onboarding-platform
-order: 3
+order: 4
 child_of_ref: qualificazione-ap-smp
 ---
 

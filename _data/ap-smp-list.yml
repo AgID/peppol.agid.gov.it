@@ -142,7 +142,13 @@
   smp: false
   registered_office: Corso Stati Uniti 23/I, 35127, Padova (PD)
   contact_point: Renato Chinello
-  contact_info: r.chinello@goldtesoreria.it 
+  contact_info: r.chinello@goldtesoreria.it
+- business_name: Namirial S.p.A.
+  ap: true
+  smp: false
+  registered_office: Via Caduti sul Lavoro 4, 60019, Senigallia (AN) 
+  contact_point: Mario Veltini
+  contact_info: m.veltini@namirial.com
 - business_name: Nexi Payments S.p.A.
   ap: true
   smp: true

@@ -89,6 +89,12 @@
   registered_office: Piazzale dell’Agricoltura, 24 - 00144 Roma
   contact_point: Cosimo Nigro
   contact_info: cosimo.nigro@eng.it
+- business_name: Faber System S.r.l.
+  ap: true
+  smp: true
+  registered_office: Via Ettore Bugatti, 15 - 20142 Milano 
+  contact_point: Danilo Parotti
+  contact_info: customer@fabersystem.it
 - business_name: IFIN Sistemi S.r.l. a socio unico
   ap: true
   smp: true

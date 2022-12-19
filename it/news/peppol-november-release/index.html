@@ -1,0 +1,854 @@
+<!doctype html>
+<html lang="it">
+
+<head>
+  <title>Peppol November Release 2022 – PEPPOL</title><!-- Bootstrap core CSS -->
+<link rel="stylesheet" href="/assets/bootstrap-italia/css/bootstrap-italia.min.css">
+
+<!-- Main styles -->
+<link rel="alternate" type="application/rss+xml" title="PEPPOL - " href="/feed.xml" />
+<link rel="stylesheet" type="text/css" href="/style.css" />
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="description"
+    content="Si comunica che sono stati pubblicati gli aggiornamenti relativi alla November Release 2022 di OpenPeppol, contenenti una serie di modifiche le cui release notes complete sono disponibili agli indirizzi:
+
+  Ordinazione Semplice;
+  Ordinazione Completa;
+  Ordinazione Pre-concordata;
+  Documento di Trasporto;
+  Fatturazione.
+Il contenuto originale rilasciato da OpenPeppol è disponibile qui.
+Tali aggiornamenti avranno efficacia in via obbligatoria dal giorno 06 febbraio 2023, ciononostante si consiglia di recepire per tempo tali modifiche e di scaricare gli schematron per la validazione dei documenti aggiornati.
+Le specifiche tecniche che rimarranno in vigore fino al giorno 05 febbraio 2023 sono disponibili agli indirizzi:
+  Fatturazione;
+  Altri processi (Ordinazione semplice, Ordinazione completa, Ordinazione pre-concordata, Documento di trasporto).
+
+
+Di seguito si riportano i cambiamenti effettuati:
+Cambiamenti alla documentazione, alla sintassi e alle code lists e artefatti di validazione – Altri profili (ordine, ordine con risposta, ordine pre-concordato e documento di trasporto)
+
+Cambiamenti alla specifica (Documentazione)
+
+  BIS Ordinazione Semplice, BIS Ordinazione Completa – Inserite le nuove tipologie di Ordinazione, 221 Ordinazione a budget e 226 Ordinazione di regolazione;
+  BIS Ordinazione Semplice, BIS Ordinazione Completa – Modificata la modalità di indicazione del CUP a livello di testata;
+  BIS Ordinazione Completa – Corretto il secondo esempio di risposta all’ordine nella sezione 7.1.1 della documentazione;
+  BIS Ordinazione Pre-Concordata – Modificata la modalità di indicazione di Partita IVA e Codice Fiscale di Fornitore/Venditore e Cliente/Acquirente;
+  BIS Ordinazione Semplice, BIS Ordinazione Completa, BIS Ordinazione Pre-Concordata, BIS Documento di Trasporto – Aggiornati gli esempi in funzione delle modifiche alla sintassi;
+  Eliminata indicazione del “Last updated” nel piè di pagina.
+
+
+Cambiamenti alla sintassi
+
+  Ordine
+    
+      Aggiunti cbc:StartTime – Ora di inizio e cbc:EndTime – Ora di fine come campi opzionali della struttura cac:RequestedDeliveryPeriod;
+      Aggiunta cac:ProjectReference – Riferimento al progetto come struttura opzionale a livello di testata.
+    
+  
+  Risposta all’ordine
+    
+      Aggiunti cbc:StartTime – Ora di inizio e cbc:EndTime – Ora di fine come campi opzionali della struttura cac:PromisedDeliveryPeriod.
+    
+  
+  Ordine pre-concordato
+    
+      Aggiunto cbc:DocumentTypeCode come campo opzionale della struttura cac:ItemSpecificationDocumentReference a livello di riga;
+      Aggiunto cbc:CompanyID come campo opzionale della struttura cac:PartyLegalEntity sia per il Fornitore (cac:SellerSupplierParty) che per il Cliente (cac:BuyerCustomerParty).
+    
+  
+  Documento di trasporto
+    
+      Aggiunto cbc:SalesOrderLineID - Identificativo linea d’ordine di vendita come campo opzionale a livello di riga di DDT;
+      Aggiunto cac:CommodityClassification – Classificazione prodotto come struttura opzionale a livello di riga di DDT;
+      Aggiunta cac:AdditionalDocumentReference – Documenti addizionali come struttura opzionale a livello di testata. Aggiunta cac:DocumentiReference – Riferimento a documento addizionale come struttura a livello di riga;
+      Aggiunta cac:ShipmentStage – Informazioni sullo stato della spedizione come struttura opzionale a livello di testata. Il relativo campo cbc:TransportModeCode – Modalità di trasporto è opzionale e valorizzabile tramite codelist UN/ECE Recommendation 19;
+      Recepita la richiesta della Peppol Authority italiana di inserire la struttura cac:PartyIdentification del Vettore (cac:CarrierParty), che ora non risulta più un’estensione della sintassi italiana;
+      Recepita la richiesta della Peppol Authority italiana di rendere obbligatorio il campo cbc:DeliveredQuantity della struttura cac:DespatchLine.
+    
+  
+
+
+Cambiamenti alle code lists e artefatti di validazione
+
+  Rimosse le seguenti regole di validazione relative alla categoria fiscale:
+    
+      Ordine - regola PEPPOL-T01-B20301 applicata al campo cac:AllowanceCharge/cac:TaxCategory/cbc:ID e regola PEPPOL-T01-B28701 applicata al campo cac:Item/cac:ClassifiedTaxCategory/cbc:ID;
+      Risposta all’ordine – regola PEPPOL-T76-B07701 applicata al campo cac:SellerSubstitutedLineItem/cac:Item/cac:ClassifiedTaxCategory/cbc:ID;
+      Ordine Pre-Concordato – regola PEPPOL-T110-B13301 applicata al campo cac:AllowanceCharge/cac:TaxCategory/cbc:ID e regola PEPPOL-T110-B14601 applicata al campo cac:TaxTotal/cac:TaxSubtotal/cac:TaxCategory/cbc:ID e regola PEPPOL-T110-B22301 applicata al campo cac:Item/cac:ClassifiedTaxCategory/cbc:ID.
+      Integrata la codelist Order Type Code (UNCL1001 subset) con due nuovi tipi di ordinazione: 221 Ordinazione a budget e 226 Ordinazione di regolazione. Si applica nelle specifiche di Ordinazione Semplice e Ordinazione Completa;
+      Modificata da “warning” a “fatal” la severità della regola PEPPOL-COMMON-R049 (ICD 0007) per la validazione del formato della “Swedish organisation number”, come annunciato nella May Release 2022;
+    
+  
+  Corretta la regola PEPPOL-COMMON-R050 per la validazione del “Australian Business Number (ABN)”;
+  Aggiunto il codice statunitense 9959 alla codifica EAS. Rimossi i codici italiani 9906 e 9907 dalla stessa codifica. Adeguati gli artefatti di validazione;
+  Aggiunti i codici 0217 (Paesi Bassi), 0218, 0219 e 0220 (Lettonia) alla codifica ICD e adeguati gli artefatti di validazione.
+
+
+Cambiamenti alla documentazione, alla sintassi e alle code lists e artefatti di validazione – Fatturazione
+
+Cambiamenti alla specifica (Documentazione)
+
+  Eliminata indicazione del “Last updated” nel piè di pagina;
+
+
+Cambiamenti alle code lists e artefatti di validazione
+
+  Modificata da “warning” a “fatal” la severità della regola PEPPOL-COMMON-R049 (ICD 0007) per la validazione del formato della “Swedish organisation number”, come annunciato nella May Release 2022;
+  Corretta la regola PEPPOL-COMMON-R050 per la validazione del “Australian Business Number (ABN)”;
+  Aggiunto il codice statunitense 9959 alla codifica EAS. Rimossi i codici italiani 9906 e 9907 dalla stessa codifica. Adeguati gli artefatti di validazione;
+  Aggiunti i codici 0217 (Paesi Bassi), 0218, 0219 e 0220 (Lettonia) alla codifica ICD e adeguati gli artefatti di validazione.
+  Corrette specifiche regole di business derivanti dagli aggiornamenti della EN16931 e relativi schematron (per maggiori informazioni si rimanda al segunete link)
+
+
+Cambiamenti alle regole specifiche per Paese
+
+  
+    
+      
+        
+          Aggiornate le regole GR-S-008-1, GR-R-008-2 e GR-R-008-3, prevedendo la stringa ##INVOICE
+          URL## invece di ##INVOICE-URL## (POAC-518);
+        
+      
+    
+  
+  Eliminata la regola DK-R-015;
+  Corretto il testo delle regole DK-R-004 PEPPOL UBL &amp; CII;
+  Corretto il testo della regola DK-R-003 PEPPOL CII.
+
+">
+<meta name="author" content="Agenzia per l'Italia Digitale">
+<meta name="generator" content="Jekyll v3.8.5">
+
+<!-- Favicons -->
+<link rel="apple-touch-icon" href="/assets/images/favicons/apple-touch-icon.png">
+<link rel="icon" href="/assets/images/favicons/favicon-32x32.png" sizes="32x32" type="image/png">
+<link rel="icon" href="/assets/images/favicons/favicon-16x16.png" sizes="16x16" type="image/png">
+<link rel="mask-icon" href="/assets/images/favicons/safari-pinned-tab.svg" color="#0066CC">
+<link rel="icon" href="/assets/images/favicons/favicon.ico">
+<meta name="msapplication-config" content="/assets/images/favicons/browserconfig.xml">
+<meta name="theme-color" content="#0066CC">
+
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@AgidGov">
+<meta name="twitter:creator" content="@AgidGov">
+<meta name="twitter:title" content="Peppol November Release 2022">
+<meta name="twitter:description"
+    content="Si comunica che sono stati pubblicati gli aggiornamenti relativi alla November Release 2022 di OpenPeppol, contenenti una serie di modifiche le cui release notes complete sono disponibili agli indirizzi:
+
+  Ordinazione Semplice;
+  Ordinazione Completa;
+  Ordinazione Pre-concordata;
+  Documento di Trasporto;
+  Fatturazione.
+Il contenuto originale rilasciato da OpenPeppol è disponibile qui.
+Tali aggiornamenti avranno efficacia in via obbligatoria dal giorno 06 febbraio 2023, ciononostante si consiglia di recepire per tempo tali modifiche e di scaricare gli schematron per la validazione dei documenti aggiornati.
+Le specifiche tecniche che rimarranno in vigore fino al giorno 05 febbraio 2023 sono disponibili agli indirizzi:
+  Fatturazione;
+  Altri processi (Ordinazione semplice, Ordinazione completa, Ordinazione pre-concordata, Documento di trasporto).
+
+
+Di seguito si riportano i cambiamenti effettuati:
+Cambiamenti alla documentazione, alla sintassi e alle code lists e artefatti di validazione – Altri profili (ordine, ordine con risposta, ordine pre-concordato e documento di trasporto)
+
+Cambiamenti alla specifica (Documentazione)
+
+  BIS Ordinazione Semplice, BIS Ordinazione Completa – Inserite le nuove tipologie di Ordinazione, 221 Ordinazione a budget e 226 Ordinazione di regolazione;
+  BIS Ordinazione Semplice, BIS Ordinazione Completa – Modificata la modalità di indicazione del CUP a livello di testata;
+  BIS Ordinazione Completa – Corretto il secondo esempio di risposta all’ordine nella sezione 7.1.1 della documentazione;
+  BIS Ordinazione Pre-Concordata – Modificata la modalità di indicazione di Partita IVA e Codice Fiscale di Fornitore/Venditore e Cliente/Acquirente;
+  BIS Ordinazione Semplice, BIS Ordinazione Completa, BIS Ordinazione Pre-Concordata, BIS Documento di Trasporto – Aggiornati gli esempi in funzione delle modifiche alla sintassi;
+  Eliminata indicazione del “Last updated” nel piè di pagina.
+
+
+Cambiamenti alla sintassi
+
+  Ordine
+    
+      Aggiunti cbc:StartTime – Ora di inizio e cbc:EndTime – Ora di fine come campi opzionali della struttura cac:RequestedDeliveryPeriod;
+      Aggiunta cac:ProjectReference – Riferimento al progetto come struttura opzionale a livello di testata.
+    
+  
+  Risposta all’ordine
+    
+      Aggiunti cbc:StartTime – Ora di inizio e cbc:EndTime – Ora di fine come campi opzionali della struttura cac:PromisedDeliveryPeriod.
+    
+  
+  Ordine pre-concordato
+    
+      Aggiunto cbc:DocumentTypeCode come campo opzionale della struttura cac:ItemSpecificationDocumentReference a livello di riga;
+      Aggiunto cbc:CompanyID come campo opzionale della struttura cac:PartyLegalEntity sia per il Fornitore (cac:SellerSupplierParty) che per il Cliente (cac:BuyerCustomerParty).
+    
+  
+  Documento di trasporto
+    
+      Aggiunto cbc:SalesOrderLineID - Identificativo linea d’ordine di vendita come campo opzionale a livello di riga di DDT;
+      Aggiunto cac:CommodityClassification – Classificazione prodotto come struttura opzionale a livello di riga di DDT;
+      Aggiunta cac:AdditionalDocumentReference – Documenti addizionali come struttura opzionale a livello di testata. Aggiunta cac:DocumentiReference – Riferimento a documento addizionale come struttura a livello di riga;
+      Aggiunta cac:ShipmentStage – Informazioni sullo stato della spedizione come struttura opzionale a livello di testata. Il relativo campo cbc:TransportModeCode – Modalità di trasporto è opzionale e valorizzabile tramite codelist UN/ECE Recommendation 19;
+      Recepita la richiesta della Peppol Authority italiana di inserire la struttura cac:PartyIdentification del Vettore (cac:CarrierParty), che ora non risulta più un’estensione della sintassi italiana;
+      Recepita la richiesta della Peppol Authority italiana di rendere obbligatorio il campo cbc:DeliveredQuantity della struttura cac:DespatchLine.
+    
+  
+
+
+Cambiamenti alle code lists e artefatti di validazione
+
+  Rimosse le seguenti regole di validazione relative alla categoria fiscale:
+    
+      Ordine - regola PEPPOL-T01-B20301 applicata al campo cac:AllowanceCharge/cac:TaxCategory/cbc:ID e regola PEPPOL-T01-B28701 applicata al campo cac:Item/cac:ClassifiedTaxCategory/cbc:ID;
+      Risposta all’ordine – regola PEPPOL-T76-B07701 applicata al campo cac:SellerSubstitutedLineItem/cac:Item/cac:ClassifiedTaxCategory/cbc:ID;
+      Ordine Pre-Concordato – regola PEPPOL-T110-B13301 applicata al campo cac:AllowanceCharge/cac:TaxCategory/cbc:ID e regola PEPPOL-T110-B14601 applicata al campo cac:TaxTotal/cac:TaxSubtotal/cac:TaxCategory/cbc:ID e regola PEPPOL-T110-B22301 applicata al campo cac:Item/cac:ClassifiedTaxCategory/cbc:ID.
+      Integrata la codelist Order Type Code (UNCL1001 subset) con due nuovi tipi di ordinazione: 221 Ordinazione a budget e 226 Ordinazione di regolazione. Si applica nelle specifiche di Ordinazione Semplice e Ordinazione Completa;
+      Modificata da “warning” a “fatal” la severità della regola PEPPOL-COMMON-R049 (ICD 0007) per la validazione del formato della “Swedish organisation number”, come annunciato nella May Release 2022;
+    
+  
+  Corretta la regola PEPPOL-COMMON-R050 per la validazione del “Australian Business Number (ABN)”;
+  Aggiunto il codice statunitense 9959 alla codifica EAS. Rimossi i codici italiani 9906 e 9907 dalla stessa codifica. Adeguati gli artefatti di validazione;
+  Aggiunti i codici 0217 (Paesi Bassi), 0218, 0219 e 0220 (Lettonia) alla codifica ICD e adeguati gli artefatti di validazione.
+
+
+Cambiamenti alla documentazione, alla sintassi e alle code lists e artefatti di validazione – Fatturazione
+
+Cambiamenti alla specifica (Documentazione)
+
+  Eliminata indicazione del “Last updated” nel piè di pagina;
+
+
+Cambiamenti alle code lists e artefatti di validazione
+
+  Modificata da “warning” a “fatal” la severità della regola PEPPOL-COMMON-R049 (ICD 0007) per la validazione del formato della “Swedish organisation number”, come annunciato nella May Release 2022;
+  Corretta la regola PEPPOL-COMMON-R050 per la validazione del “Australian Business Number (ABN)”;
+  Aggiunto il codice statunitense 9959 alla codifica EAS. Rimossi i codici italiani 9906 e 9907 dalla stessa codifica. Adeguati gli artefatti di validazione;
+  Aggiunti i codici 0217 (Paesi Bassi), 0218, 0219 e 0220 (Lettonia) alla codifica ICD e adeguati gli artefatti di validazione.
+  Corrette specifiche regole di business derivanti dagli aggiornamenti della EN16931 e relativi schematron (per maggiori informazioni si rimanda al segunete link)
+
+
+Cambiamenti alle regole specifiche per Paese
+
+  
+    
+      
+        
+          Aggiornate le regole GR-S-008-1, GR-R-008-2 e GR-R-008-3, prevedendo la stringa ##INVOICE
+          URL## invece di ##INVOICE-URL## (POAC-518);
+        
+      
+    
+  
+  Eliminata la regola DK-R-015;
+  Corretto il testo delle regole DK-R-004 PEPPOL UBL &amp; CII;
+  Corretto il testo della regola DK-R-003 PEPPOL CII.
+
+">
+<meta name="twitter:image" content="https://peppol.agid.gov.it/assets/images/favicons/social-card.png">
+
+<!-- Facebook -->
+<meta property="og:url" content="/">
+<meta property="og:title" content="Peppol November Release 2022 - PEPPOL">
+<meta property="og:description"
+    content="Si comunica che sono stati pubblicati gli aggiornamenti relativi alla November Release 2022 di OpenPeppol, contenenti una serie di modifiche le cui release notes complete sono disponibili agli indirizzi:
+
+  Ordinazione Semplice;
+  Ordinazione Completa;
+  Ordinazione Pre-concordata;
+  Documento di Trasporto;
+  Fatturazione.
+Il contenuto originale rilasciato da OpenPeppol è disponibile qui.
+Tali aggiornamenti avranno efficacia in via obbligatoria dal giorno 06 febbraio 2023, ciononostante si consiglia di recepire per tempo tali modifiche e di scaricare gli schematron per la validazione dei documenti aggiornati.
+Le specifiche tecniche che rimarranno in vigore fino al giorno 05 febbraio 2023 sono disponibili agli indirizzi:
+  Fatturazione;
+  Altri processi (Ordinazione semplice, Ordinazione completa, Ordinazione pre-concordata, Documento di trasporto).
+
+
+Di seguito si riportano i cambiamenti effettuati:
+Cambiamenti alla documentazione, alla sintassi e alle code lists e artefatti di validazione – Altri profili (ordine, ordine con risposta, ordine pre-concordato e documento di trasporto)
+
+Cambiamenti alla specifica (Documentazione)
+
+  BIS Ordinazione Semplice, BIS Ordinazione Completa – Inserite le nuove tipologie di Ordinazione, 221 Ordinazione a budget e 226 Ordinazione di regolazione;
+  BIS Ordinazione Semplice, BIS Ordinazione Completa – Modificata la modalità di indicazione del CUP a livello di testata;
+  BIS Ordinazione Completa – Corretto il secondo esempio di risposta all’ordine nella sezione 7.1.1 della documentazione;
+  BIS Ordinazione Pre-Concordata – Modificata la modalità di indicazione di Partita IVA e Codice Fiscale di Fornitore/Venditore e Cliente/Acquirente;
+  BIS Ordinazione Semplice, BIS Ordinazione Completa, BIS Ordinazione Pre-Concordata, BIS Documento di Trasporto – Aggiornati gli esempi in funzione delle modifiche alla sintassi;
+  Eliminata indicazione del “Last updated” nel piè di pagina.
+
+
+Cambiamenti alla sintassi
+
+  Ordine
+    
+      Aggiunti cbc:StartTime – Ora di inizio e cbc:EndTime – Ora di fine come campi opzionali della struttura cac:RequestedDeliveryPeriod;
+      Aggiunta cac:ProjectReference – Riferimento al progetto come struttura opzionale a livello di testata.
+    
+  
+  Risposta all’ordine
+    
+      Aggiunti cbc:StartTime – Ora di inizio e cbc:EndTime – Ora di fine come campi opzionali della struttura cac:PromisedDeliveryPeriod.
+    
+  
+  Ordine pre-concordato
+    
+      Aggiunto cbc:DocumentTypeCode come campo opzionale della struttura cac:ItemSpecificationDocumentReference a livello di riga;
+      Aggiunto cbc:CompanyID come campo opzionale della struttura cac:PartyLegalEntity sia per il Fornitore (cac:SellerSupplierParty) che per il Cliente (cac:BuyerCustomerParty).
+    
+  
+  Documento di trasporto
+    
+      Aggiunto cbc:SalesOrderLineID - Identificativo linea d’ordine di vendita come campo opzionale a livello di riga di DDT;
+      Aggiunto cac:CommodityClassification – Classificazione prodotto come struttura opzionale a livello di riga di DDT;
+      Aggiunta cac:AdditionalDocumentReference – Documenti addizionali come struttura opzionale a livello di testata. Aggiunta cac:DocumentiReference – Riferimento a documento addizionale come struttura a livello di riga;
+      Aggiunta cac:ShipmentStage – Informazioni sullo stato della spedizione come struttura opzionale a livello di testata. Il relativo campo cbc:TransportModeCode – Modalità di trasporto è opzionale e valorizzabile tramite codelist UN/ECE Recommendation 19;
+      Recepita la richiesta della Peppol Authority italiana di inserire la struttura cac:PartyIdentification del Vettore (cac:CarrierParty), che ora non risulta più un’estensione della sintassi italiana;
+      Recepita la richiesta della Peppol Authority italiana di rendere obbligatorio il campo cbc:DeliveredQuantity della struttura cac:DespatchLine.
+    
+  
+
+
+Cambiamenti alle code lists e artefatti di validazione
+
+  Rimosse le seguenti regole di validazione relative alla categoria fiscale:
+    
+      Ordine - regola PEPPOL-T01-B20301 applicata al campo cac:AllowanceCharge/cac:TaxCategory/cbc:ID e regola PEPPOL-T01-B28701 applicata al campo cac:Item/cac:ClassifiedTaxCategory/cbc:ID;
+      Risposta all’ordine – regola PEPPOL-T76-B07701 applicata al campo cac:SellerSubstitutedLineItem/cac:Item/cac:ClassifiedTaxCategory/cbc:ID;
+      Ordine Pre-Concordato – regola PEPPOL-T110-B13301 applicata al campo cac:AllowanceCharge/cac:TaxCategory/cbc:ID e regola PEPPOL-T110-B14601 applicata al campo cac:TaxTotal/cac:TaxSubtotal/cac:TaxCategory/cbc:ID e regola PEPPOL-T110-B22301 applicata al campo cac:Item/cac:ClassifiedTaxCategory/cbc:ID.
+      Integrata la codelist Order Type Code (UNCL1001 subset) con due nuovi tipi di ordinazione: 221 Ordinazione a budget e 226 Ordinazione di regolazione. Si applica nelle specifiche di Ordinazione Semplice e Ordinazione Completa;
+      Modificata da “warning” a “fatal” la severità della regola PEPPOL-COMMON-R049 (ICD 0007) per la validazione del formato della “Swedish organisation number”, come annunciato nella May Release 2022;
+    
+  
+  Corretta la regola PEPPOL-COMMON-R050 per la validazione del “Australian Business Number (ABN)”;
+  Aggiunto il codice statunitense 9959 alla codifica EAS. Rimossi i codici italiani 9906 e 9907 dalla stessa codifica. Adeguati gli artefatti di validazione;
+  Aggiunti i codici 0217 (Paesi Bassi), 0218, 0219 e 0220 (Lettonia) alla codifica ICD e adeguati gli artefatti di validazione.
+
+
+Cambiamenti alla documentazione, alla sintassi e alle code lists e artefatti di validazione – Fatturazione
+
+Cambiamenti alla specifica (Documentazione)
+
+  Eliminata indicazione del “Last updated” nel piè di pagina;
+
+
+Cambiamenti alle code lists e artefatti di validazione
+
+  Modificata da “warning” a “fatal” la severità della regola PEPPOL-COMMON-R049 (ICD 0007) per la validazione del formato della “Swedish organisation number”, come annunciato nella May Release 2022;
+  Corretta la regola PEPPOL-COMMON-R050 per la validazione del “Australian Business Number (ABN)”;
+  Aggiunto il codice statunitense 9959 alla codifica EAS. Rimossi i codici italiani 9906 e 9907 dalla stessa codifica. Adeguati gli artefatti di validazione;
+  Aggiunti i codici 0217 (Paesi Bassi), 0218, 0219 e 0220 (Lettonia) alla codifica ICD e adeguati gli artefatti di validazione.
+  Corrette specifiche regole di business derivanti dagli aggiornamenti della EN16931 e relativi schematron (per maggiori informazioni si rimanda al segunete link)
+
+
+Cambiamenti alle regole specifiche per Paese
+
+  
+    
+      
+        
+          Aggiornate le regole GR-S-008-1, GR-R-008-2 e GR-R-008-3, prevedendo la stringa ##INVOICE
+          URL## invece di ##INVOICE-URL## (POAC-518);
+        
+      
+    
+  
+  Eliminata la regola DK-R-015;
+  Corretto il testo delle regole DK-R-004 PEPPOL UBL &amp; CII;
+  Corretto il testo della regola DK-R-003 PEPPOL CII.
+
+">
+<meta property="og:type" content="website">
+<meta property="og:image" content="https://peppol.agid.gov.it/assets/images/favicons/social-card.png">
+<meta property="og:image:type" content="image/png">
+<!--
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+-->
+
+
+
+</head>
+
+<body><div class="skiplinks bg-white">
+    <a class="sr-only sr-only-focusable text-primary" href="#main">Vai al contenuto principale</a>
+</div>
+<div class="it-header-wrapper">
+  <div class="it-header-slim-wrapper theme-light">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="it-header-slim-wrapper-content">
+          <a class="d-none d-lg-block navbar-brand" aria-label="Agenzia per l'Italia Digitale - Collegamento a sito esterno" title="Collegamento a sito esterno" href="https://www.agid.gov.it/">
+                Agenzia per l'Italia Digitale
+            </a>
+
+            <nav class="navbar-institutional navbar navbar-expand-lg navbar-dark py-1 px-3" aria-label="navigazione siti istituzionali">
+              <a class="it-opener d-lg-none" data-toggle="collapse" href="#menu1" role="button" aria-expanded="false" aria-controls="menu1">
+                <span>Agenzia per l'Italia Digitale</span>
+                <svg class="icon">
+                  <use xlink:href="/assets/bootstrap-italia/svg/sprite.svg#it-expand"></use>
+                </svg>
+              </a>
+              <div class="collapse navbar-collapse" id="menu1">
+
+                <ul class="navbar-nav ml-auto mr-0 border-right-0">
+                  <li class="nav-item nav-item-w-divider">
+                    <a aria-label="SMP Unico per la PA - Collegamento a sito esterno" title="Collegamento a sito esterno" class="nav-link" href="https://peppol-smp-w.agid.gov.it/ipa/">SMP Unico per la PA</a>
+                  </li>
+                  <li class="nav-item">
+                    <a aria-label="Validazione documenti Peppol - Collegamento a sito esterno" title="Collegamento a sito esterno" class="nav-link" href="https://peppol-validator.agid.gov.it/">Validazione documenti Peppol</a>
+                  </li>
+                  <li class="nav-item">
+                    <a aria-label="Piattaforma di Onboarding AP - Collegamento a sito esterno" title="Collegamento a sito esterno" class="nav-link" href="https://peppol.agid.gov.it/it/qualificazione-ap-smp/piattaforma-onboarding/" data-proofer-ignore>Piattaforma di Onboarding AP</a>
+                  </li>
+                    
+                </ul>
+              </div>
+            </nav>
+          <div class="header-slim-right-zone">
+            <!-- Language Switch -->
+            
+
+
+
+
+
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+  
+
+
+<div class="it-nav-wrapper">
+  <div class="it-header-center-wrapper theme-light">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <div class="it-header-center-content-wrapper">
+            <div class="it-brand-wrapper">
+              <a href="/it/" aria-label="Header - Vai alla home page" data-proofer-ignore>
+                <img class="icon d-block" src="/assets/images/peppol-logo.svg" alt="PEPPOL logo">
+                <div class="it-brand-text">
+                  <h2 class="no_toc sr-only">PEPPOL</h2>
+                  <h3 class="no_toc d-none d-md-block">PEPPOL Authority Italia</h3>
+                </div>
+              </a>
+            </div>
+            <div class="it-right-zone">
+              
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="it-header-navbar-wrapper  theme-light-desk">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <nav class="navbar navbar-expand-lg has-megamenu" aria-label="menu principale">
+            <button class="custom-navbar-toggler" type="button" aria-controls="nav10" aria-expanded="false"
+              aria-label="mostra o nascondi il menu di navigazione" data-target="#nav10">
+              <svg class="icon">
+                <use xlink:href="/assets/bootstrap-italia/svg/sprite.svg#it-burger"></use>
+              </svg>
+            </button>
+            <div class="navbar-collapsable" id="nav10">
+              <div class="overlay"></div>
+              <div class="close-div sr-only">
+                <button class="btn close-menu" type="button"><span class="it-close"></span>close</button>
+              </div>
+              <div class="menu-wrapper">
+                <ul class="navbar-nav">
+                  
+
+                  
+                  
+                  
+                  <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" aria-label="Chi siamo Selezione" href="#" data-toggle="dropdown" aria-expanded="false">
+                      <span>Chi siamo</span>
+                      <svg class="icon icon-xs">
+                        <use xlink:href="/assets/bootstrap-italia/svg/sprite.svg#it-expand">
+                        </use>
+                      </svg>
+                    </a>
+                    <div class="dropdown-menu">
+                      <div class="link-list-wrapper">
+                        <ul class="link-list">
+                          <li><a class="list-item" aria-label="Vai a Chi siamo" href="/it/chi-siamo/"><span>Chi siamo</span></a></li>
+                          <li><span class="divider"></span></li>
+                          
+                          <li><a class="list-item" aria-label="Vai a Cos'è PEPPOL" href="/it/chi-siamo/cos-e-peppol/"><span>Cos'è PEPPOL</span></a>
+                          </li>
+                          
+                          <li><a class="list-item" aria-label="Vai a FAQ" href="/it/chi-siamo/faq/"><span>FAQ</span></a>
+                          </li>
+                          
+                        </ul>
+                      </div>
+                    </div>
+                  </li>
+                  
+                  
+
+                  
+                  
+                  
+                  <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" aria-label="Qualificazione AP/SMP Selezione" href="#" data-toggle="dropdown" aria-expanded="false">
+                      <span>Qualificazione AP/SMP</span>
+                      <svg class="icon icon-xs">
+                        <use xlink:href="/assets/bootstrap-italia/svg/sprite.svg#it-expand">
+                        </use>
+                      </svg>
+                    </a>
+                    <div class="dropdown-menu">
+                      <div class="link-list-wrapper">
+                        <ul class="link-list">
+                          <li><a class="list-item" aria-label="Vai a Qualificazione AP/SMP" href="/it/qualificazione-ap-smp/"><span>Qualificazione AP/SMP</span></a></li>
+                          <li><span class="divider"></span></li>
+                          
+                          <li><a class="list-item" aria-label="Vai a Elenco AP/SMP" href="/it/qualificazione-ap-smp/elenco-ap-smp/"><span>Elenco AP/SMP</span></a>
+                          </li>
+                          
+                          <li><a class="list-item" aria-label="Vai a SMP Unico della PA" href="/it/qualificazione-ap-smp/smp-unico-pa/"><span>SMP Unico della PA</span></a>
+                          </li>
+                          
+                          <li><a class="list-item" aria-label="Vai a Piattaforma di Onboarding" href="/it/qualificazione-ap-smp/piattaforma-onboarding/"><span>Piattaforma di Onboarding</span></a>
+                          </li>
+                          
+                        </ul>
+                      </div>
+                    </div>
+                  </li>
+                  
+                  
+
+                  
+                  
+                  
+                  <li class="nav-item">
+                    <a class="nav-link" aria-label="Vai a Specifiche tecniche" href="/it/specifiche-tecniche/"><span>Specifiche tecniche</span></a>
+                  </li>
+                  
+                  
+
+                  
+                  
+                  
+                  <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" aria-label="Approfondimenti Selezione" href="#" data-toggle="dropdown" aria-expanded="false">
+                      <span>Approfondimenti</span>
+                      <svg class="icon icon-xs">
+                        <use xlink:href="/assets/bootstrap-italia/svg/sprite.svg#it-expand">
+                        </use>
+                      </svg>
+                    </a>
+                    <div class="dropdown-menu">
+                      <div class="link-list-wrapper">
+                        <ul class="link-list">
+                          <li><a class="list-item" aria-label="Vai a Approfondimenti" href="/it/approfondimenti/"><span>Approfondimenti</span></a></li>
+                          <li><span class="divider"></span></li>
+                          
+                          <li><a class="list-item" aria-label="Vai a Fattura elettronica" href="/it/approfondimenti/fattura-elettronica/"><span>Fattura elettronica</span></a>
+                          </li>
+                          
+                          <li><a class="list-item" aria-label="Vai a Ordine elettronico" href="/it/approfondimenti/ordine-elettronico/"><span>Ordine elettronico</span></a>
+                          </li>
+                          
+                        </ul>
+                      </div>
+                    </div>
+                  </li>
+                  
+                  
+
+                  
+                  
+                  
+                  <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" aria-label="News Selezione" href="#" data-toggle="dropdown" aria-expanded="false">
+                      <span>News</span>
+                      <svg class="icon icon-xs">
+                        <use xlink:href="/assets/bootstrap-italia/svg/sprite.svg#it-expand">
+                        </use>
+                      </svg>
+                    </a>
+                    <div class="dropdown-menu">
+                      <div class="link-list-wrapper">
+                        <ul class="link-list">
+                          <li><a class="list-item" aria-label="Vai a News" href="/it/news/"><span>News</span></a></li>
+                          <li><span class="divider"></span></li>
+                          
+                          <li><a class="list-item" aria-label="Vai a Consultazioni" href="/it/news/consultazioni/"><span>Consultazioni</span></a>
+                          </li>
+                          
+                          <li><a class="list-item" aria-label="Vai a Meeting" href="/it/news/meeting/"><span>Meeting</span></a>
+                          </li>
+                          
+                        </ul>
+                      </div>
+                    </div>
+                  </li>
+                  
+                  
+                </ul>
+              </div>
+            </div>
+          </nav>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</div>
+<div id="main"><div class="container my-2">
+  <nav class="breadcrumb-container" aria-label="breadcrumb">
+    <ol class="breadcrumb">
+      <li class="breadcrumb-item"><a aria-label="Breadcrumbs -  Home" href="/">Home</a><span class="separator">&gt;</span></li>
+      <li class="breadcrumb-item"><a aria-label="Breadcrumbs -  News" href="/it/news">News</a><span class="separator">&gt;</span></li>
+      <li class="breadcrumb-item active" aria-current="page">Peppol November Release 2022</li>
+    </ol>
+  </nav>
+</div>
+<article class="container my-5">
+  <div class="row">
+    <div class="col-12 col-lg-8 offset-2">
+      <!--start card-->
+      <div class="card-wrapper card-space">
+        <div class="card card-bg card-big border-bottom-card">
+          <div class="flag-icon"></div>
+          <div class="etichetta">
+            <svg class="icon">
+              <use xlink:href="/assets/bootstrap-italia/svg/sprite.svg#it-calendar"></use>
+            </svg>
+            <span>Scritto il 19
+
+
+
+Dicembre
+
+
+
+2022
+</span>
+          </div>
+          <div class="card-body">
+            <h5 class="card-title">Peppol November Release 2022</h5>
+            <div class="card-text"><p>Si comunica che sono stati pubblicati gli aggiornamenti relativi alla November Release 2022 di OpenPeppol, contenenti una serie di modifiche le cui release notes complete sono disponibili agli indirizzi:</p>
+<ul>
+  <li><a href="https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/others/guides/release-notes-it/3-order-only/main.html">Ordinazione Semplice</a>;</li>
+  <li><a href="https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/others/guides/release-notes-it/28-ordering/main.html">Ordinazione Completa</a>;</li>
+  <li><a href="https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/others/guides/release-notes-it/42-orderagreement/main.html">Ordinazione Pre-concordata</a>;</li>
+  <li><a href="https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/others/guides/release-notes-it/30-despatchadvice/main.html">Documento di Trasporto</a>;</li>
+  <li><a href="https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/invoice/guide/release-notes-it/main.html">Fatturazione</a>.
+Il contenuto originale rilasciato da OpenPeppol è disponibile <a href="https://peppol.org/post-award-november-release-publication/">qui</a>.
+Tali aggiornamenti avranno efficacia in via obbligatoria dal giorno <strong>06 febbraio 2023</strong>, ciononostante si consiglia di recepire per tempo tali modifiche e di scaricare gli schematron per la validazione dei documenti aggiornati.
+Le specifiche tecniche che rimarranno in vigore fino al giorno 05 febbraio 2023 sono disponibili agli indirizzi:</li>
+  <li><a href="https://peppol-docs.agid.gov.it/docs/my_index_fatt.jsp">Fatturazione</a>;</li>
+  <li><a href="https://peppol-docs.agid.gov.it/docs/my_index.jsp">Altri processi</a> (Ordinazione semplice, Ordinazione completa, Ordinazione pre-concordata, Documento di trasporto).</li>
+</ul>
+
+<p>Di seguito si riportano i cambiamenti effettuati:
+<strong>Cambiamenti alla documentazione, alla sintassi e alle code lists e artefatti di validazione – Altri profili (ordine, ordine con risposta, ordine pre-concordato e documento di trasporto)</strong></p>
+
+<p><strong>Cambiamenti alla specifica (Documentazione)</strong></p>
+<ul>
+  <li>BIS Ordinazione Semplice, BIS Ordinazione Completa – Inserite le nuove tipologie di Ordinazione, 221 Ordinazione a budget e 226 Ordinazione di regolazione;</li>
+  <li>BIS Ordinazione Semplice, BIS Ordinazione Completa – Modificata la modalità di indicazione del CUP a livello di testata;</li>
+  <li>BIS Ordinazione Completa – Corretto il secondo esempio di risposta all’ordine nella sezione 7.1.1 della documentazione;</li>
+  <li>BIS Ordinazione Pre-Concordata – Modificata la modalità di indicazione di Partita IVA e Codice Fiscale di Fornitore/Venditore e Cliente/Acquirente;</li>
+  <li>BIS Ordinazione Semplice, BIS Ordinazione Completa, BIS Ordinazione Pre-Concordata, BIS Documento di Trasporto – Aggiornati gli esempi in funzione delle modifiche alla sintassi;</li>
+  <li>Eliminata indicazione del “Last updated” nel piè di pagina.</li>
+</ul>
+
+<p><strong>Cambiamenti alla sintassi</strong></p>
+<ul>
+  <li>Ordine
+    <ul>
+      <li>Aggiunti cbc:StartTime – Ora di inizio e cbc:EndTime – Ora di fine come campi opzionali della struttura cac:RequestedDeliveryPeriod;</li>
+      <li>Aggiunta cac:ProjectReference – Riferimento al progetto come struttura opzionale a livello di testata.</li>
+    </ul>
+  </li>
+  <li>Risposta all’ordine
+    <ul>
+      <li>Aggiunti cbc:StartTime – Ora di inizio e cbc:EndTime – Ora di fine come campi opzionali della struttura cac:PromisedDeliveryPeriod.</li>
+    </ul>
+  </li>
+  <li>Ordine pre-concordato
+    <ul>
+      <li>Aggiunto cbc:DocumentTypeCode come campo opzionale della struttura cac:ItemSpecificationDocumentReference a livello di riga;</li>
+      <li>Aggiunto cbc:CompanyID come campo opzionale della struttura cac:PartyLegalEntity sia per il Fornitore (cac:SellerSupplierParty) che per il Cliente (cac:BuyerCustomerParty).</li>
+    </ul>
+  </li>
+  <li>Documento di trasporto
+    <ul>
+      <li>Aggiunto cbc:SalesOrderLineID - Identificativo linea d’ordine di vendita come campo opzionale a livello di riga di DDT;</li>
+      <li>Aggiunto cac:CommodityClassification – Classificazione prodotto come struttura opzionale a livello di riga di DDT;</li>
+      <li>Aggiunta cac:AdditionalDocumentReference – Documenti addizionali come struttura opzionale a livello di testata. Aggiunta cac:DocumentiReference – Riferimento a documento addizionale come struttura a livello di riga;</li>
+      <li>Aggiunta cac:ShipmentStage – Informazioni sullo stato della spedizione come struttura opzionale a livello di testata. Il relativo campo cbc:TransportModeCode – Modalità di trasporto è opzionale e valorizzabile tramite codelist UN/ECE Recommendation 19;</li>
+      <li>Recepita la richiesta della Peppol Authority italiana di inserire la struttura cac:PartyIdentification del Vettore (cac:CarrierParty), che ora non risulta più un’estensione della sintassi italiana;</li>
+      <li>Recepita la richiesta della Peppol Authority italiana di rendere obbligatorio il campo cbc:DeliveredQuantity della struttura cac:DespatchLine.</li>
+    </ul>
+  </li>
+</ul>
+
+<p><strong>Cambiamenti alle code lists e artefatti di validazione</strong></p>
+<ul>
+  <li>Rimosse le seguenti regole di validazione relative alla categoria fiscale:
+    <ul>
+      <li>Ordine - regola PEPPOL-T01-B20301 applicata al campo cac:AllowanceCharge/cac:TaxCategory/cbc:ID e regola PEPPOL-T01-B28701 applicata al campo cac:Item/cac:ClassifiedTaxCategory/cbc:ID;</li>
+      <li>Risposta all’ordine – regola PEPPOL-T76-B07701 applicata al campo cac:SellerSubstitutedLineItem/cac:Item/cac:ClassifiedTaxCategory/cbc:ID;</li>
+      <li>Ordine Pre-Concordato – regola PEPPOL-T110-B13301 applicata al campo cac:AllowanceCharge/cac:TaxCategory/cbc:ID e regola PEPPOL-T110-B14601 applicata al campo cac:TaxTotal/cac:TaxSubtotal/cac:TaxCategory/cbc:ID e regola PEPPOL-T110-B22301 applicata al campo cac:Item/cac:ClassifiedTaxCategory/cbc:ID.</li>
+      <li>Integrata la codelist Order Type Code (UNCL1001 subset) con due nuovi tipi di ordinazione: 221 Ordinazione a budget e 226 Ordinazione di regolazione. Si applica nelle specifiche di Ordinazione Semplice e Ordinazione Completa;</li>
+      <li>Modificata da “warning” a “fatal” la severità della regola PEPPOL-COMMON-R049 (ICD 0007) per la validazione del formato della “Swedish organisation number”, come annunciato nella May Release 2022;</li>
+    </ul>
+  </li>
+  <li>Corretta la regola PEPPOL-COMMON-R050 per la validazione del “Australian Business Number (ABN)”;</li>
+  <li>Aggiunto il codice statunitense 9959 alla codifica EAS. Rimossi i codici italiani 9906 e 9907 dalla stessa codifica. Adeguati gli artefatti di validazione;</li>
+  <li>Aggiunti i codici 0217 (Paesi Bassi), 0218, 0219 e 0220 (Lettonia) alla codifica ICD e adeguati gli artefatti di validazione.</li>
+</ul>
+
+<p><strong>Cambiamenti alla documentazione, alla sintassi e alle code lists e artefatti di validazione – Fatturazione</strong></p>
+
+<p><strong>Cambiamenti alla specifica (Documentazione)</strong></p>
+<ul>
+  <li>Eliminata indicazione del “Last updated” nel piè di pagina;</li>
+</ul>
+
+<p><strong>Cambiamenti alle code lists e artefatti di validazione</strong></p>
+<ul>
+  <li>Modificata da “warning” a “fatal” la severità della regola PEPPOL-COMMON-R049 (ICD 0007) per la validazione del formato della “Swedish organisation number”, come annunciato nella May Release 2022;</li>
+  <li>Corretta la regola PEPPOL-COMMON-R050 per la validazione del “Australian Business Number (ABN)”;</li>
+  <li>Aggiunto il codice statunitense 9959 alla codifica EAS. Rimossi i codici italiani 9906 e 9907 dalla stessa codifica. Adeguati gli artefatti di validazione;</li>
+  <li>Aggiunti i codici 0217 (Paesi Bassi), 0218, 0219 e 0220 (Lettonia) alla codifica ICD e adeguati gli artefatti di validazione.</li>
+  <li>Corrette specifiche regole di business derivanti dagli aggiornamenti della EN16931 e relativi schematron (per maggiori informazioni si rimanda al segunete <a href="https://github.com/ConnectingEurope/eInvoicing-EN16931/releases/tag/validation-1.3.9">link</a>)</li>
+</ul>
+
+<p><strong>Cambiamenti alle regole specifiche per Paese</strong></p>
+<ul>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>Aggiornate le regole GR-S-008-1, GR-R-008-2 e GR-R-008-3, prevedendo la stringa ##INVOICE</td>
+          <td>URL## invece di ##INVOICE-URL## (POAC-518);</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li>Eliminata la regola DK-R-015;</li>
+  <li>Corretto il testo delle regole DK-R-004 PEPPOL UBL &amp; CII;</li>
+  <li>Corretto il testo della regola DK-R-003 PEPPOL CII.</li>
+</ul>
+</div>
+          </div>
+        </div>
+      </div>
+      <!--end card-->
+    </div>
+  </div>
+  
+</article>
+</div><footer class="it-footer">
+  <div class="it-footer-main">
+    <div class="container">
+      <section>
+        <div class="row clearfix">
+          <div class="col-12 col-sm-6 col-md-4 d-flex align-items-center">
+            <div class="it-brand-wrapper">
+              <a href="/it/" aria-label="Footer - Vai alla home page" data-proofer-ignore>
+                <img class="icon d-block" src="/assets/images/peppol-logo-white.png" alt="PEPPOL logo">
+                <div class="it-brand-text">
+                  <h2 class="no_toc sr-only">PEPPOL</h2>
+                  <h3 class="no_toc d-none d-md-block">PEPPOL Authority Italia</h3>
+                </div>
+              </a>
+            </div>
+          </div>
+
+          <div class="col-12 col-sm-6 col-md-4 d-flex align-items-center">
+            <div class="it-brand-wrapper">
+              <a href="https://www.agid.gov.it/" target="_blank">
+                <img src="/assets/images/agid-logo.svg"
+                  alt="Agenzia per l'Italia Digitale" height="42">
+              </a>
+            </div>
+          </div>
+
+          <div class="col-12 col-sm-6 col-md-4 d-flex align-items-center">
+            <div class="it-brand-wrapper">
+              <a href="https://intercenter.regione.emilia-romagna.it/" target="_blank">
+                <img src="/assets/images/logo_ic_white.png"
+                  alt="Intercent-ER" height="42">
+              </a>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="py-4 border-white border-top">
+        <div class="row">
+          <div class="col-md-6 pb-2">
+            <a class="text-white" aria-label="Google Map - Via Liszt, 21 - 00144 Roma - Collegamento a sito esterno" href="https://www.google.it/maps/place/Via+Liszt,+21,+00144+Roma+RM/@41.8336525,12.4653778,17z/data=!3m1!4b1!4m5!3m4!1s0x13258ae3d27bf449:0x5aa2ce4a30bafdda!8m2!3d41.8336485!4d12.4675665" title="Collegamento a sito esterno">Via Liszt, 21 - 00144 Roma</a><br>
+Telefono: +39 06852641<br>
+Email: <a class="text-white" href="mailto:peppol@agid.gov.it?subject=%5Bpeppol.agid.gov.it%5D%20Richiesta%20informazioni">peppol@agid.gov.it</a><br>
+PEC: <a class="text-white" href="mailto:protocollo@pec.agid.gov.it">protocollo@pec.agid.gov.it</a><br>
+Assistenza tecnica: <a class="text-white" href="mailto:assistenzaPEPPOL@agid.gov.it">assistenzaPEPPOL@agid.gov.it</a><br>
+
+
+
+          </div>
+          <div class="col-md-4 offset-md-2 pb-2">
+            
+
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+  <div class="it-footer-small-prints clearfix">
+    <div class="container">
+      <h3 class="sr-only">Sezione Link Utili</h3>
+      <ul class="it-footer-small-prints-list list-inline mb-0 d-flex flex-column flex-md-row">
+        
+        <li class="list-inline-item"><a href="/it/privacy"
+            title="Privacy policy"><span lang="en">Privacy policy</span></a></li>
+        
+      </ul>
+    </div>
+  </div>
+</footer>
+<!-- window.__PUBLIC_PATH__ points to fonts folder location -->
+<script>window.__PUBLIC_PATH__ = '/assets/bootstrap-italia/fonts'</script>
+
+<!-- Bootstrap core JS -->
+<script src="/assets/bootstrap-italia/js/bootstrap-italia.bundle.min.js"></script>
+
+<!-- Main JS -->
+<script src="/assets/main.js"></script>
+
+<!-- Matomo -->
+<script type="text/javascript">
+  var _paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="https://ingestion.webanalytics.italia.it/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '9aW3g6E0DR']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Matomo Code -->
+</body>
+
+</html>

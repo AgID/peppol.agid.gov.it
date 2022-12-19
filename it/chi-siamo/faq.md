@@ -90,3 +90,7 @@ Per approfondimenti è possibile consultare la pagina [*Cos'è PEPPOL*](/it/chi-
 
 L'unico elemento da comunicare è il proprio Participant ID PEPPOL.
 
+**FAQ 16 - Con che cadenza scadono i certificati Peppol per l’ambiente di produzione? Come si possono rinnovare?**
+
+I certificati hanno una validità di due anni. In prossimità della loro scadenza, il punto di contatto tecnico del Service Provider riceverà una comunicazione automatica di avviso e dovrà avviare il processo di rinnovo, seguendo la [procedura per il rinnovo](https://peppol-docs.agid.gov.it/manuali_utente/rinnovo_certificati_peppol) prevista da OpenPeppol.
+

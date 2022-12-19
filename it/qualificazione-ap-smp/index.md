@@ -23,6 +23,8 @@ Procedura da seguire per sottoscrivere il Peppol Service Provider Agreement:
 8. Una volta completata con successo la sessione di test e inviato alla Peppol Authority il documento contenente l’esito dei test attraverso la <a href="https://peppol-onboarding.agid.gov.it/piattaforma-onboarding/" data-proofer-ignore>Piattaforma di Onboarding</a>, la Peppol Authority autorizzerà l’emissione dei certificati digitali per l’ambiente di produzione;
 9. La Peppol Authority trasmetterà al Service Provider la documentazione controfirmata digitalmente dalla medesima.
 
+Si segnala che i certificati Peppol per l’ambiente di produzione hanno validità di due anni. Alla loro scadenza, il Service Provider dovrà procedere al loro rinnovo, seguendo la specifica [procedura per il rinnovo](https://peppol-docs.agid.gov.it/manuali_utente/rinnovo_certificati_peppol) prevista da OpenPeppol.
+
 **NOTA BENE**
  
  Ai fini della corretta compilazione dell’Agreement si precisa quanto segue:

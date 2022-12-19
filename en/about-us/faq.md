@@ -88,3 +88,7 @@ PEPPOL is based on three fundamental elements:
 
 The only thing to communicate is your PEPPOL Participant ID.
 
+**FAQ 16 - How often do Peppol certificates for the production environment expire? How can they be renewed?**
+
+Certificates are valid for two years. As their expiry approaches, the Service Provider's technical contact point will receive an automatic notice and will have to start the renewal process, following the [renewal procedure](https://peppol-docs.agid.gov.it/manuali_utente/rinnovo_certificati_peppol) provided by OpenPeppol
+

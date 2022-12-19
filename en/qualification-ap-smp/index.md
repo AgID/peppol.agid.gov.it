@@ -23,6 +23,8 @@ Procedure for signing the Peppol Service Provider Agreement:
 8. Once the test session has been successfully completed and the document containing the results of the tests has been sent to the Peppol Authority through the <a href="https://peppol-onboarding.agid.gov.it/piattaforma-onboarding/" data-proofer-ignore>Onboarding Platform</a>, the Peppol Authority will authorize the issuance of digital certificates for the production environment;
 9. The Peppol Authority will send the documentation digitally countersigned by the same to the Service Provider.
 
+Please note that Peppol certificates for the production environment are valid for two years. When they expire, the Service Provider will have to proceed with their renewal, following the [specific renewal procedure](https://peppol-docs.agid.gov.it/manuali_utente/rinnovo_certificati_peppol) provided by OpenPeppol
+
 **PLEASE NOTE**
  
  For the purposes of correctly completing the Agreement, the following is specified:

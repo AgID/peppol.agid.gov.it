@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://peppol.agid.gov.it/feed.xml" rel="self" type="application/atom+xml" /><link href="https://peppol.agid.gov.it/" rel="alternate" type="text/html" /><updated>2022-12-22T15:47:38+00:00</updated><id>https://peppol.agid.gov.it/feed.xml</id><title type="html">PEPPOL</title><entry xml:lang="en"><title type="html">Peppol November Release 2022</title><link href="https://peppol.agid.gov.it/en/news/peppol-november-release-en/" rel="alternate" type="text/html" title="Peppol November Release 2022" /><published>2022-12-19T00:00:00+00:00</published><updated>2022-12-19T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/en/news/peppol-november-release-en</id><content type="html" xml:base="https://peppol.agid.gov.it/en/news/peppol-november-release-en/">&lt;p&gt;We inform you that the updates relating to the November Release 2022 of OpenPeppol have been published. These updates contain several changes, whose complete release notes are available at the following addresses:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://peppol.agid.gov.it/feed.xml" rel="self" type="application/atom+xml" /><link href="https://peppol.agid.gov.it/" rel="alternate" type="text/html" /><updated>2022-12-22T15:58:51+00:00</updated><id>https://peppol.agid.gov.it/feed.xml</id><title type="html">PEPPOL</title><entry xml:lang="en"><title type="html">Peppol November Release 2022</title><link href="https://peppol.agid.gov.it/en/news/peppol-november-release-en/" rel="alternate" type="text/html" title="Peppol November Release 2022" /><published>2022-12-19T00:00:00+00:00</published><updated>2022-12-19T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/en/news/peppol-november-release-en</id><content type="html" xml:base="https://peppol.agid.gov.it/en/news/peppol-november-release-en/">&lt;p&gt;We inform you that the updates relating to the November Release 2022 of OpenPeppol have been published. These updates contain several changes, whose complete release notes are available at the following addresses:&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ENG/others/guides/release-notes-it/3-order-only/main.html&quot;&gt;Order Only&lt;/a&gt;;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ENG/others/guides/release-notes-it/28-ordering/main.html&quot;&gt;Ordering&lt;/a&gt;;&lt;/li&gt;
@@ -7,12 +7,14 @@
   &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/docs/ENG/invoice/guide/release-notes-it/main.html&quot;&gt;Billing&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;The original content released by OpenPeppol is available &lt;a href=&quot;https://peppol.org/post-award-november-release-publication/&quot;&gt;here&lt;/a&gt;.
-These updates will be mandatory from &lt;strong&gt;06 February 2023&lt;/strong&gt;, nevertheless it is advisable to implement these changes in time and to download the schematron for the validation of the updated documents.
-&lt;!--more--&gt;
-The current documentation, accessible until 05 February 2023, is available at the following address:&lt;/p&gt;
+&lt;p&gt;The original content released by OpenPeppol is available &lt;a href=&quot;https://peppol.org/post-award-november-release-publication/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;These updates will be mandatory from &lt;strong&gt;06 February 2023&lt;/strong&gt;, nevertheless it is advisable to implement these changes in time and to download the schematron for the validation of the updated documents.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;The current documentation, accessible until 05 February 2023, is available at the following address:&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;[Billing&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/my_index_fatt-ENG.jsp&quot;&gt;&lt;/a&gt;;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/my_index_fatt-ENG.jsp&quot;&gt;Billing&lt;/a&gt;;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/my_index-ENG.jsp&quot;&gt;Other processes&lt;/a&gt; (Order Only, Ordering, Order Agreement, Despatch Advice).&lt;/li&gt;
 &lt;/ul&gt;
 

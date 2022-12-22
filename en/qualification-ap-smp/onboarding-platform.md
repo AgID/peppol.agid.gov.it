@@ -8,7 +8,7 @@ order: 4
 child_of_ref: qualificazione-ap-smp
 ---
 
-The <a href="https://peppol-onboarding.agid.gov.it/piattaforma-onboarding/" data-proofer-ignore>Onboarding Platform</a> allows you to automate the test execution phase, an integral part of the accreditation process defined by AgID for Service Providers who require accreditation in the Italian domain for the transmission and receipt of electronic documents (order, response to the order, pre-order - agreed, delivery note, invoice and credit note) through the Peppol network infrastructure.
+The <a href="https://peppol-onboarding.agid.gov.it/piattaforma-onboarding/seviceprovider" data-proofer-ignore>Onboarding Platform</a> allows you to automate the test execution phase, an integral part of the accreditation process defined by AgID for Service Providers who require accreditation in the Italian domain for the transmission and receipt of electronic documents (order, response to the order, pre-order - agreed, delivery note, invoice and credit note) through the Peppol network infrastructure.
 
 The platform manages the execution of tests and interoperability checks, upon completion of which it will be possible to automatically send the list of passed tests to the National Peppol Authority. In this way, the Peppol Authority will be able to verify and certify the actual completion of the accreditation procedure, authorizing the Service Provider to request digital certificates for the production environment.
 

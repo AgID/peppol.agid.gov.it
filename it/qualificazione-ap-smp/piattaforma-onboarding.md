@@ -10,7 +10,7 @@ child_of_ref: qualificazione-ap-smp
 
 *For the English version click [here](https://peppol.agid.gov.it/en/qualification-ap-smp/onboarding-platform/)*
 
-La <a href="https://peppol-onboarding.agid.gov.it/piattaforma-onboarding/" data-proofer-ignore>Piattaforma di Onboarding</a> consente di automatizzare la fase di esecuzione dei test, parte integrante del processo di accreditamento definito da AgID per i Service Provider che richiedono l’accreditamento nel dominio italiano per la trasmissione e la ricezione dei documenti elettronici (ordine, risposta all’ordine, ordine pre-concordato, ddt, fattura e nota di credito) attraverso l’infrastruttura di rete Peppol.
+La <a href="https://peppol-onboarding.agid.gov.it/piattaforma-onboarding/serviceprovider" data-proofer-ignore>Piattaforma di Onboarding</a> consente di automatizzare la fase di esecuzione dei test, parte integrante del processo di accreditamento definito da AgID per i Service Provider che richiedono l’accreditamento nel dominio italiano per la trasmissione e la ricezione dei documenti elettronici (ordine, risposta all’ordine, ordine pre-concordato, ddt, fattura e nota di credito) attraverso l’infrastruttura di rete Peppol.
 
 La piattaforma gestisce l’esecuzione dei test e delle verifiche di interoperabilità, al completamento dei quali sarà possibile inviare automaticamente alla Peppol Authority Nazionale l’elenco dei test superati. In tal modo la Peppol Authority potrà effettuare una verifica e certificare il completamento effettivo della procedura di accreditamento, autorizzando il Service Provider alla richiesta dei certificati digitali per l’ambiente di produzione.
 

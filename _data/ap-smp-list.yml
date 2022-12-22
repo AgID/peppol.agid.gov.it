@@ -29,6 +29,12 @@
   registered_office: Corso Francia, 233/D - 10098 Rivoli (TO)
   contact_point: Giorgio Saglio
   contact_info: saglio@archivium.digital
+- business_name: Aruba PEC S.p.A.
+  ap: true
+  smp: true
+  registered_office: Via San Clemente, 53 - 24036 Ponte San Petro (BG)
+  contact_point: Andrea Piazzesi
+  contact_info: andrea.piazzesi@staff.aruba.it
 - business_name: Consip S.p.A.
   ap: true
   smp: true

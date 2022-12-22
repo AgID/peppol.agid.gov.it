@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://peppol.agid.gov.it/feed.xml" rel="self" type="application/atom+xml" /><link href="https://peppol.agid.gov.it/" rel="alternate" type="text/html" /><updated>2022-12-22T10:22:25+00:00</updated><id>https://peppol.agid.gov.it/feed.xml</id><title type="html">PEPPOL</title><entry xml:lang="it"><title type="html">Peppol November Release 2022</title><link href="https://peppol.agid.gov.it/it/news/peppol-november-release/" rel="alternate" type="text/html" title="Peppol November Release 2022" /><published>2022-12-19T00:00:00+00:00</published><updated>2022-12-19T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/it/news/peppol-november-release</id><content type="html" xml:base="https://peppol.agid.gov.it/it/news/peppol-november-release/">&lt;p&gt;Si comunica che sono stati pubblicati gli aggiornamenti relativi alla November Release 2022 di OpenPeppol, contenenti una serie di modifiche le cui release notes complete sono disponibili agli indirizzi:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://peppol.agid.gov.it/feed.xml" rel="self" type="application/atom+xml" /><link href="https://peppol.agid.gov.it/" rel="alternate" type="text/html" /><updated>2022-12-22T11:26:57+00:00</updated><id>https://peppol.agid.gov.it/feed.xml</id><title type="html">PEPPOL</title><entry xml:lang="it"><title type="html">Peppol November Release 2022</title><link href="https://peppol.agid.gov.it/it/news/peppol-november-release/" rel="alternate" type="text/html" title="Peppol November Release 2022" /><published>2022-12-19T00:00:00+00:00</published><updated>2022-12-19T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/it/news/peppol-november-release</id><content type="html" xml:base="https://peppol.agid.gov.it/it/news/peppol-november-release/">&lt;p&gt;Si comunica che sono stati pubblicati gli aggiornamenti relativi alla November Release 2022 di OpenPeppol, contenenti una serie di modifiche le cui release notes complete sono disponibili agli indirizzi:&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/others/guides/release-notes-it/3-order-only/main.html&quot;&gt;Ordinazione Semplice&lt;/a&gt;;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/others/guides/release-notes-it/28-ordering/main.html&quot;&gt;Ordinazione Completa&lt;/a&gt;;&lt;/li&gt;
@@ -7,8 +7,9 @@
   &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/invoice/guide/release-notes-it/main.html&quot;&gt;Fatturazione&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Il contenuto originale rilasciato da OpenPeppol è disponibile &lt;a href=&quot;https://peppol.org/post-award-november-release-publication/&quot;&gt;qui&lt;/a&gt;.
-Tali aggiornamenti avranno efficacia in via obbligatoria dal giorno &lt;strong&gt;06 febbraio 2023&lt;/strong&gt;, ciononostante si consiglia di recepire per tempo tali modifiche e di scaricare gli schematron per la validazione dei documenti aggiornati.&lt;/p&gt;
+&lt;p&gt;Il contenuto originale rilasciato da OpenPeppol è disponibile &lt;a href=&quot;https://peppol.org/post-award-november-release-publication/&quot;&gt;qui&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Tali aggiornamenti avranno efficacia in via obbligatoria dal giorno &lt;strong&gt;06 febbraio 2023&lt;/strong&gt;, ciononostante si consiglia di recepire per tempo tali modifiche e di scaricare gli schematron per la validazione dei documenti aggiornati.&lt;/p&gt;
 
 &lt;p&gt;Le specifiche tecniche che rimarranno in vigore fino al giorno 05 febbraio 2023 sono disponibili agli indirizzi:&lt;/p&gt;
 &lt;ul&gt;
@@ -100,8 +101,8 @@ Tali aggiornamenti avranno efficacia in via obbligatoria dal giorno &lt;strong&g
     &lt;table&gt;
       &lt;tbody&gt;
         &lt;tr&gt;
-          &lt;td&gt;Aggiornate le regole GR-S-008-1, GR-R-008-2 e GR-R-008-3, prevedendo la stringa ## INVOICE&lt;/td&gt;
-          &lt;td&gt;URL ## invece di ## INVOICE-URL ## (POAC-518);&lt;/td&gt;
+          &lt;td&gt;Aggiornate le regole GR-S-008-1, GR-R-008-2 e GR-R-008-3, prevedendo la stringa [##INVOICE&lt;/td&gt;
+          &lt;td&gt;URL##]() invece di ##INVOICE-URL## (POAC-518);&lt;/td&gt;
         &lt;/tr&gt;
       &lt;/tbody&gt;
     &lt;/table&gt;

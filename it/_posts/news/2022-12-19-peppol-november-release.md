@@ -16,6 +16,7 @@ Si comunica che sono stati pubblicati gli aggiornamenti relativi alla November R
  - [Fatturazione](https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/invoice/guide/release-notes-it/main.html).
 
 Il contenuto originale rilasciato da OpenPeppol è disponibile [qui](https://peppol.org/post-award-november-release-publication/).
+
 Tali aggiornamenti avranno efficacia in via obbligatoria dal giorno **06 febbraio 2023**, ciononostante si consiglia di recepire per tempo tali modifiche e di scaricare gli schematron per la validazione dei documenti aggiornati.
 
 Le specifiche tecniche che rimarranno in vigore fino al giorno 05 febbraio 2023 sono disponibili agli indirizzi:
@@ -76,7 +77,7 @@ Di seguito si riportano i cambiamenti effettuati:
 - Corrette specifiche regole di business derivanti dagli aggiornamenti della EN16931 e relativi schematron (per maggiori informazioni si rimanda al segunete [link](https://github.com/ConnectingEurope/eInvoicing-EN16931/releases/tag/validation-1.3.9))
 
 **Cambiamenti alle regole specifiche per Paese**
- - Aggiornate le regole GR-S-008-1, GR-R-008-2 e GR-R-008-3, prevedendo la stringa ## INVOICE|URL ## invece di ## INVOICE-URL ## (POAC-518);
+ - Aggiornate le regole GR-S-008-1, GR-R-008-2 e GR-R-008-3, prevedendo la stringa [##INVOICE|URL##]() invece di ##INVOICE-URL## (POAC-518);
  - Eliminata la regola DK-R-015;
  - Corretto il testo delle regole DK-R-004 PEPPOL UBL & CII;
  - Corretto il testo della regola DK-R-003 PEPPOL CII.

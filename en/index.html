@@ -404,6 +404,141 @@ the recipient economic operator (Corner 3).
             <div class="head-tags">
               <div class="d-flex justify-content-between w-100">
                 <div></div>
+                <div><span class="data">19
+
+
+December
+
+
+2022
+</span></div>
+              </div>
+            </div>
+            <h5 class="card-title big-heading">Peppol November Release 2022</h5>
+            
+            <h6 class="card-subtitle"></h6>
+            
+            <div class="card-text"><p>We inform you that the updates relating to the November Release 2022 of OpenPeppol have been published. These updates contain several changes, whose complete release notes are available at the following addresses:</p>
+<ul>
+  <li><a href="https://peppol-docs.agid.gov.it/docs-next-release/docs/ENG/others/guides/release-notes-it/3-order-only/main.html">Order Only</a>;</li>
+  <li><a href="https://peppol-docs.agid.gov.it/docs-next-release/docs/ENG/others/guides/release-notes-it/28-ordering/main.html">Ordering</a>;</li>
+  <li><a href="https://peppol-docs.agid.gov.it/docs/docs/ENG/others/guides/release-notes-it/42-orderagreement/main.html">Order Agreement</a>;</li>
+  <li><a href="https://peppol-docs.agid.gov.it/docs/docs/ENG/others/guides/release-notes-it/30-despatchadvice/main.html">Despatch Advice</a>;</li>
+  <li><a href="https://peppol-docs.agid.gov.it/docs/docs/ENG/invoice/guide/release-notes-it/main.html">Billing</a>.</li>
+</ul>
+
+<p>The original content released by OpenPeppol is available <a href="https://peppol.org/post-award-november-release-publication/">here</a>.
+These updates will be mandatory from <strong>06 February 2023</strong>, nevertheless it is advisable to implement these changes in time and to download the schematron for the validation of the updated documents.</p>
+
+<p>The current documentation, accessible until 05 February 2023, is available at the following address:</p>
+<ul>
+  <li>[Billing<a href="https://peppol-docs.agid.gov.it/docs/my_index_fatt-ENG.jsp"></a>;</li>
+  <li><a href="https://peppol-docs.agid.gov.it/docs/my_index-ENG.jsp">Other processes</a> (Order Only, Ordering, Order Agreement, Despatch Advice).</li>
+</ul>
+
+<p>The changes made are described below:</p>
+
+<p><strong>Changes to the specification (documentation), syntax and code lists and validation artifacts – <a href="https://peppol-docs.agid.gov.it/docs-next-release/my_index-ENG.jsp">Other processes</a> (Order Only, Ordering, Order Agreement and Despatch Advice)</strong></p>
+
+<p><strong>Changes to specification (Documentation)</strong></p>
+<ul>
+  <li>BIS Order Only, BIS Ordering – The new types of Orders, 221 Budget Order and 226 Regulation Order, have been added;</li>
+  <li>BIS Order Only, BIS Ordering – The indication of the CUP at the header level has been changed;</li>
+  <li>BIS Ordering – Fixed the second order response example in section 7.1.1 of the documentation;</li>
+  <li>BIS Order Agreement – The indication the VAT number and Tax Code of the Supplier/Seller and Customer/Buyer has been changed;</li>
+  <li>BIS Order Only, BIS Ordering, BIS Order Agreement, BIS Despatch Advice – Updated examples to reflect syntax changes;</li>
+  <li>Removed the “Last updated” indication in the footer.</li>
+</ul>
+
+<p><strong>Syntax changes</strong></p>
+<ul>
+  <li>Order Only
+    <ul>
+      <li>Added cbc:StartTime – Start time and cbc:EndTime – End time as optional fields of the cac:RequestedDeliveryPeriod structure;</li>
+      <li>Added cac:ProjectReference – Project reference as an optional header-level structure.</li>
+    </ul>
+  </li>
+  <li>Ordering
+    <ul>
+      <li>Added cbc:StartTime – Start time and cbc:EndTime – End time as optional fields of the cac:PromisedDeliveryPeriod structure.</li>
+    </ul>
+  </li>
+  <li>Order Agreement
+    <ul>
+      <li>Added cbc:DocumentTypeCode as an optional field of the cac:ItemSpecificationDocumentReference structure at row level;</li>
+      <li>Added cbc:CompanyID as an optional field of the cac:PartyLegalEntity structure for both the Supplier (cac:SellerSupplierParty) and the Customer (cac:BuyerCustomerParty).</li>
+    </ul>
+  </li>
+  <li>Despatch Advice
+    <ul>
+      <li>Added cbc:SalesOrderLineID - Sales order line identifier as an optional field on the DA line level;</li>
+      <li>Added cac:CommodityClassification – Product classification as optional structure at line level of DA;</li>
+      <li>Added cac:AdditionalDocumentReference – Additional documents as an optional header-level structure. Added cac:DocumentsReference – Additional document reference as a row-level structure;</li>
+      <li>Added cac:ShipmentStage – Shipment status information as an optional structure at the header level. The related field cbc:TransportModeCode - Mode of transport is optional and can be filled in using the UN/ECE Recommendation 19 codelist;</li>
+      <li>Implemented the request of the Italian Peppol Authority to insert the structure cac:PartyIdentification of the Carrier (cac:CarrierParty), which is now no longer an extension of the Italian syntax;</li>
+      <li>Implemented the request of the Italian Peppol Authority to make mandatory the field cbc:DeliveredQuantity of the cac:DespatchLine structure.</li>
+    </ul>
+  </li>
+</ul>
+
+<p><strong>Changes to code lists and validation artifacts</strong></p>
+<ul>
+  <li>Removed the following validation rules related to the tax category:
+    <ul>
+      <li>Order Only - Removed validation rules related to tax category: PEPPOL-T01-B20301 rule applied to the field cac:AllowanceCharge/cac:TaxCategory/cbc:ID and PEPPOL-T01-B28701 rule applied to the field cac:Item/cac:ClassifiedTaxCategory/cbc:ID;</li>
+      <li>Ordering – Removed the tax category validation rule: PEPPOL-T76-B07701 rule applied to the field cac:SellerSubstitutedLineItem/cac:Item/cac:ClassifiedTaxCategory/cbc:ID;</li>
+      <li>Order Agreement – Removed tax category validation rules: PEPPOL-T110-B13301 rule applied to the field cac:AllowanceCharge/cac:TaxCategory/cbc:ID, PEPPOL-T110-B14601 rule applied to the field cac:TaxTotal/cac:TaxSubtotal/cac:TaxCategory/cbc:ID and PEPPOL-T110-B22301 rule applied to the field cac:Item/cac:ClassifiedTaxCategory/cbc:ID.</li>
+    </ul>
+  </li>
+  <li>The Order Type Code (UNCL1001 subset) codelist has been integrated with two new order types: 221 (blanket order) and 226 (call off order);</li>
+  <li>Changed the severity of the PEPPOL-COMMON-R049 (ICD 0007) rule for the validation of the format of the “Swedish organization number” from “warning” to “fatal”, as announced in the May Release 2022;</li>
+  <li>Corrected the PEPPOL-COMMON-R050 rule for the validation of the “Australian Business Number (ABN)”;</li>
+  <li>Added US code 9959 to EAS encoding. Removed the Italian codes 9906 and 9907 from the same coding. Adjusted the validation artifacts;</li>
+  <li>Added codes 0217 (Netherlands), 0218, 0219 and 0220 (Latvia) to the ICD encoding and adjusted the validation artifacts.</li>
+</ul>
+
+<p><strong>Changes to the specification (documentation), syntax and code lists and validation artifacts – <a href="https://peppol-docs.agid.gov.it/docs-next-release/my_index_fatt-ENG.jsp">Billing</a></strong>
+<strong>Changes to specification (Documentation)</strong></p>
+<ul>
+  <li>Removed the “Last updated” indication in the footer;</li>
+</ul>
+
+<p><strong>Changes to code lists and validation artifacts</strong></p>
+<ul>
+  <li>Changed the severity of the PEPPOL-COMMON-R049 (ICD 0007) rule for the validation of the format of the “Swedish organization number” from “warning” to “fatal”, as announced in the May Release 2022;</li>
+  <li>Corrected the PEPPOL-COMMON-R050 rule for the validation of the “Australian Business Number (ABN)”;</li>
+  <li>Added US code 9959 to EAS encoding. Removed the Italian codes 9906 and 9907 from the same coding. Adjusted the validation artifacts;</li>
+  <li>Added codes 0217 (Netherlands), 0218, 0219 and 0220 (Latvia) to the ICD coding and adjusted the validation artifacts;</li>
+  <li>Corrected specific business rules deriving from updates to EN16931 and related schematrons (for more information, see the link).</li>
+</ul>
+
+<p><strong>Country Specific Rule Changes</strong></p>
+<ul>
+  <li>Updated rules GR-S-008-1, GR-R-008-2 and GR-R-008-3, requiring the string ##INVOICE|URL## instead of ##INVOICE-URL## (POAC-518);</li>
+  <li>Eliminated the rule DK-R-015;</li>
+  <li>Correction of rules text DK-R-004 PEPPOL UBL &amp; CII;</li>
+  <li>Correction of DK-R-003 PEPPOL CII rule text.</li>
+</ul>
+</div>
+            <span class="card-signature"></span>
+            <a aria-label="Read more about: Peppol November Release 2022" class="read-more" href="/en/news/peppol-november-release-en/">
+              <span class="text">Read more</span>
+              <svg class="icon">
+                <use xlink:href="/assets/bootstrap-italia/svg/sprite.svg#it-arrow-right"></use>
+              </svg>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <div class="col-12 col-lg-6">
+      <div class="card-wrapper">
+        <div class="card">
+          <div class="card-body">
+            <div class="head-tags">
+              <div class="d-flex justify-content-between w-100">
+                <div></div>
                 <div><span class="data">2
 
 

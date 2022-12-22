@@ -18,11 +18,11 @@ Si comunica che sono stati pubblicati gli aggiornamenti relativi alla November R
 Il contenuto originale rilasciato da OpenPeppol è disponibile [qui](https://peppol.org/post-award-november-release-publication/).
 
 Tali aggiornamenti avranno efficacia in via obbligatoria dal giorno **06 febbraio 2023**, ciononostante si consiglia di recepire per tempo tali modifiche e di scaricare gli schematron per la validazione dei documenti aggiornati.
-
+<!--more-->
 Le specifiche tecniche che rimarranno in vigore fino al giorno 05 febbraio 2023 sono disponibili agli indirizzi:
  - [Fatturazione](https://peppol-docs.agid.gov.it/docs/my_index_fatt.jsp);
  - [Altri processi](https://peppol-docs.agid.gov.it/docs/my_index.jsp) (Ordinazione semplice, Ordinazione completa, Ordinazione pre-concordata, Documento di trasporto).
-<!--more-->
+
 
 Di seguito si riportano i cambiamenti effettuati:
 

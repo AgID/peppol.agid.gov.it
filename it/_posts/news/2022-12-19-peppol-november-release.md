@@ -77,7 +77,7 @@ Di seguito si riportano i cambiamenti effettuati:
 - Corrette specifiche regole di business derivanti dagli aggiornamenti della EN16931 e relativi schematron (per maggiori informazioni si rimanda al segunete [link](https://github.com/ConnectingEurope/eInvoicing-EN16931/releases/tag/validation-1.3.9))
 
 **Cambiamenti alle regole specifiche per Paese**
- - Aggiornate le regole GR-S-008-1, GR-R-008-2 e GR-R-008-3, prevedendo la stringa ##INVOICE | URL## invece di ##INVOICE-URL## (POAC-518);
+ - Aggiornate le regole GR-S-008-1, GR-R-008-2 e GR-R-008-3, prevedendo la stringa ##INVOICE URL## invece di ##INVOICE-URL## (POAC-518);
  - Eliminata la regola DK-R-015;
  - Corretto il testo delle regole DK-R-004 PEPPOL UBL & CII;
  - Corretto il testo della regola DK-R-003 PEPPOL CII.

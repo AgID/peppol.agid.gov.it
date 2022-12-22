@@ -16,10 +16,12 @@ We inform you that the updates relating to the November Release 2022 of OpenPepp
  - [Billing](https://peppol-docs.agid.gov.it/docs/docs/ENG/invoice/guide/release-notes-it/main.html).
 
 The original content released by OpenPeppol is available [here](https://peppol.org/post-award-november-release-publication/).
+
 These updates will be mandatory from **06 February 2023**, nevertheless it is advisable to implement these changes in time and to download the schematron for the validation of the updated documents.
 <!--more-->
+
 The current documentation, accessible until 05 February 2023, is available at the following address:
-- [Billing[](https://peppol-docs.agid.gov.it/docs/my_index_fatt-ENG.jsp);
+- [Billing](https://peppol-docs.agid.gov.it/docs/my_index_fatt-ENG.jsp);
 - [Other processes](https://peppol-docs.agid.gov.it/docs/my_index-ENG.jsp) (Order Only, Ordering, Order Agreement, Despatch Advice).
 
 The changes made are described below:

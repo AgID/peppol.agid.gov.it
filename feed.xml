@@ -1,111 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://peppol.agid.gov.it/feed.xml" rel="self" type="application/atom+xml" /><link href="https://peppol.agid.gov.it/" rel="alternate" type="text/html" /><updated>2023-01-10T17:28:40+00:00</updated><id>https://peppol.agid.gov.it/feed.xml</id><title type="html">PEPPOL</title><entry xml:lang="en"><title type="html">Reporting activity towards OpenPeppol</title><link href="https://peppol.agid.gov.it/en/news/openpeppol-reporting-activity/" rel="alternate" type="text/html" title="Reporting activity towards OpenPeppol" /><published>2023-01-10T00:00:00+00:00</published><updated>2023-01-10T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/en/news/</id><content type="html" xml:base="https://peppol.agid.gov.it/en/news/openpeppol-reporting-activity/">It is recalled that, on the basis of paragraph 9.4.8 of the Agreement signed between the Peppol Service Providers and the national Peppol Authority, the Service Providers are obliged to make available to the Peppol Coordinating Authority of OpenPeppol, on a monthly basis, a set of data statistics that allow you to monitor the operations performed on the Peppol network, identify and manage risks and problems within the network itself.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://peppol.agid.gov.it/feed.xml" rel="self" type="application/atom+xml" /><link href="https://peppol.agid.gov.it/" rel="alternate" type="text/html" /><updated>2023-01-10T17:35:38+00:00</updated><id>https://peppol.agid.gov.it/feed.xml</id><title type="html">PEPPOL</title><entry xml:lang="en"><title type="html">Reporting activity towards OpenPeppol</title><link href="https://peppol.agid.gov.it/en/news/openpeppol-reporting-activity/" rel="alternate" type="text/html" title="Reporting activity towards OpenPeppol" /><published>2023-01-10T00:00:00+00:00</published><updated>2023-01-10T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/en/news/openpeppol-reporting-activity</id><content type="html" xml:base="https://peppol.agid.gov.it/en/news/openpeppol-reporting-activity/">&lt;p&gt;It is recalled that, on the basis of paragraph 9.4.8 of the Agreement signed between the Peppol Service Providers and the national Peppol Authority, the Service Providers are obliged to make available to the Peppol Coordinating Authority of OpenPeppol, on a monthly basis, a set of data statistics that allow you to monitor the operations performed on the Peppol network, identify and manage risks and problems within the network itself.&lt;/p&gt;
 
-Based on the information available to date, the reporting activities of the SPs towards OpenPeppol will presumably be launched during the third quarter of 2023 and will concern the periodic collection of data relating to the volumes of incoming and outgoing transactions of the Access Point of the SP.
-The relative specifications in the original language are currently available in the test environment at the [link](https://test-docs.peppol.eu/reporting/EUR-1.0.0-RC2/tsr/).
+&lt;p&gt;Based on the information available to date, the reporting activities of the SPs towards OpenPeppol will presumably be launched during the third quarter of 2023 and will concern the periodic collection of data relating to the volumes of incoming and outgoing transactions of the Access Point of the SP.
+The relative specifications in the original language are currently available in the test environment at the &lt;a href=&quot;https://test-docs.peppol.eu/reporting/EUR-1.0.0-RC2/tsr/&quot;&gt;link&lt;/a&gt;.&lt;/p&gt;
 
-AgID will provide further information on this as soon as they are available.</content><author><name></name></author><category term="en" /><category term="news" /><summary type="html">It is recalled that, on the basis of paragraph 9.4.8 of the Agreement signed between the Peppol Service Providers and the national Peppol Authority, the Service Providers are obliged to make available to the Peppol Coordinating Authority of OpenPeppol, on a monthly basis, a set of data statistics that allow you to monitor the operations performed on the Peppol network, identify and manage risks and problems within the network itself. Based on the information available to date, the reporting activities of the SPs towards OpenPeppol will presumably be launched during the third quarter of 2023 and will concern the periodic collection of data relating to the volumes of incoming and outgoing transactions of the Access Point of the SP. The relative specifications in the original language are currently available in the test environment at the [link](https://test-docs.peppol.eu/reporting/EUR-1.0.0-RC2/tsr/). AgID will provide further information on this as soon as they are available.</summary></entry><entry xml:lang="it"><title type="html">Peppol November Release 2022</title><link href="https://peppol.agid.gov.it/it/news/peppol-november-release/" rel="alternate" type="text/html" title="Peppol November Release 2022" /><published>2023-01-10T00:00:00+00:00</published><updated>2023-01-10T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/it/news/attivita-reporting-openpeppol</id><content type="html" xml:base="https://peppol.agid.gov.it/it/news/peppol-november-release/">&lt;p&gt;Si comunica che sono stati pubblicati gli aggiornamenti relativi alla November Release 2022 di OpenPeppol, contenenti una serie di modifiche le cui release notes complete sono disponibili agli indirizzi:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/others/guides/release-notes-it/3-order-only/main.html&quot;&gt;Ordinazione Semplice&lt;/a&gt;;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/others/guides/release-notes-it/28-ordering/main.html&quot;&gt;Ordinazione Completa&lt;/a&gt;;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/others/guides/release-notes-it/42-orderagreement/main.html&quot;&gt;Ordinazione Pre-concordata&lt;/a&gt;;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/others/guides/release-notes-it/30-despatchadvice/main.html&quot;&gt;Documento di Trasporto&lt;/a&gt;;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/invoice/guide/release-notes-it/main.html&quot;&gt;Fatturazione&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;AgID will provide further information on this as soon as they are available.&lt;/p&gt;</content><author><name></name></author><category term="en" /><category term="news" /><summary type="html">It is recalled that, on the basis of paragraph 9.4.8 of the Agreement signed between the Peppol Service Providers and the national Peppol Authority, the Service Providers are obliged to make available to the Peppol Coordinating Authority of OpenPeppol, on a monthly basis, a set of data statistics that allow you to monitor the operations performed on the Peppol network, identify and manage risks and problems within the network itself. Based on the information available to date, the reporting activities of the SPs towards OpenPeppol will presumably be launched during the third quarter of 2023 and will concern the periodic collection of data relating to the volumes of incoming and outgoing transactions of the Access Point of the SP. The relative specifications in the original language are currently available in the test environment at the link. AgID will provide further information on this as soon as they are available.</summary></entry><entry xml:lang="it"><title type="html">Attività di Reporting verso OpenPeppol</title><link href="https://peppol.agid.gov.it/it/news/attivita-reporting-openpeppol/" rel="alternate" type="text/html" title="Attività di Reporting verso OpenPeppol" /><published>2023-01-10T00:00:00+00:00</published><updated>2023-01-10T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/it/news/attivita-reporting-openpeppol</id><content type="html" xml:base="https://peppol.agid.gov.it/it/news/attivita-reporting-openpeppol/">&lt;p&gt;Si ricorda che, sulla base del paragrafo 9.4.8 dell’Agreement sottoscritto tra i Service Provider Peppol e la Peppol Authority nazionale, i Service Provider sono obbligati a mettere a disposizione della Peppol Coordinating Authority di OpenPeppol, con cadenza mensile, un insieme di dati statistici che consentono di monitorare le operazioni eseguire sulla rete Peppol, identificare e gestire i rischi e i problemi all’interno della rete stessa.&lt;/p&gt;
 
-&lt;p&gt;Il contenuto originale rilasciato da OpenPeppol è disponibile &lt;a href=&quot;https://peppol.org/post-award-november-release-publication/&quot;&gt;qui&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Sulla base delle informazioni ad oggi disponibili, le attività di reporting dei SP verso OpenPeppol saranno avviate presumibilmente nel corso del terzo trimestre 2023 e riguarderanno la raccolta periodica dei dati relativi ai volumi di operazioni in entrata e in uscita dell’Access Point del SP.
+Le relative specifiche in lingua originale sono attualmente disponibili in ambiente di test al &lt;a href=&quot;https://test-docs.peppol.eu/reporting/EUR-1.0.0-RC2/tsr/&quot;&gt;link&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Tali aggiornamenti avranno efficacia in via obbligatoria dal giorno &lt;strong&gt;06 febbraio 2023&lt;/strong&gt;, ciononostante si consiglia di recepire per tempo tali modifiche e di scaricare gli schematron per la validazione dei documenti aggiornati.
-&lt;!--more--&gt;
-Le specifiche tecniche che rimarranno in vigore fino al giorno 05 febbraio 2023 sono disponibili agli indirizzi:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/my_index_fatt.jsp&quot;&gt;Fatturazione&lt;/a&gt;;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/my_index.jsp&quot;&gt;Altri processi&lt;/a&gt; (Ordinazione semplice, Ordinazione completa, Ordinazione pre-concordata, Documento di trasporto).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Di seguito si riportano i cambiamenti effettuati:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Cambiamenti alla documentazione, alla sintassi e alle code lists e artefatti di validazione – &lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/my_index.jsp&quot;&gt;Altri profili&lt;/a&gt; (ordine, ordine con risposta, ordine pre-concordato e documento di trasporto)&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Cambiamenti alla specifica (Documentazione)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;BIS Ordinazione Semplice, BIS Ordinazione Completa – Inserite le nuove tipologie di Ordinazione, 221 Ordinazione a budget e 226 Ordinazione di regolazione;&lt;/li&gt;
-  &lt;li&gt;BIS Ordinazione Semplice, BIS Ordinazione Completa – Modificata la modalità di indicazione del CUP a livello di testata;&lt;/li&gt;
-  &lt;li&gt;BIS Ordinazione Completa – Corretto il secondo esempio di risposta all’ordine nella sezione 7.1.1 della documentazione;&lt;/li&gt;
-  &lt;li&gt;BIS Ordinazione Pre-Concordata – Modificata la modalità di indicazione di Partita IVA e Codice Fiscale di Fornitore/Venditore e Cliente/Acquirente;&lt;/li&gt;
-  &lt;li&gt;BIS Ordinazione Semplice, BIS Ordinazione Completa, BIS Ordinazione Pre-Concordata, BIS Documento di Trasporto – Aggiornati gli esempi in funzione delle modifiche alla sintassi;&lt;/li&gt;
-  &lt;li&gt;Eliminata indicazione del “Last updated” nel piè di pagina.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Cambiamenti alla sintassi&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Ordine
-    &lt;ul&gt;
-      &lt;li&gt;Aggiunti cbc:StartTime – Ora di inizio e cbc:EndTime – Ora di fine come campi opzionali della struttura cac:RequestedDeliveryPeriod;&lt;/li&gt;
-      &lt;li&gt;Aggiunta cac:ProjectReference – Riferimento al progetto come struttura opzionale a livello di testata.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Risposta all’ordine
-    &lt;ul&gt;
-      &lt;li&gt;Aggiunti cbc:StartTime – Ora di inizio e cbc:EndTime – Ora di fine come campi opzionali della struttura cac:PromisedDeliveryPeriod.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Ordine pre-concordato
-    &lt;ul&gt;
-      &lt;li&gt;Aggiunto cbc:DocumentTypeCode come campo opzionale della struttura cac:ItemSpecificationDocumentReference a livello di riga;&lt;/li&gt;
-      &lt;li&gt;Aggiunto cbc:CompanyID come campo opzionale della struttura cac:PartyLegalEntity sia per il Fornitore (cac:SellerSupplierParty) che per il Cliente (cac:BuyerCustomerParty).&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Documento di trasporto
-    &lt;ul&gt;
-      &lt;li&gt;Aggiunto cbc:SalesOrderLineID - Identificativo linea d’ordine di vendita come campo opzionale a livello di riga di DDT;&lt;/li&gt;
-      &lt;li&gt;Aggiunto cac:CommodityClassification – Classificazione prodotto come struttura opzionale a livello di riga di DDT;&lt;/li&gt;
-      &lt;li&gt;Aggiunta cac:AdditionalDocumentReference – Documenti addizionali come struttura opzionale a livello di testata. Aggiunta cac:DocumentiReference – Riferimento a documento addizionale come struttura a livello di riga;&lt;/li&gt;
-      &lt;li&gt;Aggiunta cac:ShipmentStage – Informazioni sullo stato della spedizione come struttura opzionale a livello di testata. Il relativo campo cbc:TransportModeCode – Modalità di trasporto è opzionale e valorizzabile tramite codelist UN/ECE Recommendation 19;&lt;/li&gt;
-      &lt;li&gt;Recepita la richiesta della Peppol Authority italiana di inserire la struttura cac:PartyIdentification del Vettore (cac:CarrierParty), che ora non risulta più un’estensione della sintassi italiana;&lt;/li&gt;
-      &lt;li&gt;Recepita la richiesta della Peppol Authority italiana di rendere obbligatorio il campo cbc:DeliveredQuantity della struttura cac:DespatchLine.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Cambiamenti alle code lists e artefatti di validazione&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Rimosse le seguenti regole di validazione relative alla categoria fiscale:
-    &lt;ul&gt;
-      &lt;li&gt;Ordine - regola PEPPOL-T01-B20301 applicata al campo cac:AllowanceCharge/cac:TaxCategory/cbc:ID e regola PEPPOL-T01-B28701 applicata al campo cac:Item/cac:ClassifiedTaxCategory/cbc:ID;&lt;/li&gt;
-      &lt;li&gt;Risposta all’ordine – regola PEPPOL-T76-B07701 applicata al campo cac:SellerSubstitutedLineItem/cac:Item/cac:ClassifiedTaxCategory/cbc:ID;&lt;/li&gt;
-      &lt;li&gt;Ordine Pre-Concordato – regola PEPPOL-T110-B13301 applicata al campo cac:AllowanceCharge/cac:TaxCategory/cbc:ID e regola PEPPOL-T110-B14601 applicata al campo cac:TaxTotal/cac:TaxSubtotal/cac:TaxCategory/cbc:ID e regola PEPPOL-T110-B22301 applicata al campo cac:Item/cac:ClassifiedTaxCategory/cbc:ID.&lt;/li&gt;
-      &lt;li&gt;Integrata la codelist Order Type Code (UNCL1001 subset) con due nuovi tipi di ordinazione: 221 Ordinazione a budget e 226 Ordinazione di regolazione. Si applica nelle specifiche di Ordinazione Semplice e Ordinazione Completa;&lt;/li&gt;
-      &lt;li&gt;Modificata da “warning” a “fatal” la severità della regola PEPPOL-COMMON-R049 (ICD 0007) per la validazione del formato della “Swedish organisation number”, come annunciato nella May Release 2022;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Corretta la regola PEPPOL-COMMON-R050 per la validazione del “Australian Business Number (ABN)”;&lt;/li&gt;
-  &lt;li&gt;Aggiunto il codice statunitense 9959 alla codifica EAS. Rimossi i codici italiani 9906 e 9907 dalla stessa codifica. Adeguati gli artefatti di validazione;&lt;/li&gt;
-  &lt;li&gt;Aggiunti i codici 0217 (Paesi Bassi), 0218, 0219 e 0220 (Lettonia) alla codifica ICD e adeguati gli artefatti di validazione.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Cambiamenti alla documentazione, alla sintassi e alle code lists e artefatti di validazione – &lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/my_index_fatt.jsp&quot;&gt;Fatturazione&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Cambiamenti alla specifica (Documentazione)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Eliminata indicazione del “Last updated” nel piè di pagina;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Cambiamenti alle code lists e artefatti di validazione&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Modificata da “warning” a “fatal” la severità della regola PEPPOL-COMMON-R049 (ICD 0007) per la validazione del formato della “Swedish organisation number”, come annunciato nella May Release 2022;&lt;/li&gt;
-  &lt;li&gt;Corretta la regola PEPPOL-COMMON-R050 per la validazione del “Australian Business Number (ABN)”;&lt;/li&gt;
-  &lt;li&gt;Aggiunto il codice statunitense 9959 alla codifica EAS. Rimossi i codici italiani 9906 e 9907 dalla stessa codifica. Adeguati gli artefatti di validazione;&lt;/li&gt;
-  &lt;li&gt;Aggiunti i codici 0217 (Paesi Bassi), 0218, 0219 e 0220 (Lettonia) alla codifica ICD e adeguati gli artefatti di validazione.&lt;/li&gt;
-  &lt;li&gt;Corrette specifiche regole di business derivanti dagli aggiornamenti della EN16931 e relativi schematron (per maggiori informazioni si rimanda al segunete &lt;a href=&quot;https://github.com/ConnectingEurope/eInvoicing-EN16931/releases/tag/validation-1.3.9&quot;&gt;link&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Cambiamenti alle regole specifiche per Paese&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Aggiornate le regole GR-S-008-1, GR-R-008-2 e GR-R-008-3, prevedendo la stringa ##INVOICE|URL## invece di ##INVOICE-URL## (POAC-518);&lt;/li&gt;
-  &lt;li&gt;Eliminata la regola DK-R-015;&lt;/li&gt;
-  &lt;li&gt;Corretto il testo delle regole DK-R-004 PEPPOL UBL &amp;amp; CII;&lt;/li&gt;
-  &lt;li&gt;Corretto il testo della regola DK-R-003 PEPPOL CII.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="it" /><category term="news" /><summary type="html">Si comunica che sono stati pubblicati gli aggiornamenti relativi alla November Release 2022 di OpenPeppol, contenenti una serie di modifiche le cui release notes complete sono disponibili agli indirizzi: Ordinazione Semplice; Ordinazione Completa; Ordinazione Pre-concordata; Documento di Trasporto; Fatturazione. Il contenuto originale rilasciato da OpenPeppol è disponibile qui. Tali aggiornamenti avranno efficacia in via obbligatoria dal giorno 06 febbraio 2023, ciononostante si consiglia di recepire per tempo tali modifiche e di scaricare gli schematron per la validazione dei documenti aggiornati.</summary></entry><entry xml:lang="en"><title type="html">Peppol November Release 2022</title><link href="https://peppol.agid.gov.it/en/news/peppol-november-release-en/" rel="alternate" type="text/html" title="Peppol November Release 2022" /><published>2022-12-19T00:00:00+00:00</published><updated>2022-12-19T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/en/news/peppol-november-release-en</id><content type="html" xml:base="https://peppol.agid.gov.it/en/news/peppol-november-release-en/">&lt;p&gt;We inform you that the updates relating to the November Release 2022 of OpenPeppol have been published. These updates contain several changes, whose complete release notes are available at the following addresses:&lt;/p&gt;
+&lt;p&gt;AgID fornirà ulteriori indicazioni in merito non appena queste saranno disponibili.&lt;/p&gt;</content><author><name></name></author><category term="it" /><category term="news" /><summary type="html">Si ricorda che, sulla base del paragrafo 9.4.8 dell’Agreement sottoscritto tra i Service Provider Peppol e la Peppol Authority nazionale, i Service Provider sono obbligati a mettere a disposizione della Peppol Coordinating Authority di OpenPeppol, con cadenza mensile, un insieme di dati statistici che consentono di monitorare le operazioni eseguire sulla rete Peppol, identificare e gestire i rischi e i problemi all’interno della rete stessa. Sulla base delle informazioni ad oggi disponibili, le attività di reporting dei SP verso OpenPeppol saranno avviate presumibilmente nel corso del terzo trimestre 2023 e riguarderanno la raccolta periodica dei dati relativi ai volumi di operazioni in entrata e in uscita dell’Access Point del SP. Le relative specifiche in lingua originale sono attualmente disponibili in ambiente di test al link. AgID fornirà ulteriori indicazioni in merito non appena queste saranno disponibili.</summary></entry><entry xml:lang="en"><title type="html">Peppol November Release 2022</title><link href="https://peppol.agid.gov.it/en/news/peppol-november-release-en/" rel="alternate" type="text/html" title="Peppol November Release 2022" /><published>2022-12-19T00:00:00+00:00</published><updated>2022-12-19T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/en/news/peppol-november-release-en</id><content type="html" xml:base="https://peppol.agid.gov.it/en/news/peppol-november-release-en/">&lt;p&gt;We inform you that the updates relating to the November Release 2022 of OpenPeppol have been published. These updates contain several changes, whose complete release notes are available at the following addresses:&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ENG/others/guides/release-notes-it/3-order-only/main.html&quot;&gt;Order Only&lt;/a&gt;;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ENG/others/guides/release-notes-it/28-ordering/main.html&quot;&gt;Ordering&lt;/a&gt;;&lt;/li&gt;

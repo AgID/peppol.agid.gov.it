@@ -14,6 +14,7 @@ Le specifiche tecniche attualmente in vigore sono disponibili agli indirizzi:
 - [Altri processi](https://peppol-docs.agid.gov.it/docs/my_index.jsp) (Ordinazione semplice, Ordinazione completa, Ordinazione pre-concordata, Documento di trasporto).
 
 Le novità introdotte con la November Release 2022 sono descritte nelle Release Notes relative al singolo processo, disponibili agli indirizzi:
+<!--more-->
 - [Ordinazione Semplice](https://peppol-docs.agid.gov.it/docs/docs/ITA/others/guides/release-notes-it/3-order-only/main.html);
 - [Ordinazione Completa](https://peppol-docs.agid.gov.it/docs/docs/ITA/others/guides/release-notes-it/28-ordering/main.html);
 - [Ordinazione Pre-concordata](https://peppol-docs.agid.gov.it/docs/docs/ITA/others/guides/release-notes-it/42-orderagreement/main.html);

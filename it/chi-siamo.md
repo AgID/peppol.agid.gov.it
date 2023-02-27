@@ -35,8 +35,7 @@ I rapporti tra i diversi soggetti a vario titolo interessati (quindi anche
 quelli tra i Service Provider e le Authority) sono regolati da un insieme di
 Agreement, i cui contenuti sono gestiti da OpenPEPPOL.
 
-Ulteriori informazioni sulla governance di PEPPOL sono reperibili all’indirizzo
-https://peppol.eu/about-openpeppol/openpeppol-organisation/.
+Ulteriori informazioni sulla governance di PEPPOL sono reperibili al [presente indirizzo](https://peppol.org/organisation/).
 
 AGID ricopre il ruolo di PEPPOL Authority in Italia e svolge le seguenti
 funzioni:

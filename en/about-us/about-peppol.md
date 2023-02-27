@@ -8,7 +8,7 @@ order: 1
 child_of_ref: chi-siamo
 ---
 
-[PEPPOL](https://peppol.eu/) allows fast, efficient, and borderless commercial
+[PEPPOL](https://peppol.org/) allows fast, efficient, and borderless commercial
 exchanges.
 
 PEPPOL document specifications encompass global business processes by

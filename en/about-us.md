@@ -21,7 +21,7 @@ The government is guaranteed by 2 levels of Authority:
 
 The relationships between the various parties involved in various capacities (therefore also those between Service Providers and Authorities) are governed by a set of Agreements, whose contents are managed by OpenPEPPOL.
 
-Further information on the governance of PEPPOL can be found at https://peppol.eu/about-openpeppol/openpeppol-organisation/.
+Further information on the governance of PEPPOL can be found at [this link](https://peppol.org/organisation/).
 
 AGID plays the role of PEPPOL Authority in Italy and performs the following functions:
 

@@ -42,7 +42,7 @@ To become a PEPPOL certified intermediary in the Italian domain, it is necessary
 
 Two lists of certified intermediaries are available:
 
--   [Full list of PEPPOL intermediaries](https://peppol.eu/who-is-who/peppol-certified-aps/)
+-   [Full list of PEPPOL intermediaries](https://peppol.org/list-of-members/)
 
 -   [List of PEPPOL intermediaries certified by the Italian PEPPOL Authority (AGID)](https://peppol.agid.gov.it/it/qualificazione-ap-smp/)
 

@@ -8,7 +8,7 @@ order: 1
 child_of_ref: chi-siamo
 ---
 
-[PEPPOL](https://peppol.eu/) abilita il commercio veloce, efficiente e senza
+[PEPPOL](https://peppol.org/) abilita il commercio veloce, efficiente e senza
 confini. 
 
 Le specifiche dei documenti PEPPOL integrano i processi aziendali globali

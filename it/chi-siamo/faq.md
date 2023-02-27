@@ -42,7 +42,7 @@ Per diventare intermediario certificato PEPPOL nel dominio italiano, è necessar
 
 Sono disponibili due elenchi di intermediari certificati:
 
-- [Elenco completo degli intermediari PEPPOL](https://peppol.eu/who-is-who/peppol-certified-aps/)
+- [Elenco completo degli intermediari PEPPOL](https://peppol.org/list-of-members/)
 
 - [Elenco degli intermediari PEPPOL certificati dalla PEPPOL Authority Italiana (AGID)](https://peppol.agid.gov.it/it/qualificazione-ap-smp/elenco-ap-smp/)
 

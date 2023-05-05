@@ -227,6 +227,12 @@
   registered_office: Via Ammiraglio Thaon di Revel, 20 - 90142 Palermo
   contact_point: Matteo Lapunzina
   contact_info: protocollo@siciliaeservizi.it
+- business_name: Sikelia Gestione Archivi s.r.l
+  ap: true
+  smp: false
+  registered_office: Via XVI Strada G. Virlinzi, 70/74 - 95121 Catania
+  contact_point: Claudio Lo Piccolo
+  contact_info: claudio.lopiccolo@sikeliarchivi.it
 - business_name: STDM S.r.l
   ap: true
   smp: true

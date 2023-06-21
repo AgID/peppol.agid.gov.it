@@ -19,3 +19,17 @@ We inform you that the updates related to the May Release 2023 of OpenPeppol hav
 The original content released by OpenPeppol is available [here](https://peppol.org/may-2023-release-of-the-peppol-post-award-artefact/).
 
 **These updates will be mandatory starting from 7th August 2023, nevertheless we advise to implement these changes in time and to download the schematron for the validation of the updated documents.**
+
+The current documentation, accessible until 6th August 2023, is available at the following addresses:
+ - [Billing](https://peppol-docs.agid.gov.it/docs/my_index_fatt-ENG.jsp);
+ - [Other processes (Order Only, Ordering, Order Agreement, Despatch Advice)](https://peppol-docs.agid.gov.it/docs/my_index-ENG.jsp).
+
+The changes are described below:
+Changes to the specification (documentation), syntax and code lists and validation artifacts – [Other processes (Order Only, Ordering, Order Agreement and Despatch Advice)](https://peppol-docs.agid.gov.it/docs-next-release/my_index.jsp)
+
+**Changes to specification (Documentation)**
+ - BIS Order Only, BIS Ordering – Section 6.4. Product identification has been integrated with the indication of the Manufacturers item identification;
+ - BIS Order Only, BIS Ordering – Section 6.14. Other references has been integrated with the indication of the Catalogue reference at header level;
+ - BIS Order Only, BIS Ordering – Section 6.16. Delivery has been integrated with a description of the method for indicating the priority required by the Buyer for delivery;
+ - BIS Order Only, BIS Ordering – Examples have been updated according to syntax changes.
+

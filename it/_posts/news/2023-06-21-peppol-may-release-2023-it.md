@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pubblicazione nuova release della Specifica Fatturazione Peppol BIS3 allineata alle Regole Tecniche AdE v.2.3
+title: Peppol May Release 2023
 lang: it
 ref: peppol-may-release-2023-it
 excerpt_separator: <!--more-->

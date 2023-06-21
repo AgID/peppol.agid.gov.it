@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Peppol May Release 2023 EN
+title: Peppol May Release 2023
 lang: en
 ref: peppol-may-release-2023-en
 excerpt_separator: <!--more-->

@@ -48,3 +48,12 @@ Changes to the specification (documentation), syntax and code lists and validati
  - Added EAS codes 0221 (Japan) and 0230 (Malaysia). Removed the EAS Swedish code 9955;
  - Added ICD codes 0221 (Japan), 0222, 0223 (France), 0224 (France), 0225 (France), 0226 (France), 0227 (France), 0228 (France), 0229 (France), 0230 (Malaysia);
  - Added the code EMD to the code list Item type identification code (UNCL7143) to indicate the Medical Device identifier as in the European Medical Device Nomenclature (EMDN).
+
+**Changes to the specification (documentation), syntax and code lists and validation artifacts - [Billing](https://peppol-docs.agid.gov.it/docs-next-release/my_index_fatt.jsp)**
+
+Changes to code lists and validation artifacts
+ - Rule PEPPOL-COMMON-R050 for the validation of the "Australian Business number (ABN)" was changed from "warning" to "fatal";
+ - Added EAS codes 0221 (Japan) and 0230 (Malaysia). Removed the EAS Swedish code 9955;
+ - Added ICD codes 0221 (Japan), 0222, 0223 (France), 0224 (France), 0225 (France), 0226 (France), 0227 (France), 0228 (France), 0229 (France), 0230 (Malaysia);
+ - Added the code EMD to the code list Item type identification code (UNCL7143) to indicate the Medical Device identifier as in the European Medical Device Nomenclature (EMDN). 
+ - Correction to EN 16931 validation rules as [listed](https://github.com/ConnectingEurope/eInvoicing-EN16931/releases/tag/validation-1.3.10).

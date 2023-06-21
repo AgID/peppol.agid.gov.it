@@ -475,68 +475,6 @@ Giugno
 <p>Il contenuto originale rilasciato da OpenPeppol è disponibile <a href="https://peppol.org/may-2023-release-of-the-peppol-post-award-artefact/">qui</a>.
 <strong>Tali aggiornamenti avranno efficacia in via obbligatoria dal giorno 07 agosto 2023, ciononostante si consiglia di recepire per tempo tali modifiche e di scaricare gli schematron per la validazione dei documenti aggiornati.</strong></p>
 
-<p>Le specifiche tecniche che rimarranno in vigore fino al giorno 06 agosto 2023 sono disponibili agli indirizzi:</p>
-
-<ul>
-  <li><a href="https://peppol-docs.agid.gov.it/docs/my_index_fatt.jsp">Fatturazione</a>;</li>
-  <li><a href="https://peppol-docs.agid.gov.it/docs/my_index.jsp">Altri processi (Ordinazione semplice, Ordinazione completa, Ordinazione pre-concordata, Documento di trasporto)</a>.</li>
-</ul>
-
-<p>Di seguito si riportano i cambiamenti effettuati:
-Cambiamenti alla documentazione, alla sintassi e alle code lists e artefatti di validazione - <a href="https://peppol-docs.agid.gov.it/docs-next-release/my_index.jsp">Altri profili (ordine, ordine con risposta, ordine pre-concordato e documento di trasporto)</a></p>
-
-<p><strong>Cambiamenti alla specifica (Documentazione)</strong></p>
-<ul>
-  <li>BIS Ordinazione Semplice, BIS Ordinazione Completa – Integrata la sezione 6.4. Identificazione del prodotto con l’indicazione dell’identificativo prodotto attribuito dal Produttore;</li>
-  <li>BIS Ordinazione Semplice, BIS Ordinazione Completa – Integrata la sezione 6.14. Altri riferimenti con l’indicazione del riferimento al catalogo in testata;</li>
-  <li>BIS Ordinazione Semplice, BIS Ordinazione Completa – Integrata la sezione 6.16. Consegna (Delivery) con la descrizione della modalità di indicazione della priorità richiesta dall’Acquirente per l’evasione dell’ordine;</li>
-  <li>BIS Ordinazione Semplice, BIS Ordinazione Completa – Aggiornati gli esempi in funzione delle modifiche alla sintassi.</li>
-</ul>
-
-<p><strong>Cambiamenti alla sintassi</strong></p>
-<ul>
-  <li>Ordine
-    <ul>
-      <li>Aggiunta cac:CatalogueReference – Riferimento al catalogo come struttura opzionale a livello di testata;</li>
-      <li>Aggiunto cbc:ShippingPriorityLevelCode – Priorità di spedizione richiesta come campo opzionale della struttura cac:Shipment;</li>
-      <li>Aggiunti cbc:StartTime – Ora di inizio e cbc:EndTime – Ora di fine come campi opzionali della struttura cac:RequestedDeliveryPeriod a livello di linea;</li>
-      <li>Aggiunta cac:ManufacturersItemIdentification – Identificativo prodotto attribuito dal Produttore come struttura opzionale a livello di linea.</li>
-    </ul>
-  </li>
-  <li>Risposta all’ordine
-    <ul>
-      <li>Aggiunti cbc:StartTime – Ora di inizio e cbc:EndTime – Ora di fine come campi opzionali della struttura cac:PromisedDeliveryPeriod a livello di linea.</li>
-    </ul>
-  </li>
-</ul>
-
-<p><strong>Cambiamenti alle code lists e artefatti di validazione</strong></p>
-<ul>
-  <li>Aggiunta la codelist Transport service priority code (UNCL4219) per indicare la priorità di spedizione richiesta. Si applica nelle specifiche di Ordinazione Semplice e Ordinazione Completa;</li>
-  <li>Modificata da “warning” a “fatal” la severità della regola PEPPOL-COMMON-R050 per la validazione dell’Australian Business Number (ABN);</li>
-  <li>Aggiunti i codici 0221 (Giappone) e 0230 (Malesia) alla codifica EAS. Rimosso il codice svedese 9955 dalla stessa codifica;</li>
-  <li>Aggiunti i codici 0221 (Giappone), 0222, 0223 (Francia), 0224 (Francia), 0225 (Francia), 0226 (Francia), 0227 (Francia), 0228 (Francia), 0229 (Francia), 0230 (Malesia) alla codifica ICD;</li>
-  <li>Aggiunto il codice EMD nella codelist Item type identification code (UNCL7143) per indicare l’identificativo del Dispositivo Medico secondo l’European Medical Device Nomenclature (EMDN).</li>
-</ul>
-
-<p><strong>Cambiamenti alla documentazione, alla sintassi e alle code lists e artefatti di validazione – <a href="https://peppol-docs.agid.gov.it/docs-next-release/my_index_fatt.jsp">Fatturazione</a></strong></p>
-
-<p><strong>Cambiamenti alle code lists e artefatti di validazione</strong></p>
-<ul>
-  <li>Modificata da “warning” a “fatal” la severità della regola PEPPOL-COMMON-R050 per la validazione dell’Australian Business Number (ABN);</li>
-  <li>Aggiunti i codici 0221 (Giappone) e 0230 (Malesia) alla codifica EAS. Rimosso il codice svedese 9955 dalla stessa codifica;</li>
-  <li>Aggiunti i codici 0221 (Giappone), 0222, 0223 (Francia), 0224 (Francia), 0225 (Francia), 0226 (Francia), 0227 (Francia), 0228 (Francia), 0229 (Francia), 0230 (Malesia) alla codifica ICD;</li>
-  <li>Aggiunto il codice EMD nella codelist Item type identification code (UNCL7143) per indicare l’identificativo del Dispositivo Medico secondo l’European Medical Device Nomenclature (EMDN).</li>
-  <li>Corrette specifiche regole di business derivanti dagli aggiornamenti della EN16931 e relativi schematron (per ulteriori informazioni si rimanda al <a href="https://github.com/ConnectingEurope/eInvoicing-EN16931/releases/tag/validation-1.3.10">link</a>.</li>
-</ul>
-
-<p><strong>Cambiamenti alle regole specifiche per Paese</strong></p>
-<ul>
-  <li>Rimosse le regole GR-R-007-1, GR-R-007-2 e GR-R-007-3;</li>
-  <li>Aggiornato il contesto di applicazione delle regole GR-R-004-1 e GR-R-004-2 che non si applicano più quando il Rappresentante Fiscale è greco;</li>
-  <li>Aggiunta la regola GR-R-011 che rende obbligatorio il Codice Fiscale per il Fornitore greco;</li>
-  <li>Rinominata la regola GR-R-011 in GR-S-011 e modificata da “fatal” a “warning” la severità.</li>
-</ul>
 </div>
             <span class="card-signature"></span>
             <a aria-label="Leggi di più su: Peppol May Release 2023" class="read-more" href="/it/news/peppol-may-release-2023-it/">

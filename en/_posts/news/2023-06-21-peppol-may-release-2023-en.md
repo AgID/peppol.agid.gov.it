@@ -59,7 +59,7 @@ Changes to the specification (documentation), syntax and code lists and validati
  - Correction to EN 16931 validation rules as [listed](https://github.com/ConnectingEurope/eInvoicing-EN16931/releases/tag/validation-1.3.10).
 
 **Country Specific Rule Changes**
-•	Removed rules GR-R-007-1, GR-R-007-2 and GR-R-007-3;
-•	Changed application context in rules GR-R-004-1 and GR-R-004-2. These rules do not apply anymore when the Tax Representative is Greek;
-•	Added rule GR-R-011 to make the Greek Tax Identification Number mandatory for the Supplier;
-•	Renamed rule GR-R-011 to GR-S-011 and changed from “fatal” to “warning”.
+ - Removed rules GR-R-007-1, GR-R-007-2 and GR-R-007-3;
+ - Changed application context in rules GR-R-004-1 and GR-R-004-2. These rules do not apply anymore when the Tax Representative is Greek;
+ - Added rule GR-R-011 to make the Greek Tax Identification Number mandatory for the Supplier;
+ - Renamed rule GR-R-011 to GR-S-011 and changed from “fatal” to “warning”.

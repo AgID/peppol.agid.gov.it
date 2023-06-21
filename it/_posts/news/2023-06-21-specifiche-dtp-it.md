@@ -6,7 +6,7 @@ ref: specifiche-dtp-it
 excerpt_separator: <!--more-->
 tags:
 categories: news
-permalink: /it/news/pecifiche-dtp-it/
+permalink: /it/news/specifiche-dtp-it/
 ---
 Si comunica che sono stati pubblicati gli aggiornamenti alla Specifica italiana del Documento di Trasporto Peppol in relazione alle disposizioni contenute nel DPR n. 472/1996, contenenti le modifiche elencate di seguito. La relativa [nota di rilascio](https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/others/guides/release-notes-it/30-despatchadvice/main.html) è disponibile sul [Portale specifiche (next release)](https://peppol-docs.agid.gov.it/docs-next-release/).
 

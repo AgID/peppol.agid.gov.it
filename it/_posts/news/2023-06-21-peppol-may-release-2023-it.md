@@ -18,7 +18,7 @@ Si comunica che sono stati pubblicati gli aggiornamenti relativi alla May Releas
 
 Il contenuto originale rilasciato da OpenPeppol è disponibile [qui](https://peppol.org/may-2023-release-of-the-peppol-post-award-artefact/).
 **Tali aggiornamenti avranno efficacia in via obbligatoria dal giorno 07 agosto 2023, ciononostante si consiglia di recepire per tempo tali modifiche e di scaricare gli schematron per la validazione dei documenti aggiornati.**
-
+<!--more-->
 Le specifiche tecniche che rimarranno in vigore fino al giorno 06 agosto 2023 sono disponibili agli indirizzi:
 
  - [Fatturazione](https://peppol-docs.agid.gov.it/docs/my_index_fatt.jsp);

@@ -33,3 +33,11 @@ Changes to the specification (documentation), syntax and code lists and validati
  - BIS Order Only, BIS Ordering – Section 6.16. Delivery has been integrated with a description of the method for indicating the priority required by the Buyer for delivery;
  - BIS Order Only, BIS Ordering – Examples have been updated according to syntax changes.
 
+**Syntax changes**
+- Order Only
+    - Added cac:CatalogueReference – Catalogue Reference as an optional header-level structure;
+    - Added cbc:ShippingPriorityLevelCode - Requested shipping priority as an optional field of the cac:Shipment structure;
+    - Added cbc:StartTime – Start time and cbc:EndTime – End time as optional fields of the cac:RequestedDeliveryPeriod line-level structure;
+    - Added cac:ManufacturersItemIdentification – Producer item identification as an optional line-level structure.
+- Ordering
+    - Added cbc:StartTime – Start time and cbc:EndTime – End time as optional fields of the cac:PromisedDeliveryPeriod line-level structure.

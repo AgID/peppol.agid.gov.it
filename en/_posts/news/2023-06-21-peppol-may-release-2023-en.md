@@ -18,7 +18,7 @@ We inform you that the updates related to the May Release 2023 of OpenPeppol hav
 
 The original content released by OpenPeppol is available [here](https://peppol.org/may-2023-release-of-the-peppol-post-award-artefact/).
 **These updates will be mandatory starting from 7th August 2023, nevertheless we advise to implement these changes in time and to download the schematron for the validation of the updated documents.**
-
+<!--more-->
 The current documentation, accessible until 6th August 2023, is available at the following addresses:
  - [Billing](https://peppol-docs.agid.gov.it/docs/my_index_fatt-ENG.jsp);
  - [Other processes](https://peppol-docs.agid.gov.it/docs/my_index-ENG.jsp) (Order Only, Ordering, Order Agreement, Despatch Advice).

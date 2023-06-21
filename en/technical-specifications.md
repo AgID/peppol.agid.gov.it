@@ -13,4 +13,4 @@ The technical specifications and implementations shown below constitute the Ital
 
 - <a aria-label="Technical specifications valid for Italy" title="Technical specifications valid for Italy" href="https://peppol-docs.agid.gov.it/docs/my_index-ENG.jsp" target="_blank">Technical specifications valid for Italy</a>.
 
-- <a aria-label="Technical specifications valid for Italy" title="Technical specifications valid for Italy" href="https://peppol-docs.agid.gov.it/docs/my_index-ENG.jsp" target="_blank">Technical specifications valid for Italy</a>.
+- <a aria-label="Technical specifications valid for Italy update to May Release Peppol 2023" title="Technical specifications valid for Italy update to May Release Peppol 2023" href="https://peppol-docs.agid.gov.it/docs/my_index-ENG.jsp" target="_blank">Technical specifications valid for Italy update to May Release Peppol 2023</a>.

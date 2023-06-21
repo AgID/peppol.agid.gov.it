@@ -41,3 +41,10 @@ Changes to the specification (documentation), syntax and code lists and validati
     - Added cac:ManufacturersItemIdentification – Producer item identification as an optional line-level structure.
 - Ordering
     - Added cbc:StartTime – Start time and cbc:EndTime – End time as optional fields of the cac:PromisedDeliveryPeriod line-level structure.
+
+**Changes to code lists and validation artifacts**
+ - Added code list Transport service priority code (UNCL4219) to indicate the shipping priority requested;
+ - Rule PEPPOL-COMMON-R050 for the validation of the "Australian Business number (ABN)" was changed from "warning" to "fatal";
+ - Added EAS codes 0221 (Japan) and 0230 (Malaysia). Removed the EAS Swedish code 9955;
+ - Added ICD codes 0221 (Japan), 0222, 0223 (France), 0224 (France), 0225 (France), 0226 (France), 0227 (France), 0228 (France), 0229 (France), 0230 (Malaysia);
+ - Added the code EMD to the code list Item type identification code (UNCL7143) to indicate the Medical Device identifier as in the European Medical Device Nomenclature (EMDN).

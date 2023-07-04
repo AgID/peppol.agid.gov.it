@@ -11,8 +11,8 @@ Procedura da seguire per qualificarsi come Service Provider Peppol:
 
 1. Eseguire l’iscrizione obbligatoria all’Associazione OpenPeppol AISBL, come indicato all’interno della sezione [Join](https://peppol.org/join/), compilando e **firmando digitalmente** il documento OpenPeppol Membership Application Form specificando il ruolo che si intende assumere: **Access Point (AP)** Provider o anche **Service Metadata Publisher (SMP) Provider**;
 
->>>>>_Per ricoprire il ruolo di AP Provider è necessario registrarsi per il Post-Award Procurement Service Domain._
->>>>>_Per ricoprire il ruolo di SMP Provider è necessario registrarsi per il Addressing and Capability Lookup Service Domain._
+>>>>>Per ricoprire il ruolo di AP Provider è necessario registrarsi per il Post-Award Procurement Service Domain.
+>>>>>Per ricoprire il ruolo di SMP Provider è necessario registrarsi per il Addressing and Capability Lookup Service Domain.
 
 
 2. Compilare e **firmare digitalmente** i seguenti documenti:

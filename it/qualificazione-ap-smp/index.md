@@ -6,13 +6,9 @@ lang: it
 ref: qualificazione-ap-smp
 order: 1
 ---
+Procedura da seguire per sottoscrivere il Peppol Service Provider Agreement:
 
-Procedura da seguire per qualificarsi come Service Provider Peppol:
-
-1. Eseguire l’iscrizione obbligatoria all’Associazione OpenPeppol AISBL, come indicato all’interno della sezione Join, compilando e **firmando digitalmente** il documento OpenPeppol Membership Application Form specificando il ruolo che si intende assumere: **Access Point (AP)** Provider o anche **Service Metadata Publisher (SMP) Provider**;
-Per ricoprire il ruolo di AP Provider è necessario registrarsi per il Post-Award Procurement Service Domain.
-Per ricoprire il ruolo di SMP Provider è necessario registrarsi per il Addressing and Capability Lookup Service Domain.
-
+1. Eseguire l'[iscrizione obbligatoria all'associazione OpenPEPPOL](https://peppol.org/join/?registration), specificando il ruolo che si vuole assumere: **Access Point (AP)** e/o **Service Metadata Publisher (SMP)**;
 2. Compilare e **firmare digitalmente** i seguenti documenti:
       - [PEPPOL Service Provider Agreement](/attachments/PeppolServiceProviderAgreement_V_1_1.pdf)
       - [_Dichiarazione sostitutiva del certificato di iscrizione alla CCIAA_](/attachments/dichirazione_rea_compilabile_rev201812.pdf).
@@ -40,6 +36,7 @@ In caso di necessità, è possibile richiedere ad OpenPeppol la modifica dell’
    - a pagina 23 (pag. 24 del PDF) per le segnalazioni di support issue e security issue si consiglia di indicare come indirizzo di contatto una mail di gruppo, che non sia legata ad una singola persona
  
 Per i quesiti tecnici relativi ai test e alle verifiche di interoperabilità è possibile avvalersi del team di Assistenza Peppol, scrivendo all'indirizzo [assistenzaPEPPOL@agid.gov.it](mailto:assistenzaPEPPOL@agid.gov.it)
+
 
 ### Documenti allegati
 

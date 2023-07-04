@@ -9,7 +9,7 @@ child_of_ref: chi-siamo
 ---
 
 [PEPPOL](https://peppol.org/) abilita il commercio veloce, efficiente e senza
-confini. 
+confini 
 
 Le specifiche dei documenti PEPPOL integrano i processi aziendali globali
 standardizzando il modo in cui le informazioni sono strutturate e scambiate.

@@ -8,7 +8,11 @@ order: 1
 ---
 Procedura da seguire per sottoscrivere il Peppol Service Provider Agreement:
 
-1. Eseguire l'[iscrizione obbligatoria all'associazione OpenPEPPOL](https://peppol.org/join/?registration), specificando il ruolo che si vuole assumere: **Access Point (AP)** e/o **Service Metadata Publisher (SMP)**;
+1. Eseguire l’iscrizione obbligatoria all’Associazione OpenPeppol AISBL, come indicato all’interno della sezione [Join](https://peppol.org/join/), compilando e **firmando digitalmente** il documento OpenPeppol Membership Application Form specificando il ruolo che si intende assumere: **Access Point (AP)** Provider o anche **Service Metadata Publisher (SMP) Provider**.;
+
+>Per ricoprire il ruolo di AP Provider è necessario registrarsi per il Post-Award Procurement Service Domain.
+>Per ricoprire il ruolo di SMP Provider è necessario registrarsi per il Addressing and Capability Lookup Service Domain.
+
 2. Compilare e **firmare digitalmente** i seguenti documenti:
       - [PEPPOL Service Provider Agreement](/attachments/PeppolServiceProviderAgreement_V_1_1.pdf)
       - [_Dichiarazione sostitutiva del certificato di iscrizione alla CCIAA_](/attachments/dichirazione_rea_compilabile_rev201812.pdf).

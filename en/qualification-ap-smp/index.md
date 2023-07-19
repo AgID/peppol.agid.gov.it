@@ -36,8 +36,8 @@ Procedure to be followed to qualify as a Peppol Service Provider:
 
 - **PHASE 1**: Qualification of basic services, to be performed through the completion of the Accreditation suite of the [Peppol Testbed](https://www.testbed.peppol.org/). Upon completion of the tests, the SP communicates its results by sending a request to the Peppol Service Desk, filling in the relevant [form](https://openpeppol.atlassian.net/servicedesk/customer/portal/1/group/1/create/16)
 
-- **PHASE 2** (after passing PHASE 1): Qualification of the specific services for the Italian context, to be performed through the execution of a complete session of all the test cases envisaged by the accreditation process of the Access Points afferent to the Italian Peppol Authority. The test session is run on the [Onboarding Platform](https://peppol.agid.gov.it/it/qualificazione-ap-smp/piattaforma-onboarding/), whose interface is described in [Onboarding Platform user manual](https://peppol-docs.agid.gov.it/manuali_utente/onboarding). 
-Upon successful completion of the test session, the SP sends the document containing the test results to the Peppol Authority directly via the [Onboarding Platform](https://peppol-onboarding.agid.gov.it/piattaforma-onboarding/)
+- **PHASE 2** (after passing PHASE 1): Qualification of the specific services for the Italian context, to be performed through the execution of a complete session of all the test cases envisaged by the accreditation process of the Access Points afferent to the Italian Peppol Authority. The test session is run on the [Onboarding Platform](https://peppol.agid.gov.it/en/qualification-ap-smp/onboarding-platform/), whose interface is described in [Onboarding Platform user manual](https://peppol-docs.agid.gov.it/manuali_utente/onboarding). 
+Upon successful completion of the test session, the SP sends the document containing the test results to the Peppol Authority directly via the [Onboarding Platform](https://peppol.agid.gov.it/en/qualification-ap-smp/onboarding-platform/)
 
 10. The Peppol Authority verifies the submitted documentation and authorises the release of digital certificates for the production environment
 
@@ -45,9 +45,9 @@ Upon successful completion of the test session, the SP sends the document contai
 
 12.	Peppol Authority transmits the digitally countersigned Peppol Service Provider Agreement document to the Service Provider
 
-Please note that digital certificates for the production environment are valid for two years. After expiration, the Service Provider must renew them, following the specification [Procedure to renew the Peppol](https://peppol-docs.agid.gov.it/manuali_utente/rinnovo_certificati_peppolcertificates) dei certificati Peppol foreseen by OpenPeppol.
+Please note that digital certificates for the production environment are valid for two years. After expiration, the Service Provider must renew them, following the specification [Procedure to renew the Peppol](https://peppol-docs.agid.gov.it/manuali_utente/rinnovo_certificati_peppol) dei certificati Peppol foreseen by OpenPeppol.
 
-If necessary, the Service Provider can request OpenPeppol to change the contact address for PKI certificate communications by sending a request to the Peppol Service Desk, filling in the relevant [form](https://openpeppol.atlassian.net/servicedesk/customer/portal/1/group/1/create/12) and indicating in the _Summary_ field the object “Request for update of the email address for PKI Certificate”.
+If necessary, the Service Provider can request OpenPeppol to change the contact address for PKI certificate communications by sending a request to the Peppol Service Desk, filling in the relevant [form](https://openpeppol.atlassian.net/servicedesk/customer/portal/1/group/1/create/12) and indicating in the _Summary_ field the object “Request for update of the email address for PKI Certificate”. peppol-onboarding.agid.gov.it/piattaforma-onboarding/ 
 
 ### Attached documents
 

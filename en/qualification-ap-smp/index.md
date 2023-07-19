@@ -7,36 +7,47 @@ ref: qualificazione-ap-smp
 order: 1
 ---
 
-Procedure for signing the Peppol Service Provider Agreement:
+Procedure to be followed to qualify as a Peppol Service Provider:
 
-1. Follow the [mandatory registration procedure for the OpenPEPPOL association](https://peppol.org/join/?registration), specifying the role you want to take on: **Access Point (AP)** and/or **Service Metadata Publisher (SMP)**;
-2. Complete and **digitally sign** the following documents:
-      - [PEPPOL Service Provider Agreement](/attachments/PeppolServiceProviderAgreement_V_1_1.pdf)
-      - [_Substitutive declaration of the certificate of registration with the Chamber of Commerce_](/attachments/dichirazione_rea_compilabile_rev201812.pdf).
-3. Send, via certified email, to the address [protocollo@pec.agid.gov.it](mailto:protocollo@pec.agid.gov.it), specifying the subject as follows: _[PEPPOL] request \*CompanyName\* by signing the agreement PEPPOL_
-4. The Peppol Authority will write to the contact specified in the Annex 3 section on pag. 23 of the Agreement by communicating the outcome of the verification of the documentation
-5. The Service Provider can then fill in the [form](https://openpeppol.atlassian.net/servicedesk/customer/portal/1/group/1/create/13) to request the release of the digital certificates for the **tests** - The email indicated for receiving the confirmation (“Email confirmation to*” field) will be recorded by OpenPeppol as the contact address of the SP for communications relating to the PKI Certificates of AP and SMP managed by the Service Provider, such as, for example, notification of expiry of certificates. It is advisable to indicate the same technical contact address entered in the Peppol Service Provider Agreement to receive reports of support issues and security issues and to use a group email;
-6. The Peppol Authority will authorize the release of the aforementioned test certificates;
-7. The Service Provider will have to perform interoperability tests and verifications according to the following sequential PHASES:
-    - **PHASE 1**: qualification of basic services according to the indications in the *Test and Onboarding* section of the site [https://peppol.eu/support/](https://openpeppol.atlassian.net/servicedesk/customer/portal/1/group/1/create/16)
-    - **PHASE 2**: after passing PHASE1, qualification of the services required for the Italian context through the tests to be performed on the <a href="https://peppol-onboarding.agid.gov.it/piattaforma-onboarding/" data-proofer-ignore>Onboarding Platform</a> for the accreditation process of the Access Points belonging to the Peppol Authority AGID. The process is described in [Onboarding Platform Guide](https://peppol-docs.agid.gov.it/manuali_utente/onboarding);;
-8. Once the test session has been successfully completed and the document containing the results of the tests has been sent to the Peppol Authority through the <a href="https://peppol-onboarding.agid.gov.it/piattaforma-onboarding/" data-proofer-ignore>Onboarding Platform</a>, the Peppol Authority will authorize the issuance of digital certificates for the production environment;
-9. The Peppol Authority will send the documentation digitally countersigned by the same to the Service Provider.
+1. Perform the compulsory registration to the OpenPeppol AISBL Association, as it is specified in the section [Join](https://peppol.org/join/), by filling in and **digitally signing** the OpenPeppol Membership Application Form specifying the role to assume: **Access Point (AP) Provider** or **Service Metadata Publisher (SMP) Provider**.;
 
-Please note that Peppol certificates for the production environment are valid for two years. When they expire, the Service Provider will have to proceed with their renewal, following the [specific renewal procedure](https://peppol-docs.agid.gov.it/manuali_utente/rinnovo_certificati_peppol) provided by OpenPeppol
+- _To become an AP Provider you need to register for the Post-Award Procurement Service Domain._
+- _To become a SMP Provider you must register for the Addressing and Capability Lookup Service Domain._
 
-In case of need, it is possible to request OpenPeppol to change the contact address for communications relating to PKI certificates by sending a support request to the OpenPeppol Service Desk ([OpenPeppol Service Desk](https://openpeppol.atlassian.net/servicedesk/customer/portal/1) > General support > Ticket summary "Request for update of the email address for PKI Certificates").
+2. Send via email the document above mentioned to the address [membership@peppol.eu](mailto:membership@peppol.eu)
 
-**PLEASE NOTE**
- 
- For the purposes of correctly completing the Agreement, the following is specified:
-   - on the first page there are 3 fields to be filled in (Name of organization, Legal identifier and Registry) where to insert respectively: company name, Tax / VAT number and registration number in the Business Register;
-   - on page 23 (page 24 of the PDF) the "Company identifier assigned by official registration authority" field must be filled in with the tax code/VAT number;
-   - the possible domains to be listed in section Annex 4 on page 25 are identified among those in the list on p. 20 "Peppol Service Domain coverage of the Peppol Authority" of the document itself. The possible domains are: Post – award Procurement and / or Addressing and capability look-up;
-   - digitally sign the Peppol Service Provider Agreement in all Signature fields (pages 2, 19, 20, 24 and 25).
-   - on page 23 (page 24 of the PDF) for reporting support issues and security issues it is advisable to indicate a group email as the contact address, which is not linked to a single person".
+3. Fill in and digitally sign the [Peppol Service Provider Agreement](https://peppol.agid.gov.it/attachments/PeppolServiceProviderAgreement_V_1_1.pdf) and the Certificate of registration with the Chamber of Commerce, or alternatively the [Substitutive declaration of the certificate of registration with the Chamber of Commerce](https://peppol.agid.gov.it/attachments/dichirazione_rea_compilabile_rev201812.pdf)
 
-For technical questions related to interoperability tests and checks, please feel free to contactd the Peppol Assistance team, by writing to the email address [assistenzaPEPPOL@agid.gov.it](mailto:assistenzaPEPPOL@agid.gov.it).
+4. Send via certified email the documents mentioned in the previous point to the address [protocollo@pec.agid.gov.it](mailto:protocollo@pec.agid.gov.it) specifying the object as follows: _[PEPPOL] request of *company name* to sign the Peppol agreement_
+
+5. The Peppol Authority AGID verifies the submitted documentation and communicates the outcome to the Service Provider contact indicated in the Peppol Service Provider Agreement to receive formal communications (Annex 3, p. 23)
+
+6. Send a request to Peppol Service Desk concerning the release of the digital certificates for the conduction of the tests, by filling the relevant [form](https://openpeppol.atlassian.net/servicedesk/customer/portal/1/group/1/create/13)
+
+- _The email address indicated in the "Email confirmation to" field of the request will be recorded by OpenPeppol as the SP's contact address for communications relating to AP/SMP PKI Certificates (e.g. notification of certificate expiry). It is advisable to indicate the technical contact address mentioned in the Peppol Service Provider Agreement to receive support and security issues alerts (Annex 3, p. 23 of the Agreement) and to use a group mail._
+
+7. The Peppol Authority authorises the release of digital certificates for the test environment
+
+8. Perform the download and the installation of the test certificates
+
+- _If you need guidance on how to retrieve test certificates, you can refer to the information provided in section 5. Retrieval of New Certificates of the [Procedure to renew the Peppol certificates](https://peppol-docs.agid.gov.it/manuali_utente/rinnovo_certificati_peppol)_
+
+9. Perform the tests and the interoperability checks following two sequential phases:
+
+- **PHASE 1**: Qualification of basic services, to be performed through the completion of the Accreditation suite of the [Peppol Testbed](https://www.testbed.peppol.org/). Upon completion of the tests, the SP communicates its results by sending a request to the Peppol Service Desk, filling in the relevant [form](https://openpeppol.atlassian.net/servicedesk/customer/portal/1/group/1/create/16)
+
+- **PHASE 2** (after passing PHASE 1): Qualification of the specific services for the Italian context, to be performed through the execution of a complete session of all the test cases envisaged by the accreditation process of the Access Points afferent to the Italian Peppol Authority. The test session is run on the [Onboarding Platform](https://peppol.agid.gov.it/it/qualificazione-ap-smp/piattaforma-onboarding/), whose interface is described in [Onboarding Platform user manual](https://peppol-docs.agid.gov.it/manuali_utente/onboarding). 
+Upon successful completion of the test session, the SP sends the document containing the test results to the Peppol Authority directly via the [Onboarding Platform](https://peppol-onboarding.agid.gov.it/piattaforma-onboarding/)
+
+10. The Peppol Authority verifies the submitted documentation and authorises the release of digital certificates for the production environment
+
+11. Perform the download and the installation of the production certificates
+
+12.	Peppol Authority transmits the digitally countersigned Peppol Service Provider Agreement document to the Service Provider
+
+Please note that digital certificates for the production environment are valid for two years. After expiration, the Service Provider must renew them, following the specification [Procedure to renew the Peppol](https://peppol-docs.agid.gov.it/manuali_utente/rinnovo_certificati_peppolcertificates) dei certificati Peppol foreseen by OpenPeppol.
+
+If necessary, the Service Provider can request OpenPeppol to change the contact address for PKI certificate communications by sending a request to the Peppol Service Desk, filling in the relevant [form](https://openpeppol.atlassian.net/servicedesk/customer/portal/1/group/1/create/12) and indicating in the _Summary_ field the object “Request for update of the email address for PKI Certificate”.
 
 ### Attached documents
 

@@ -259,7 +259,7 @@
   contact_info: peppol@topconsult.it
 - business_name: Zucchetti S.p.A.
   ap: true
-  smp: false
+  smp: true
   registered_office: Via Solferino, 1 - 26900 Lodi
   contact_point: Paolo Camia
   contact_info: Paolo.Camia@Zucchetti.it

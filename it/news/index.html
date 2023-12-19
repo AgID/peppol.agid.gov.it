@@ -329,6 +329,109 @@
             <div class="head-tags">
               <div class="d-flex justify-content-between w-100">
                 <div></div>
+                <div><span class="data">19
+
+
+
+Dicembre
+
+
+
+2023
+</span></div>
+              </div>
+            </div>
+            <h5 class="card-title big-heading">Peppol November Release 2023 e altre modifiche italiane</h5>
+            
+            <h6 class="card-subtitle"></h6>
+            
+            <div class="card-text"><p>Si comunica che sono stati pubblicati gli aggiornamenti relativi alla November Release 2023 di OpenPeppol e ad ulteriori modifiche relative al contesto italiano, le cui release notes complete sono disponibili agli indirizzi:</p>
+
+<p>•	<a href="https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/others/guides/release-notes-it/3-order-only/main.html">Ordinazione Semplice</a>;
+•	<a href="https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/others/guides/release-notes-it/28-ordering/main.html">Ordinazione Completa</a>;
+•	<a href="https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/others/guides/release-notes-it/42-orderagreement/main.html">Ordinazione Pre-concordata</a>;
+•	<a href="https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/others/guides/release-notes-it/30-despatchadvice/main.html">Documento di Trasporto</a>;
+•	<a href="https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/invoice/guide/release-notes-it/main.html">Fatturazione</a>.</p>
+
+<p>Il contenuto originale rilasciato da OpenPeppol è disponibile <a href="https://peppol.org/post-award-artefacts-for-november-2023-release-published/">qui</a>.</p>
+
+<p><strong>Tali aggiornamenti avranno efficacia in via obbligatoria dal giorno 26 febbraio 2024, ciononostante si consiglia di recepire per tempo tali modifiche e di scaricare gli schematron per la validazione dei documenti aggiornati.</strong></p>
+
+<p>Le specifiche tecniche che rimarranno in vigore fino al giorno 25 febbraio 2024 sono disponibili agli indirizzi:</p>
+
+<p>•	<a href="https://peppol-docs.agid.gov.it/docs/my_index_fatt.jsp">Fatturazione</a>;
+•	<a href="https://peppol-docs.agid.gov.it/docs/my_index.jsp">Altri processi (Ordinazione semplice, Ordinazione completa, Ordinazione pre-concordata, Documento di trasporto)</a>.</p>
+
+<p>Di seguito si riportano i cambiamenti effettuati:
+<strong>Cambiamenti alla documentazione, alla sintassi e alle code lists e artefatti di validazione – <a href="https://peppol-docs.agid.gov.it/docs-next-release/my_index.jsp">Altri processi (ordine, ordine con risposta, ordine pre-concordato e documento di trasporto)</a></strong></p>
+
+<p>Cambiamenti alla specifica (Documentazione)
+•	BIS Ordinazione Semplice, BIS Ordinazione Completa, BIS Ordinazione Pre-concordata, BIS Documento di Trasporto – Correzione di un errore nella sezione <em>4. Tipi di dato semantici</em>, in cui l’indicatore booleano era caratterizzato dal tipo primitivo “String” invece che “Boolean”. Modifica puramente editoriale; 
+•	BIS Documento di Trasporto – Integrazione della sezione 6.3.2. Indirizzo di consegna con la modalità di indicazione della consegna di tipo domiciliare in analogia con la specifica dell’ordine;
+•	BIS Ordinazione Semplice, BIS Ordinazione Completa, BIS Ordinazione Pre-concordata, BIS Documento di Trasporto – Piccole modifiche editoriali.</p>
+
+<p>Cambiamenti alla sintassi
+•	Ordine
+    o	Aggiornata la denominazione inglese del campo cbc:OrderTypeCode, da “Consignment Order” a “Order Type” per evitare confusione. Nessuna modifica alla specifica italiana;
+    o	Piccole modifiche editoriali.
+Cambiamenti alle code lists e artefatti di validazione
+•	Aggiunti i codici 105 “Purchase order” e 402 “Intermediate handling cross docking order alla codifica Order Type Code;
+•	Aggiunto il codice 0218 (Lettonia) alla codifica EAS; 
+•	Aggiunta correlazione tra codice CEL e l’unità di misura °C [grado Celsius] nella codifica Recommendation 20, including Recommendation 21 codes - prefixed with X (UN/ECE).
+•	Modifica del livello di severità delle Regole di business per il Documento di Trasporto Peppol da WARNING a FATAL, come anticipato con la pubblicazione in data 07/08/2023 dell’Entrata in vigore della Peppol May Release 2023.</p>
+
+<p><strong>Cambiamenti alla documentazione, alla sintassi e alle code lists e artefatti di validazione – <a href="https://peppol-docs.agid.gov.it/docs-next-release/my_index_fatt.jsp">Fatturazione</a></strong></p>
+
+<p>Cambiamenti alla specifica (Documentazione)
+•	Aggiornamento della sezione <em>4.6 Fatture negative e note di credito</em>, e rimozione del riferimento al formato BIS2. Modifica puramente editoriale; 
+•	Inserimento di esempi specifici nelle sezioni <em>4.9.1. Rivalsa del bollo e 4.9.2. Restituzione del bollo</em>;
+•	Aggiunta della nuova sezione <em>4.11 Indicazione acconto in fattura</em> contenente le modalità operative previste per l’indicazione di un acconto nella fattura di saldo;
+•	Aggiornamento delle sezioni <em>15.1. Regole di business Peppol per le transazioni e 15.2. Regole di business EN 16931 per le transazioni</em> per allineamento degli schematron all’aggiornamento derivante dalla norma EN 16931;
+•	Aggiornamento delle sezioni dell’<em>Appendix C: Regole Nazionali</em> per allineamento alle Regole tecniche dell’Agenzia delle Entrate relative alla gestione delle fatture europee - versione 2.3 e modifica delle seguenti regole:
+    o	<em>C.1. CIUS</em>: BR-IT-120; BR-IT-180; BR-IT-200; BR-IT-230;
+    o	<em>C.4. Estensioni Domestiche</em>: BR-IT-DE-011; BR-IT-DE-046; BR-IT-DE-049.
+•	Integrazione delle sezioni dell’<em>Appendix C: Regole Nazionali</em> per allineamento ai controlli svolti da SDI sui documenti e inserimento delle seguenti nuove regole:
+    •	<em>C.1. CIUS</em>: BR-IT-071; BR-IT-081; BR-IT-100; BR-IT-130; BR-IT-221; BR-IT-361;
+    •	<em>C.2. CIUS Domestiche</em>: BR-IT-DC-120; BR-IT-DC-141; BR-IT-DC-160; BR-IT-DC-170; BR-IT-DC-180; BR-IT-DC-190; BR-IT-DC-300; BR-IT-DC-310; BR-IT-DC-320; BR-IT-DC-330; BR-IT-DC-340; 
+    •	<em>C.4. Estensioni Domestiche</em>: BR-IT-DE-050; BR-IT-DE-051; BR-IT-DE-052; BR-IT-DE-053.
+•	Aggiornamento della regola BR-IT-DC-480* relativa al controllo della presenza del bollo sui documenti di importo superiore a 77,47 euro; 
+•	Piccole modifiche editoriali.</p>
+
+<p>Cambiamenti alle code lists e artefatti di validazione
+•	Rimozione della regola PEPPOL-EN16931-R006 dalle <em>Regole di business Peppol BIS Fatturazione 3.0</em> in quanto ridondante rispetto alla regola UBL-SR-04 presente tra le <em>Regole di business EN 16931 Fatturazione</em>;
+•	Revisioni di specifiche <em>*Regole di business CIUS italiana</em> (CIUS ID BR-IT-120; BR-IT-180; BR-IT-200; BR-IT-230; BR-IT-520<em>; BR-IT-DC-203) e *Regole di business estensione italiana</em> (CIUS ID BR-IT-DE-009NC1<em>; BR-IT-DE-011) per allineamento alle Regole tecniche dell’Agenzia delle Entrate relative alla gestione delle fatture europee - versione 2.3;
+•	Integrazione delle *Regole di business CIUS italiana</em> e delle <em>Regole di business estensione italiana</em> per allineamento ai controlli svolti da SDI sui documenti e inserimento delle seguenti nuove regole:
+    •	<em>Regole di business CIUS italiana</em>: BR-IT-071; BR-IT-081; BR-IT-100; BR-IT-130; BR-IT-221; BR-IT-361; BR-IT-DC-120; BR-IT-DC-141; BR-IT-DC-160; BR-IT-DC-170; BR-IT-DC-180; BR-IT-DC-190; BR-IT-DC-300; BR-IT-DC-310; BR-IT-DC-320; BR-IT-DC-330; BR-IT-DC-340; 
+    •	<em>Regole di business estensione italiana</em>: BR-IT-DE-050; BR-IT-DE-051; BR-IT-DE-052; BR-IT-DE-053.
+•	Aggiunto il codice 0218 (Lettonia) alla codifica EAS;
+•	Aggiunta correlazione tra codice CEL e l’unità di misura °C [grado Celsius] nella codifica Recommendation 20, including Recommendation 21 codes - prefixed with X (UN/ECE).</p>
+
+<p>Aggiornamento schematron EN 16931
+•	Adozione della versione 1.3.11 degli artefatti di validazione derivanti dall’aggiornamento della EN 16931.</p>
+
+<p>Cambiamenti nella sezione Downloads
+•	Inserimento di un nuovo file di esempio relativo alla fatturazione acconto – saldo.</p>
+
+</div>
+            <span class="card-signature"></span>
+            <a aria-label="Leggi di più su: Peppol November Release 2023 e altre modifiche italiane" class="read-more" href="/it/news/peppol-november-release-2023-it/">
+              <span class="text">Leggi di più</span>
+              <svg class="icon">
+                <use xlink:href="/assets/bootstrap-italia/svg/sprite.svg#it-arrow-right"></use>
+              </svg>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <div class="col-12 col-lg-6">
+      <div class="card-wrapper">
+        <div class="card">
+          <div class="card-body">
+            <div class="head-tags">
+              <div class="d-flex justify-content-between w-100">
+                <div></div>
                 <div><span class="data">12
 
 

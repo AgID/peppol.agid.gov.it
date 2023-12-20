@@ -20,6 +20,7 @@ Il contenuto originale rilasciato da OpenPeppol è disponibile [qui](https://pep
 
 **Tali aggiornamenti avranno efficacia in via obbligatoria dal giorno 26 febbraio 2024, ciononostante si consiglia di recepire per tempo tali modifiche e di scaricare gli schematron per la validazione dei documenti aggiornati.**
 <!--more-->
+
 Le specifiche tecniche che rimarranno in vigore fino al giorno 25 febbraio 2024 sono disponibili agli indirizzi:
 
  - [Fatturazione](https://peppol-docs.agid.gov.it/docs/my_index_fatt.jsp);

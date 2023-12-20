@@ -40,7 +40,7 @@ The changes are described below:
     - Renamed the element cbc:OrderTypeCode from "Consignment Order" to "Order Type" to avoid confusion. No changes to the italian specification;
     - Minor editorial modifications.
 
-Changes to code lists and validation artifacts
+**Changes to code lists and validation artifacts**
 
  - Added type codes 105 "Purchase order" and 402 "Intermediate handling cross docking order to the Order Type Code code list;
  - Added code 0218 (Latvia) to EAS code list;

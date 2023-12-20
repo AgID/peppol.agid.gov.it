@@ -38,6 +38,7 @@ Di seguito si riportano i cambiamenti effettuati:
  - Ordine
     - Aggiornata la denominazione inglese del campo cbc:OrderTypeCode, da "Consignment Order" a "Order Type" per evitare confusione. Nessuna modifica alla specifica italiana;
     - Piccole modifiche editoriali.
+
 **Cambiamenti alle code lists e artefatti di validazione**
  - Aggiunti i codici 105 "Purchase order" e 402 "Intermediate handling cross docking order alla codifica Order Type Code;
  - Aggiunto il codice 0218 (Lettonia) alla codifica EAS; 

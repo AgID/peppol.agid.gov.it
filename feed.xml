@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://peppol.agid.gov.it/feed.xml" rel="self" type="application/atom+xml" /><link href="https://peppol.agid.gov.it/" rel="alternate" type="text/html" /><updated>2023-12-20T09:04:20+00:00</updated><id>https://peppol.agid.gov.it/feed.xml</id><title type="html">PEPPOL</title><entry xml:lang="en"><title type="html">Peppol November Release 2023 e other Italian modifications</title><link href="https://peppol.agid.gov.it/en/news/peppol-november-release-2023-en/" rel="alternate" type="text/html" title="Peppol November Release 2023 e other Italian modifications" /><published>2023-12-19T00:00:00+00:00</published><updated>2023-12-19T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/en/news/peppol-november-release-en</id><content type="html" xml:base="https://peppol.agid.gov.it/en/news/peppol-november-release-2023-en/">&lt;p&gt;We inform you that the updates related to the November Release 2023 of OpenPeppol and other modifications related to the Italian context have been published, whose entire release notes are available at the following addresses:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://peppol.agid.gov.it/feed.xml" rel="self" type="application/atom+xml" /><link href="https://peppol.agid.gov.it/" rel="alternate" type="text/html" /><updated>2023-12-20T15:44:48+00:00</updated><id>https://peppol.agid.gov.it/feed.xml</id><title type="html">PEPPOL</title><entry xml:lang="en"><title type="html">Peppol November Release 2023 e other Italian modifications</title><link href="https://peppol.agid.gov.it/en/news/peppol-november-release-2023-en/" rel="alternate" type="text/html" title="Peppol November Release 2023 e other Italian modifications" /><published>2023-12-19T00:00:00+00:00</published><updated>2023-12-19T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/en/news/peppol-november-release-en</id><content type="html" xml:base="https://peppol.agid.gov.it/en/news/peppol-november-release-2023-en/">&lt;p&gt;We inform you that the updates related to the November Release 2023 of OpenPeppol and other modifications related to the Italian context have been published, whose entire release notes are available at the following addresses:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/others/guides/release-notes-it/3-order-only/main.html&quot;&gt;Order only&lt;/a&gt;;&lt;/li&gt;
@@ -41,7 +41,7 @@
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Changes to code lists and validation artifacts&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Changes to code lists and validation artifacts&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Added type codes 105 “Purchase order” and 402 “Intermediate handling cross docking order to the Order Type Code code list;&lt;/li&gt;
@@ -138,10 +138,13 @@
   &lt;li&gt;Ordine
     &lt;ul&gt;
       &lt;li&gt;Aggiornata la denominazione inglese del campo cbc:OrderTypeCode, da “Consignment Order” a “Order Type” per evitare confusione. Nessuna modifica alla specifica italiana;&lt;/li&gt;
-      &lt;li&gt;Piccole modifiche editoriali.
-&lt;strong&gt;Cambiamenti alle code lists e artefatti di validazione&lt;/strong&gt;&lt;/li&gt;
+      &lt;li&gt;Piccole modifiche editoriali.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Cambiamenti alle code lists e artefatti di validazione&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
   &lt;li&gt;Aggiunti i codici 105 “Purchase order” e 402 “Intermediate handling cross docking order alla codifica Order Type Code;&lt;/li&gt;
   &lt;li&gt;Aggiunto il codice 0218 (Lettonia) alla codifica EAS;&lt;/li&gt;
   &lt;li&gt;Aggiunta correlazione tra codice CEL e l’unità di misura °C [grado Celsius] nella codifica Recommendation 20, including Recommendation 21 codes - prefixed with X (UN/ECE).&lt;/li&gt;

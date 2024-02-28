@@ -68,7 +68,7 @@ The changes are described below:
 **Changes to code lists and validation artifacts**
 
  - Removal of rule PEPPOL-EN16931-R006 from *Rules for Peppol BIS 3.0* because it duplicates the European standard rule UBL-SR-04, making it redundant and unnecessary;
- - Modifications of specific *Rules for Italian CIUS* (CIUS ID BR-IT-120; BR-IT-180; BR-IT-200; BR-IT-230; BR-IT-520C*; BR-IT-DC-203) and *Rules for Italian extension* (CIUS ID BR-IT-DE-009NC1*; BR-IT-DE-011) to align with the technical rules of Agenzia delle Entrate related to the management of European invoices – version 2.3;
+ - Modifications of specific *Rules for Italian CIUS* (CIUS ID BR-IT-120; BR-IT-180; BR-IT-200; BR-IT-230; BR-IT-520C\*; BR-IT-DC-203) and *Rules for Italian extension* (CIUS ID BR-IT-DE-009NC1*; BR-IT-DE-011) to align with the technical rules of Agenzia delle Entrate related to the management of European invoices – version 2.3;
  - Integration of the *Rules for Italian CIUS* and *Rules for Italian extension* to align with the SDI controls of the documents and insertion of the following new rules:
     - *Rules for Italian CIUS*: BR-IT-071; BR-IT-081; BR-IT-091; BR-IT-171; BR-IT-222; BR-IT-361; BR-IT-DC-141; BR-IT-DC-161; BR-IT-DC-221; BR-IT-DC-262; BR-IT-DC-291; BR-IT-DC-351;
     - *Rules for Italian extension*: BR-IT-DE013*; BR-IT-DE-050; BR-IT-DE-051; BR-IT-DE-052.

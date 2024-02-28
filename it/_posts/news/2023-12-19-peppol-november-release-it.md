@@ -64,7 +64,7 @@ Di seguito si riportano i cambiamenti effettuati:
 
 **Cambiamenti alle code lists e artefatti di validazione**
  - Rimozione della regola PEPPOL-EN16931-R006 dalle *Regole di business Peppol BIS Fatturazione 3.0* in quanto ridondante rispetto alla regola UBL-SR-04 presente tra le *Regole di business EN 16931 Fatturazione*;
- - Revisioni di specifiche *Regole di business CIUS italiana* (CIUS ID BR-IT-120; BR-IT-180; BR-IT-200; BR-IT-230; BR-IT-520C*; BR-IT-DC-203) e *Regole di business estensione italiana* (CIUS ID BR-IT-DE-009NC1*; BR-IT-DE-011) per allineamento alle Regole tecniche dell’Agenzia delle Entrate relative alla gestione delle fatture europee - versione 2.3;
+ - Revisioni di specifiche *Regole di business CIUS italiana* (CIUS ID BR-IT-120; BR-IT-180; BR-IT-200; BR-IT-230; BR-IT-520C\*; BR-IT-DC-203) e *Regole di business estensione italiana* (CIUS ID BR-IT-DE-009NC1*; BR-IT-DE-011) per allineamento alle Regole tecniche dell’Agenzia delle Entrate relative alla gestione delle fatture europee - versione 2.3;
  - Integrazione delle *Regole di business CIUS italiana* e delle *Regole di business estensione italiana* per allineamento ai controlli svolti da SDI sui documenti e inserimento delle seguenti nuove regole:
     - *Regole di business CIUS italiana*: BR-IT-071; BR-IT-081; BR-IT-091; BR-IT-171; BR-IT-222; BR-IT-361; BR-IT-DC-141; BR-IT-DC-161; BR-IT-DC-221; BR-IT-DC-262; BR-IT-DC-291; BR-IT-DC-351; 
     - *Regole di business estensione italiana*: BR-IT-DE013*; BR-IT-DE-050; BR-IT-DE-051; BR-IT-DE-052.

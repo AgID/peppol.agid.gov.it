@@ -53,25 +53,25 @@ The changes are described below:
 
  - Update of section *4. Negative invoices and credit notes*, and removal of the reference to the BIS2 format. This fix is purely editorial;
  - Added specific examples in sections *4.9.1. Stamp Withdrawal and 4.9.2. Stamp refund*;
- - Added new section *4.11 Indication of advance payment on the invoice* containing the operational procedures for indicating an advance payment on the balance invoice;
+ - Added new section *4.11 Indication of advance payment on the balance invoice* containing the operational procedures for indicating an advance payment on the balance invoice;
  - Update of sections *15.1. Peppol transaction business rules e 15.2. EN 16931 transaction business rules* to align with the EN 16931 schematron updates;
  - Update of sections Appendix C: *National rules* to align with the technical rules of Agenzia delle Entrate related to the management of European invoices - version 2.3 and modifications of the following rules:
     - *C.1. CIUS*: BR-IT-120; BR-IT-180; BR-IT-200; BR-IT-230;
     - *C.4. Domestic Extensions*: BR-IT-DE-011; BR-IT-DE-046; BR-IT-DE-049.
  - Integration of the sections of *Appendix C: National Rules* to align with the SDI controls of the documents and insertion of the following new rules:
-    - *C.1. CIUS*: BR-IT-071; BR-IT-081; BR-IT-100; BR-IT-130; BR-IT-221; BR-IT-361;
-    - *C.2. Domestic CIUS*: BR-IT-DC-120; BR-IT-DC-141; BR-IT-DC-160; BR-IT-DC-170; BR-IT-DC-180; BR-IT-DC-190; BR-IT-DC-300; BR-IT-DC-310; BR-IT-DC-320; BR-IT-DC-330; BR-IT-DC-340;
-    - *C.4. Domestic Extensions*: BR-IT-DE-050; BR-IT-DE-051; BR-IT-DE-052; BR-IT-DE-053.
+    - *C.1. CIUS*: BR-IT-071; BR-IT-081; BR-IT-091; BR-IT-171; BR-IT-222; BR-IT-361;
+    - *C.2. Domestic CIUS*: BR-IT-DC-141; BR-IT-DC-161; BR-IT-DC-221; BR-IT-DC-262; BR-IT-DC-291; BR-IT-DC-351;
+    - *C.4. Domestic Extensions*: BR-IT-DE-013*; BR-IT-DE-050; BR-IT-DE-051; BR-IT-DE-052
  - Update of the rule BR-IT-DC-480* related to the control of the presence of the stamp on the documents with amount exceeding 77,47 euros;
  - Minor editorial modifications.
 
 **Changes to code lists and validation artifacts**
 
  - Removal of rule PEPPOL-EN16931-R006 from *Rules for Peppol BIS 3.0* because it duplicates the European standard rule UBL-SR-04, making it redundant and unnecessary;
- - Modifications of specific *Rules for Italian CIUS* (CIUS ID BR-IT-120; BR-IT-180; BR-IT-200; BR-IT-230; BR-IT-520*; BR-IT-DC-203) and *Rules for Italian extension* (CIUS ID BR-IT-DE-009NC1*; BR-IT-DE-011) to align with the technical rules of Agenzia delle Entrate related to the management of European invoices – version 2.3;
+ - Modifications of specific *Rules for Italian CIUS* (CIUS ID BR-IT-120; BR-IT-180; BR-IT-200; BR-IT-230; BR-IT-520C*; BR-IT-DC-203) and *Rules for Italian extension* (CIUS ID BR-IT-DE-009NC1*; BR-IT-DE-011) to align with the technical rules of Agenzia delle Entrate related to the management of European invoices – version 2.3;
  - Integration of the *Rules for Italian CIUS* and *Rules for Italian extension* to align with the SDI controls of the documents and insertion of the following new rules:
-    - *Rules for Italian CIUS*: BR-IT-071; BR-IT-081; BR-IT-100; BR-IT-130; BR-IT-221; BR-IT-361; BR-IT-DC-120; BR-IT-DC-141; BR-IT-DC-160; BR-IT-DC-170; BR-IT-DC-180; BR-IT-DC-190; BR-IT-DC-300; BR-IT-DC-310; BR-IT-DC-320; BR-IT-DC-330; BR-IT-DC-340;
-    - *Rules for Italian extension*: BR-IT-DE-050; BR-IT-DE-051; BR-IT-DE-052; BR-IT-DE-053.
+    - *Rules for Italian CIUS*: BR-IT-071; BR-IT-081; BR-IT-091; BR-IT-171; BR-IT-222; BR-IT-361; BR-IT-DC-141; BR-IT-DC-161; BR-IT-DC-221; BR-IT-DC-262; BR-IT-DC-291; BR-IT-DC-35;
+    - *Rules for Italian extension*: BR-IT-DE013*; BR-IT-DE-050; BR-IT-DE-051; BR-IT-DE-052.
  - Added code 0218 (Latvia) to EAS code list;
  - Added correlation between CEL code and °C [degree Celsius] unit in Recommendation 20, including Recommendation 21 codes - prefixed with X (UN/ECE).
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Entry into force of the Italian rules for completing DDTs and the Peppol November Release 2023
+title: Effective date of Peppol November Release 2023 and other Italian changes
 lang: en
 ref: entry-force-peppol-november-release-2023
 excerpt_separator: <!--more-->
@@ -14,6 +14,7 @@ The technical specifications currently in effect are available at:
 
  -  [Invoicing](https://peppol-docs.agid.gov.it/docs/my_index_fatt.jsp);
  -  [Other processes](https://peppol-docs.agid.gov.it/docs/my_index.jsp) (Simple ordering, Complete ordering, Pre-arranged ordering, Transport document).
+<!--more-->
 New features introduced with the November Release 2023 are described in the Release Notes for the individual process, available at:
 
  -   [Simple Ordering](https://peppol-docs.agid.gov.it/docs/docs/ITA/others/guides/release-notes-it/3-order-only/main.html);

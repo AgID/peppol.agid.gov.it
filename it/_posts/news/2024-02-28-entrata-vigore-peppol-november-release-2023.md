@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Entrata in vigore delle regole italiane per la compilazione dei DDT e della Peppol November Release 2023
+title: Entrata in vigore della Peppol November Release 2023 e altre modifiche italiane
 lang: it
 ref: entrata-vigore-peppol-november-release-2023
 excerpt_separator: <!--more-->
@@ -14,7 +14,7 @@ Le specifiche tecniche attualmente in vigore sono disponibili agli indirizzi:
 
   -  [Fatturazione](https://peppol-docs.agid.gov.it/docs/my_index_fatt.jsp);
   -  [Altri processi](https://peppol-docs.agid.gov.it/docs/my_index.jsp) (Ordinazione semplice, Ordinazione completa, Ordinazione pre-concordata, Documento di trasporto).
-
+<!--more-->
 Le novità introdotte con la November Release 2023 sono descritte nelle Note di Rilascio relative al singolo processo, disponibili agli indirizzi:
 
   -  [Ordinazione Semplice](https://peppol-docs.agid.gov.it/docs/docs/ITA/others/guides/release-notes-it/3-order-only/main.html);

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://peppol.agid.gov.it/feed.xml" rel="self" type="application/atom+xml" /><link href="https://peppol.agid.gov.it/" rel="alternate" type="text/html" /><updated>2024-02-28T15:04:42+00:00</updated><id>https://peppol.agid.gov.it/feed.xml</id><title type="html">PEPPOL</title><entry xml:lang="en"><title type="html">Effective date of Peppol November Release 2023 and other Italian changes</title><link href="https://peppol.agid.gov.it/en/news/entry-force-peppol-november-release-2023/" rel="alternate" type="text/html" title="Effective date of Peppol November Release 2023 and other Italian changes" /><published>2024-02-28T00:00:00+00:00</published><updated>2024-02-28T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/en/news/entry-force-peppol-november-release-2023</id><content type="html" xml:base="https://peppol.agid.gov.it/en/news/entry-force-peppol-november-release-2023/">&lt;p&gt;Notice is hereby given that on February 26, 2024, updates related to the November Release 2023 of OpenPeppol and other changes related to the Italian context became effective, which were highlighted through the communication published on December 19, 2023.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://peppol.agid.gov.it/feed.xml" rel="self" type="application/atom+xml" /><link href="https://peppol.agid.gov.it/" rel="alternate" type="text/html" /><updated>2024-02-28T16:26:25+00:00</updated><id>https://peppol.agid.gov.it/feed.xml</id><title type="html">PEPPOL</title><entry xml:lang="en"><title type="html">Effective date of Peppol November Release 2023 and other Italian changes</title><link href="https://peppol.agid.gov.it/en/news/entry-force-peppol-november-release-2023/" rel="alternate" type="text/html" title="Effective date of Peppol November Release 2023 and other Italian changes" /><published>2024-02-28T00:00:00+00:00</published><updated>2024-02-28T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/en/news/entry-force-peppol-november-release-2023</id><content type="html" xml:base="https://peppol.agid.gov.it/en/news/entry-force-peppol-november-release-2023/">&lt;p&gt;Notice is hereby given that on February 26, 2024, updates related to the November Release 2023 of OpenPeppol and other changes related to the Italian context became effective, which were highlighted through the communication published on December 19, 2023.&lt;/p&gt;
 
 &lt;p&gt;The technical specifications currently in effect are available at:&lt;/p&gt;
 
@@ -24,11 +24,13 @@ New features introduced with the November Release 2023 are described in the Rele
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/my_index_fatt.jsp&quot;&gt;Fatturazione&lt;/a&gt;;&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/my_index.jsp&quot;&gt;Altri processi&lt;/a&gt; (Ordinazione semplice, Ordinazione completa, Ordinazione pre-concordata, Documento di trasporto).
-&lt;!--more--&gt;
-Le novità introdotte con la November Release 2023 sono descritte nelle Note di Rilascio relative al singolo processo, disponibili agli indirizzi:&lt;/p&gt;
-  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/my_index.jsp&quot;&gt;Altri processi&lt;/a&gt; (Ordinazione semplice, Ordinazione completa, Ordinazione pre-concordata, Documento di trasporto).
+&lt;!--more--&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Le novità introdotte con la November Release 2023 sono descritte nelle Note di Rilascio relative al singolo processo, disponibili agli indirizzi:&lt;/p&gt;
+
+&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/docs/ITA/others/guides/release-notes-it/3-order-only/main.html&quot;&gt;Ordinazione Semplice&lt;/a&gt;;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/docs/ITA/others/guides/release-notes-it/28-ordering/main.html&quot;&gt;Ordinazione Completa&lt;/a&gt;;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/docs/ITA/others/guides/release-notes-it/42-orderagreement/main.html&quot;&gt;Ordinazione Pre-concordata&lt;/a&gt;;&lt;/li&gt;
@@ -125,7 +127,7 @@ Le novità introdotte con la November Release 2023 sono descritte nelle Note di 
       &lt;li&gt;&lt;em&gt;C.4. Domestic Extensions&lt;/em&gt;: BR-IT-DE-013*; BR-IT-DE-050; BR-IT-DE-051; BR-IT-DE-052&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;Update of the rule BR-IT-DC-480* related to the control of the presence of the stamp on the documents with amount exceeding 77,47 euros;&lt;/li&gt;
+  &lt;li&gt;Update of the rule BR-IT-DC-480* related to the indication of the stamp on the documents;&lt;/li&gt;
   &lt;li&gt;Minor editorial modifications.&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -136,7 +138,7 @@ Le novità introdotte con la November Release 2023 sono descritte nelle Note di 
   &lt;li&gt;Modifications of specific &lt;em&gt;Rules for Italian CIUS&lt;/em&gt; (CIUS ID BR-IT-120; BR-IT-180; BR-IT-200; BR-IT-230; BR-IT-520C&lt;em&gt;; BR-IT-DC-203) and *Rules for Italian extension&lt;/em&gt; (CIUS ID BR-IT-DE-009NC1*; BR-IT-DE-011) to align with the technical rules of Agenzia delle Entrate related to the management of European invoices – version 2.3;&lt;/li&gt;
   &lt;li&gt;Integration of the &lt;em&gt;Rules for Italian CIUS&lt;/em&gt; and &lt;em&gt;Rules for Italian extension&lt;/em&gt; to align with the SDI controls of the documents and insertion of the following new rules:
     &lt;ul&gt;
-      &lt;li&gt;&lt;em&gt;Rules for Italian CIUS&lt;/em&gt;: BR-IT-071; BR-IT-081; BR-IT-091; BR-IT-171; BR-IT-222; BR-IT-361; BR-IT-DC-141; BR-IT-DC-161; BR-IT-DC-221; BR-IT-DC-262; BR-IT-DC-291; BR-IT-DC-35;&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;Rules for Italian CIUS&lt;/em&gt;: BR-IT-071; BR-IT-081; BR-IT-091; BR-IT-171; BR-IT-222; BR-IT-361; BR-IT-DC-141; BR-IT-DC-161; BR-IT-DC-221; BR-IT-DC-262; BR-IT-DC-291; BR-IT-DC-351;&lt;/li&gt;
       &lt;li&gt;&lt;em&gt;Rules for Italian extension&lt;/em&gt;: BR-IT-DE013*; BR-IT-DE-050; BR-IT-DE-051; BR-IT-DE-052.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
@@ -232,10 +234,10 @@ Le novità introdotte con la November Release 2023 sono descritte nelle Note di 
 &lt;p&gt;&lt;strong&gt;Cambiamenti alle code lists e artefatti di validazione&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;Rimozione della regola PEPPOL-EN16931-R006 dalle &lt;em&gt;Regole di business Peppol BIS Fatturazione 3.0&lt;/em&gt; in quanto ridondante rispetto alla regola UBL-SR-04 presente tra le &lt;em&gt;Regole di business EN 16931 Fatturazione&lt;/em&gt;;&lt;/li&gt;
-  &lt;li&gt;Revisioni di specifiche &lt;em&gt;*Regole di business CIUS italiana&lt;/em&gt; (CIUS ID BR-IT-120; BR-IT-180; BR-IT-200; BR-IT-230; BR-IT-520C&lt;em&gt;; BR-IT-DC-203) e *Regole di business estensione italiana&lt;/em&gt; (CIUS ID BR-IT-DE-009NC1*; BR-IT-DE-011) per allineamento alle Regole tecniche dell’Agenzia delle Entrate relative alla gestione delle fatture europee - versione 2.3;&lt;/li&gt;
+  &lt;li&gt;Revisioni di specifiche &lt;em&gt;Regole di business CIUS italiana&lt;/em&gt; (CIUS ID BR-IT-120; BR-IT-180; BR-IT-200; BR-IT-230; BR-IT-520C&lt;em&gt;; BR-IT-DC-203) e *Regole di business estensione italiana&lt;/em&gt; (CIUS ID BR-IT-DE-009NC1*; BR-IT-DE-011) per allineamento alle Regole tecniche dell’Agenzia delle Entrate relative alla gestione delle fatture europee - versione 2.3;&lt;/li&gt;
   &lt;li&gt;Integrazione delle &lt;em&gt;Regole di business CIUS italiana&lt;/em&gt; e delle &lt;em&gt;Regole di business estensione italiana&lt;/em&gt; per allineamento ai controlli svolti da SDI sui documenti e inserimento delle seguenti nuove regole:
     &lt;ul&gt;
-      &lt;li&gt;&lt;em&gt;Regole di business CIUS italiana&lt;/em&gt;: BR-IT-071; BR-IT-081; BR-IT-091; BR-IT-171; BR-IT-222; BR-IT-361; BR-IT-DC-141; BR-IT-DC-161; BR-IT-DC-221; BR-IT-DC-262; BR-IT-DC-291; BR-IT-DC-35;&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;Regole di business CIUS italiana&lt;/em&gt;: BR-IT-071; BR-IT-081; BR-IT-091; BR-IT-171; BR-IT-222; BR-IT-361; BR-IT-DC-141; BR-IT-DC-161; BR-IT-DC-221; BR-IT-DC-262; BR-IT-DC-291; BR-IT-DC-351;&lt;/li&gt;
       &lt;li&gt;&lt;em&gt;Regole di business estensione italiana&lt;/em&gt;: BR-IT-DE013*; BR-IT-DE-050; BR-IT-DE-051; BR-IT-DE-052.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;

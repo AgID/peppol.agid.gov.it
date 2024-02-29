@@ -92,3 +92,18 @@ The only thing to communicate is your PEPPOL Participant ID.
 
 Certificates are valid for two years. As their expiry approaches, the Service Provider's technical contact point will receive an automatic notice and will have to start the renewal process, following the [renewal procedure](https://peppol-docs.agid.gov.it/manuali_utente/rinnovo_certificati_peppol) provided by OpenPeppol
 
+**FAQ 17 - Peppol electronic invoicing to and from Italy**
+
+In Peppol network communications, the sender and the recipient are identified by Peppol identifiers (ParticipantIDs), which must also be reflected on the transmitted electronic billing document.
+
+In order to obtain a Peppol identifier, it is necessary to use an intermediary that provides Peppol Access Point (AP) services and performs the registration of the participant ID of the recipient of the documents on a PEPPOL SMP.
+
+The list of Service Providers qualified as Access Point Providers by AgID is available at the following [link](https://peppol.agid.gov.it/it/qualificazione-ap-smp/elenco-ap-smp/).
+
+A foreign sender can send an electronic invoice to an Italian recipient via the Peppol network infrastructure, respecting the Peppol specifications specialized for Italy by the Agenzia dell'Italia Digitale and available at the following [link](https://peppol-docs.agid.gov.it/docs/my_index_fatt.jsp).
+
+If the recipient is a PA, for the receipt of the e-invoice via the Peppol network it is necessary that the PA uses a Service Provider that is simultaneously qualified as an Access Point Provider by AgID and an accredited intermediary of the [Revenue Agency's Interchange System](https://www.fatturapa.gov.it/it/sistemainterscambio/) and that the PA has configured the Peppol reception channel for e-invoicing offices on the Index of Public Administrations (iPA).
+
+Any Italian sender using a Service Provider qualified as an Access Point by AgID is able to send e-invoices to foreign entities registered on the Peppol network infrastructure, subject to the relevant Peppol Specifications in the country of the document recipient.
+
+No additional onboarding by the Peppol Service Provider is required for sending and receiving e-invoices to and from Italy via the Peppol network infrastructure.

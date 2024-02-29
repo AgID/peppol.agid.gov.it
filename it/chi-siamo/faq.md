@@ -94,3 +94,18 @@ L'unico elemento da comunicare è il proprio Participant ID PEPPOL.
 
 I certificati hanno una validità di due anni. In prossimità della loro scadenza, il punto di contatto tecnico del Service Provider riceverà una comunicazione automatica di avviso e dovrà avviare il processo di rinnovo, seguendo la [procedura per il rinnovo](https://peppol-docs.agid.gov.it/manuali_utente/rinnovo_certificati_peppol) prevista da OpenPeppol.
 
+**FAQ 17 - La fatturazione elettronica Peppol da e verso l'Italia**
+
+Nelle comunicazioni su rete Peppol, il mittente e il destinatario sono individuati da identificativi Peppol (ParticipantID), che devono essere riportati anche sul documento di fatturazione elettronica trasmesso.
+
+Per ottenere un identificativo Peppol è necessario avvalersi di un intermediario che fornisca i servizi di Access Point (AP) Peppol e che effettui la registrazione del participanti ID del destinatario dei documenti su un SMP PEPPOL.
+
+La lista dei Service Provider qualificati come Access Point Provider da AgID è disponibile al seguente [link](https://peppol.agid.gov.it/it/qualificazione-ap-smp/elenco-ap-smp/).
+
+Un mittente straniero può inviare una fattura elettronica ad un destinatario italiano tramite l'infrastruttura di rete Peppol, rispettando le specifiche Peppol specializzate per l’Italia dall'Agenzia dell'Italia Digitale e disponibili al seguente [link](https://peppol-docs.agid.gov.it/docs/my_index_fatt.jsp).
+
+Se il destinatario è una PA, per la ricezione della fattura elettronica tramite la rete Peppol è necessario che la PA si avvalga di un Service Provider che sia contemporaneamente qualificato come Access Point Provider da AgID ed intermediario accreditato del [Sistema di Interscambio dell’Agenzia delle Entrate](https://www.fatturapa.gov.it/it/sistemainterscambio/) e che la PA abbia configurato il canale di ricezione Peppol per gli uffici di fatturazione elettronica sull’Indice delle Pubbliche Amministrazioni (iPA).
+
+Qualsiasi mittente italiano che si avvale di un Service Provider qualificato come Access Point da AgID è in grado di inviare fatture elettroniche verso soggetti esteri registrati sull'infrastruttura di rete Peppol, nel rispetto delle Specifiche Peppol rilevanti nel paese del destinatario del documento.
+
+Non è necessario un ulteriore onboarding  da parte del Service Provider Peppol per l'invio e la ricezione di fatture elettroniche da e verso l'Italia attraverso l'infrastruttura di rete Peppol.

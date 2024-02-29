@@ -94,7 +94,7 @@ Certificates are valid for two years. As their expiry approaches, the Service Pr
 
 **FAQ 17 - Peppol electronic invoicing to and from Italy**
 
-In Peppol network communications, the sender and the recipient are identified by Peppol identifiers (ParticipantIDs), which must also be reflected on the transmitted electronic billing document.
+In Peppol network communications, the sender and the recipient are identified by Peppol identifiers (ParticipantIDs), which must also be reflected on the transmitted electronic billing document .
 
 In order to obtain a Peppol identifier, it is necessary to use an intermediary that provides Peppol Access Point (AP) services and performs the registration of the participant ID of the recipient of the documents on a PEPPOL SMP.
 

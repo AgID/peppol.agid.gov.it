@@ -8,7 +8,7 @@ tags:
 categories: news
 permalink: /en/news/peppol-bis-specifications/
 ---
-The [Italian Peppol BIS 3 specifications](https://notier.regione.emilia-romagna.it/docs/my_index_fatt.jsp) for electronic invoicing are published in compliance with version 2.1 of the Technical Rules relating to the management of invoices pursuant to art. 3, paragraph 1, Legislative Decree 148/2018 of the Revenue Agency in force from 1 April 2022.
+The [Italian Peppol BIS 3 specifications](https://peppol-docs.agid.gov.it/docs/my_index_fatt.jsp) for electronic invoicing are published in compliance with version 2.1 of the Technical Rules relating to the management of invoices pursuant to art. 3, paragraph 1, Legislative Decree 148/2018 of the Revenue Agency in force from 1 April 2022.
 
 The new version of the Technical Rules is the result of the collaboration between the Revenue Agency and AgID with the contribution of UNINFO experts and aims to make the use of the European invoice fully consistent with the needs of the Italian context. The Peppol BIS 3 specifications for Italy allow the native use of the international standard OASIS Universal Business Language (UBL) for the invoicing process in the cross-border and domestic context, in compliance with national obligations regarding the transmission of invoices to the Exchange System (SDI) of the Revenue Agency.
 <!--more-->

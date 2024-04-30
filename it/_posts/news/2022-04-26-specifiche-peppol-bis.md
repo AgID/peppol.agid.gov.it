@@ -8,7 +8,7 @@ tags:
 categories: news
 permalink: /it/news/specifiche-peppol-bis/
 ---
-Sono pubblicate le [Specifiche italiane Peppol BIS 3](https://notier.regione.emilia-romagna.it/docs/my_index_fatt.jsp) per la fatturazione elettronica conformi alla versione 2.1 delle Regole tecniche relative alla gestione delle fatture di cui all’art. 3, comma 1, d.lgs. 148/2018 dell’Agenzia delle Entrate in vigore dal 1° aprile 2022.
+Sono pubblicate le [Specifiche italiane Peppol BIS 3](https://peppol-docs.agid.gov.it/docs/my_index_fatt.jsp) per la fatturazione elettronica conformi alla versione 2.1 delle Regole tecniche relative alla gestione delle fatture di cui all’art. 3, comma 1, d.lgs. 148/2018 dell’Agenzia delle Entrate in vigore dal 1° aprile 2022.
  
 La nuova versione delle Regole tecniche è frutto della collaborazione tra Agenzia delle Entrate e AgID con il contributo degli esperti di UNINFO e mira a rendere l’utilizzo della fattura europea pienamente coerente con le esigenze del contesto italiano. 
 <!--more--> 

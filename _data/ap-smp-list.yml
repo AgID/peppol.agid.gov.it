@@ -34,7 +34,7 @@
   smp: true
   registered_office: Via San Clemente, 53 - 24036 Ponte San Petro (BG)
   contact_point: Aruba PEC S.p.A.
-  contact_info: fatturazionepa@ca.arubapec.it
+  contact_info: info-peppol@staff.aruba.it
 - business_name: Consip S.p.A.
   ap: true
   smp: true
@@ -59,6 +59,12 @@
   registered_office: Via della Crocerossa, 112 - 35129 Padova
   contact_point: Carlo Alberto Noventa
   contact_info: carlo.noventa@dedicated.world
+- business_name: Digital Technologies Srl Società Benefit
+  ap: true
+  smp: true
+  registered_office: Via Politi 10, Milano, Trezzano sul Naviglio, 20090
+  contact_point: Emanuele Crespi
+  contact_info: sistemisti@digtechs.com  
 - business_name: DocFlow Italia S.p.A.
   ap: true
   smp: false
@@ -257,9 +263,3 @@
   registered_office: Via Solferino, 1 - 26900 Lodi
   contact_point: Paolo Camia
   contact_info: Paolo.Camia@Zucchetti.it
-- business_name: Digital Technologies Srl Società Benefit
-  ap: true
-  smp: true
-  registered_office: Via Politi 10, Milano, Trezzano sul Naviglio, 20090
-  contact_point: Emanuele Crespi
-  contact_info: sistemisti@digtechs.com 

@@ -1,4 +1,104 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://peppol.agid.gov.it/feed.xml" rel="self" type="application/atom+xml" /><link href="https://peppol.agid.gov.it/" rel="alternate" type="text/html" /><updated>2024-06-25T13:58:01+00:00</updated><id>https://peppol.agid.gov.it/feed.xml</id><title type="html">PEPPOL</title><entry xml:lang="en"><title type="html">Scheduled maintenance for the second half of the year 2024</title><link href="https://peppol.agid.gov.it/en/news/scheduled-maintenance-2024/" rel="alternate" type="text/html" title="Scheduled maintenance for the second half of the year 2024" /><published>2024-06-25T00:00:00+00:00</published><updated>2024-06-25T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/en/news/scheduled-maintenance-2024</id><content type="html" xml:base="https://peppol.agid.gov.it/en/news/scheduled-maintenance-2024/">&lt;p&gt;We inform you that, in the course of the second half of the year 2024, the Access Point and the Single SMP of the PA will be subject to scheduled maintenance. During these interventions, possible unavailability of the system could occur.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://peppol.agid.gov.it/feed.xml" rel="self" type="application/atom+xml" /><link href="https://peppol.agid.gov.it/" rel="alternate" type="text/html" /><updated>2024-06-28T15:10:11+00:00</updated><id>https://peppol.agid.gov.it/feed.xml</id><title type="html">PEPPOL</title><entry xml:lang="en"><title type="html">Peppol May Release 2024</title><link href="https://peppol.agid.gov.it/en/news/peppol-may-release-2024-en/" rel="alternate" type="text/html" title="Peppol May Release 2024" /><published>2024-06-28T00:00:00+00:00</published><updated>2024-06-28T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/en/news/peppol-may-release-2024-en</id><content type="html" xml:base="https://peppol.agid.gov.it/en/news/peppol-may-release-2024-en/">&lt;p&gt;We inform you that the updates related to the May Release 2024 of OpenPeppol have been published, the entire release notes are available at the following addresses:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/others/guides/release-notes-it/3-order-only/main.html&quot;&gt;Order only&lt;/a&gt;;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/others/guides/release-notes-it/28-ordering/main.html&quot;&gt;Ordering&lt;/a&gt;;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/others/guides/release-notes-it/42-orderagreement/main.html&quot;&gt;Order Agreement&lt;/a&gt;;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/others/guides/release-notes-it/30-despatchadvice/main.html&quot;&gt;Despatch Advice&lt;/a&gt;;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/invoice/guide/release-notes-it/main.html&quot;&gt;Billing&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;These updates will be mandatory starting from 26th August 2024, nevertheless we advise to implement these changes in time and to download the schematron for the validation of the updated documents.&lt;/strong&gt;
+&lt;!--more--&gt;
+The current documentation, accessible until 25th August 2024, is available at the following addresses:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/my_index_fatt.jsp&quot;&gt;Billing&lt;/a&gt;;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/my_index.jsp&quot;&gt;Other processes (Order Only, Ordering, Order Agreement, Despatch Advice)&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The changes of the May Release 2024 are described below:
+&lt;strong&gt;Changes to the specification (documentation), syntax and code lists and validation artifacts – &lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/my_index.jsp&quot;&gt;Other processes (Order Only, Ordering, Order Agreement and Despatch Advice)&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Changes to code lists and validation artifacts&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Order, Order Response, Order Agreement, Despatch Advice – Modification in the test of rule PEPPOL-COMMON-R049 (Sweden);&lt;/li&gt;
+  &lt;li&gt;Order Response:
+    &lt;ul&gt;
+      &lt;li&gt;Added new rule PEPPOL-T76-R007 regarding the check for the presence of at least one line in the case of an order response with response code ‘CA’ (Order accepted with modification), with severity level WARNING;&lt;/li&gt;
+      &lt;li&gt;Added new rule PEPPOL-T76-R008 regarding the check for the absence of lines in the case of an order response with response code “AP” (Order accepted without modification), with severity level WARNING;&lt;/li&gt;
+      &lt;li&gt;Added new rule PEPPOL-T76-R009 regarding the check for the absence of lines in the case of an order response with response code “RE” (Order rejected), with severity level WARNING;&lt;/li&gt;
+      &lt;li&gt;Added new rule PEPPOL-T76-R010 regarding the check for the absence of lines in the case of an order response with response code ‘AB’ (order received and not yet processed), with severity level FATAL.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Changes to the specification (documentation), syntax and code lists and validation artifacts - &lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/my_index_fatt.jsp&quot;&gt;Billing&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Changes to code lists and validation artifacts&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Added new rule SE-R-013 (Sweden);&lt;/li&gt;
+  &lt;li&gt;Modification in the test of rules NL-R-007 (Netherlands) and PEPPOL-COMMON-R049 (Sweden);&lt;/li&gt;
+  &lt;li&gt;Change in the code “SLL” with the code “SLE” (Sierra Leone) in the codelist ISO 4217 Currency codes;&lt;/li&gt;
+  &lt;li&gt;Added code “98” (JP, Electronically Recorded Monetary Claims) in the codelist Payment means code (UNCL4461). Inserted correspondence with Payment Method code “MP01” (Cash) of FatturaPA;&lt;/li&gt;
+  &lt;li&gt;Added code “GMN” (Global model number) in the codelist Item type identification code (UNCL7143);&lt;/li&gt;
+  &lt;li&gt;Added code “PRV” (Price variation) in the codelist codelist Charge reason code (UNCL7161);&lt;/li&gt;
+  &lt;li&gt;Added codes “VATEX-FR-FRANCHISE” (Francia) and “VATEX-FR-CNWVAT” (Francia) in the VATEX codelist.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;EN 16931 schematrons updated&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Update of schematron EN 16931 to version 1.3.12.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="en" /><category term="news" /><summary type="html">We inform you that the updates related to the May Release 2024 of OpenPeppol have been published, the entire release notes are available at the following addresses: Order only; Ordering; Order Agreement; Despatch Advice; Billing. These updates will be mandatory starting from 26th August 2024, nevertheless we advise to implement these changes in time and to download the schematron for the validation of the updated documents.</summary></entry><entry xml:lang="it"><title type="html">Peppol May Release 2024</title><link href="https://peppol.agid.gov.it/it/news/peppol-may-release-2024-it/" rel="alternate" type="text/html" title="Peppol May Release 2024" /><published>2024-06-28T00:00:00+00:00</published><updated>2024-06-28T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/it/news/peppol-may-release-2024-it</id><content type="html" xml:base="https://peppol.agid.gov.it/it/news/peppol-may-release-2024-it/">&lt;p&gt;Si comunica che sono stati pubblicati gli aggiornamenti relativi alla May Release 2024 di OpenPeppol, contenenti una serie di modifiche le cui release notes complete sono disponibili agli indirizzi:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/others/guides/release-notes-it/3-order-only/main.html&quot;&gt;Ordinazione Semplice&lt;/a&gt;;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/others/guides/release-notes-it/28-ordering/main.html&quot;&gt;Ordinazione Completa&lt;/a&gt;;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/others/guides/release-notes-it/42-orderagreement/main.html&quot;&gt;Ordinazione Pre-concordata&lt;/a&gt;;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/others/guides/release-notes-it/30-despatchadvice/main.html&quot;&gt;Documento di Trasporto&lt;/a&gt;;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/invoice/guide/release-notes-it/main.html&quot;&gt;Fatturazione&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Tali aggiornamenti avranno efficacia in via obbligatoria dal giorno 26 agosto 2024, ciononostante si consiglia di recepire per tempo tali modifiche e di scaricare gli schematron per la validazione dei documenti aggiornati.&lt;/strong&gt;
+&lt;!--more--&gt;
+Le specifiche tecniche che rimarranno in vigore fino al giorno 25 agosto 2024 sono disponibili agli indirizzi:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/my_index_fatt.jsp&quot;&gt;Fatturazione&lt;/a&gt;;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/my_index.jsp&quot;&gt;Altri processi (Ordinazione semplice, Ordinazione completa, Ordinazione pre-concordata, Documento di trasporto)&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Di seguito si riportano i cambiamenti effettuati con la May Release 2024:
+&lt;strong&gt;Cambiamenti alla documentazione, alla sintassi e alle code lists e artefatti di validazione - &lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/my_index.jsp&quot;&gt;Altri profili (ordine, ordine con risposta, ordine pre-concordato e documento di trasporto)&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Cambiamenti alle code lists e artefatti di validazione&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Ordine, Risposta all’Ordine, Ordine Pre-Concordato, Documento di Trasporto – Aggiornato il controllo della regola PEPPOL-COMMON-R049 (Svezia);&lt;/li&gt;
+  &lt;li&gt;Risposta all’Ordine:
+    &lt;ul&gt;
+      &lt;li&gt;Aggiunta nuova regola PEPPOL-T76-R007 relativa al controllo della presenza di almeno una riga in caso di risposta all’ordine con codice di risposta “CA” (Ordine accettato con modifica), con livello di severità WARNING;&lt;/li&gt;
+      &lt;li&gt;Aggiunta nuova regola PEPPOL-T76-R008 relativa al controllo dell’assenza di righe in caso di risposta all’ordine con codice di risposta “AP” (Ordine accettato senza modifica), con livello di severità WARNING;&lt;/li&gt;
+      &lt;li&gt;Aggiunta nuova regola PEPPOL-T76-R009 relativa al controllo dell’assenza di righe in caso di risposta all’ordine con codice di risposta “RE” (Ordine respinto), con livello di severità WARNING;&lt;/li&gt;
+      &lt;li&gt;Aggiunta nuova regola PEPPOL-T76-R010 relativa al controllo dell’assenza di righe in caso di risposta all’ordine con codice di risposta “AB” (Ordine ricevuto e non ancora processato), con livello di severità FATAL.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Cambiamenti alla documentazione, alla sintassi e alle code lists e artefatti di validazione – &lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/my_index_fatt.jsp&quot;&gt;Fatturazione&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Cambiamenti alle code lists e artefatti di validazione&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Introduzione della nuova regola SE-R-013 (Svezia);&lt;/li&gt;
+  &lt;li&gt;Aggiornamento dei controlli delle regole NL-R-007 (Paesi Bassi) e PEPPOL-COMMON-R049 (Svezia);&lt;/li&gt;
+  &lt;li&gt;Aggiunta del codice “98” (JP, Electronically Recorded Monetary Claims) nella codelist Payment means code (UNCL4461). Inserita corrispondenza con codice Modalità di Pagamento “MP01” (Contanti) di FatturaPA;&lt;/li&gt;
+  &lt;li&gt;Aggiunta del codice “GMN” (Global model number) nella codelist Item type identification code (UNCL7143);&lt;/li&gt;
+  &lt;li&gt;Aggiunta del codice “PRV” (Price variation) nella codelist Charge reason code (UNCL7161);&lt;/li&gt;
+  &lt;li&gt;Aggiunta dei codici “VATEX-FR-FRANCHISE” (Francia) e “VATEX-FR-CNWVAT” (Francia) nella VATEX codelist.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Aggiornamento schematron EN 16931&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Aggiornamento dello schematron EN 16931 alla versione 1.3.12.;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="it" /><category term="news" /><summary type="html">Si comunica che sono stati pubblicati gli aggiornamenti relativi alla May Release 2024 di OpenPeppol, contenenti una serie di modifiche le cui release notes complete sono disponibili agli indirizzi: Ordinazione Semplice; Ordinazione Completa; Ordinazione Pre-concordata; Documento di Trasporto; Fatturazione. Tali aggiornamenti avranno efficacia in via obbligatoria dal giorno 26 agosto 2024, ciononostante si consiglia di recepire per tempo tali modifiche e di scaricare gli schematron per la validazione dei documenti aggiornati.</summary></entry><entry xml:lang="en"><title type="html">Scheduled maintenance for the second half of the year 2024</title><link href="https://peppol.agid.gov.it/en/news/scheduled-maintenance-2024/" rel="alternate" type="text/html" title="Scheduled maintenance for the second half of the year 2024" /><published>2024-06-25T00:00:00+00:00</published><updated>2024-06-25T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/en/news/scheduled-maintenance-2024</id><content type="html" xml:base="https://peppol.agid.gov.it/en/news/scheduled-maintenance-2024/">&lt;p&gt;We inform you that, in the course of the second half of the year 2024, the Access Point and the Single SMP of the PA will be subject to scheduled maintenance. During these interventions, possible unavailability of the system could occur.&lt;/p&gt;
 
 &lt;p&gt;Specifically, maintenance interventions are scheduled &lt;strong&gt;always from 13.00 to 15.30&lt;/strong&gt;, they will take place on the following dates:
 &lt;!--more--&gt;&lt;/p&gt;
@@ -93,8 +193,4 @@ New features introduced with the November Release 2023 are described in the Rele
 
 &lt;p&gt;Di conseguenza, &lt;strong&gt;eventuali documenti non conformi alle Regole verranno scartati dallo schematron (XLST di validazione v.3.1.0)&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;p&gt;Si ricorda che le Regole di business per il DDT sono consultabili sull’&lt;strong&gt;ambiente di &lt;em&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/my_index.jsp&quot;&gt;next release&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt; e che AgID ha messo a disposizione lo strumento del &lt;a href=&quot;https://peppol-validator.agid.gov.it/&quot;&gt;Validatore dei documenti Peppol&lt;/a&gt; che consente al mittente dei DDT la possibilità di verificare in autonomia la conformità di un documento xml allo schematron vigente, tra cui quelle del DDT.&lt;/p&gt;</content><author><name></name></author><category term="it" /><category term="news" /><summary type="html">Si comunica che dal giorno 26/02/2024, contestualmente all’entrata in vigore della Peppol November Release 2023, è prevista l’attivazione dei controlli bloccanti sui DDT (cambio di severità da “WARNING” a “FATAL”)  che non rispettino le Regole di business per il Documento di Trasporto Peppol. Di conseguenza, eventuali documenti non conformi alle Regole verranno scartati dallo schematron (XLST di validazione v.3.1.0). Si ricorda che le Regole di business per il DDT sono consultabili sull’ambiente di next release e che AgID ha messo a disposizione lo strumento del Validatore dei documenti Peppol che consente al mittente dei DDT la possibilità di verificare in autonomia la conformità di un documento xml allo schematron vigente, tra cui quelle del DDT.</summary></entry><entry xml:lang="en"><title type="html">Single AP of the PA - technical maintenance notice 26/01/2024 at 13:00-15:30</title><link href="https://peppol.agid.gov.it/en/news/single-ap-maintenance-3/" rel="alternate" type="text/html" title="Single AP of the PA - technical maintenance notice 26/01/2024 at 13:00-15:30" /><published>2024-01-19T00:00:00+00:00</published><updated>2024-01-19T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/en/news/single-ap-maintenance-3</id><content type="html" xml:base="https://peppol.agid.gov.it/en/news/single-ap-maintenance-3/">&lt;p&gt;We inform you that AP Unico of the PA will be subject to a technical maintenance intervention from about 13 to 15:30 on Friday 26 january 2024.&lt;/p&gt;
-
-&lt;p&gt;During this period it will not be possible to send and receive documents and, in general, &lt;strong&gt;the entire Single PA system of the PA will not be available&lt;/strong&gt;.&lt;/p&gt;</content><author><name></name></author><category term="en" /><category term="news" /><summary type="html">We inform you that AP Unico of the PA will be subject to a technical maintenance intervention from about 13 to 15:30 on Friday 26 january 2024. During this period it will not be possible to send and receive documents and, in general, the entire Single PA system of the PA will not be available.</summary></entry><entry xml:lang="it"><title type="html">AP Unico della PA - avviso di manutenzione tecnica 26/01/2024 ore 13:00-15:30</title><link href="https://peppol.agid.gov.it/it/news/manutenzione-ap-unico-3/" rel="alternate" type="text/html" title="AP Unico della PA - avviso di manutenzione tecnica 26/01/2024 ore 13:00-15:30" /><published>2024-01-19T00:00:00+00:00</published><updated>2024-01-19T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/it/news/manutenzione-ap-unico-3</id><content type="html" xml:base="https://peppol.agid.gov.it/it/news/manutenzione-ap-unico-3/">&lt;p&gt;Si comunica che AP Unico della PA sarà oggetto di un intervento tecnico di manutenzione dalle ore 13.00 alle ore 15:30 circa del giorno venerdì 26 gennaio 2024.&lt;/p&gt;
-
-&lt;p&gt;Durante tale periodo non sarà possibile inviare e ricevere documenti e, in generale, &lt;strong&gt;l’intero sistema AP Unico della PA non sarà disponibile&lt;/strong&gt;.&lt;/p&gt;</content><author><name></name></author><category term="it" /><category term="news" /><summary type="html">Si comunica che AP Unico della PA sarà oggetto di un intervento tecnico di manutenzione dalle ore 13.00 alle ore 15:30 circa del giorno venerdì 26 gennaio 2024. Durante tale periodo non sarà possibile inviare e ricevere documenti e, in generale, l’intero sistema AP Unico della PA non sarà disponibile.</summary></entry></feed>
+&lt;p&gt;Si ricorda che le Regole di business per il DDT sono consultabili sull’&lt;strong&gt;ambiente di &lt;em&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/my_index.jsp&quot;&gt;next release&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt; e che AgID ha messo a disposizione lo strumento del &lt;a href=&quot;https://peppol-validator.agid.gov.it/&quot;&gt;Validatore dei documenti Peppol&lt;/a&gt; che consente al mittente dei DDT la possibilità di verificare in autonomia la conformità di un documento xml allo schematron vigente, tra cui quelle del DDT.&lt;/p&gt;</content><author><name></name></author><category term="it" /><category term="news" /><summary type="html">Si comunica che dal giorno 26/02/2024, contestualmente all’entrata in vigore della Peppol November Release 2023, è prevista l’attivazione dei controlli bloccanti sui DDT (cambio di severità da “WARNING” a “FATAL”)  che non rispettino le Regole di business per il Documento di Trasporto Peppol. Di conseguenza, eventuali documenti non conformi alle Regole verranno scartati dallo schematron (XLST di validazione v.3.1.0). Si ricorda che le Regole di business per il DDT sono consultabili sull’ambiente di next release e che AgID ha messo a disposizione lo strumento del Validatore dei documenti Peppol che consente al mittente dei DDT la possibilità di verificare in autonomia la conformità di un documento xml allo schematron vigente, tra cui quelle del DDT.</summary></entry></feed>

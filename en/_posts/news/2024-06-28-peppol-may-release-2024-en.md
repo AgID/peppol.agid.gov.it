@@ -23,6 +23,7 @@ The current documentation, accessible until 25th August 2024, is available at th
  - [Other processes (Order Only, Ordering, Order Agreement, Despatch Advice)](https://peppol-docs.agid.gov.it/docs/my_index.jsp).
 
 The changes of the May Release 2024 are described below:
+
 **Changes to the specification (documentation), syntax and code lists and validation artifacts – [Other processes (Order Only, Ordering, Order Agreement and Despatch Advice)](https://peppol-docs.agid.gov.it/docs-next-release/my_index.jsp)**
 
 **Changes to code lists and validation artifacts**

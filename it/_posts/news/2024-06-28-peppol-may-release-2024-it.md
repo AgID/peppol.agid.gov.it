@@ -24,6 +24,7 @@ Le specifiche tecniche che rimarranno in vigore fino al giorno 25 agosto 2024 so
  - [Altri processi (Ordinazione semplice, Ordinazione completa, Ordinazione pre-concordata, Documento di trasporto)](https://peppol-docs.agid.gov.it/docs/my_index.jsp).
 
 Di seguito si riportano i cambiamenti effettuati con la May Release 2024:
+
 **Cambiamenti alla documentazione, alla sintassi e alle code lists e artefatti di validazione - [Altri profili (ordine, ordine con risposta, ordine pre-concordato e documento di trasporto)](https://peppol-docs.agid.gov.it/docs-next-release/my_index.jsp)**
 
 **Cambiamenti alle code lists e artefatti di validazione**

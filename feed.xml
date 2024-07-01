@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://peppol.agid.gov.it/feed.xml" rel="self" type="application/atom+xml" /><link href="https://peppol.agid.gov.it/" rel="alternate" type="text/html" /><updated>2024-06-28T15:16:33+00:00</updated><id>https://peppol.agid.gov.it/feed.xml</id><title type="html">PEPPOL</title><entry xml:lang="en"><title type="html">Peppol May Release 2024</title><link href="https://peppol.agid.gov.it/en/news/peppol-may-release-2024-en/" rel="alternate" type="text/html" title="Peppol May Release 2024" /><published>2024-06-28T00:00:00+00:00</published><updated>2024-06-28T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/en/news/peppol-may-release-2024-en</id><content type="html" xml:base="https://peppol.agid.gov.it/en/news/peppol-may-release-2024-en/">&lt;p&gt;We inform you that the updates related to the May Release 2024 of OpenPeppol have been published, the entire release notes are available at the following addresses:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://peppol.agid.gov.it/feed.xml" rel="self" type="application/atom+xml" /><link href="https://peppol.agid.gov.it/" rel="alternate" type="text/html" /><updated>2024-07-01T09:58:28+00:00</updated><id>https://peppol.agid.gov.it/feed.xml</id><title type="html">PEPPOL</title><entry xml:lang="en"><title type="html">Peppol May Release 2024</title><link href="https://peppol.agid.gov.it/en/news/peppol-may-release-2024-en/" rel="alternate" type="text/html" title="Peppol May Release 2024" /><published>2024-06-28T00:00:00+00:00</published><updated>2024-06-28T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/en/news/peppol-may-release-2024-en</id><content type="html" xml:base="https://peppol.agid.gov.it/en/news/peppol-may-release-2024-en/">&lt;p&gt;We inform you that the updates related to the May Release 2024 of OpenPeppol have been published, the entire release notes are available at the following addresses:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/others/guides/release-notes-it/3-order-only/main.html&quot;&gt;Order only&lt;/a&gt;;&lt;/li&gt;
@@ -9,8 +9,9 @@
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;strong&gt;These updates will be mandatory starting from 26th August 2024, nevertheless we advise to implement these changes in time and to download the schematron for the validation of the updated documents.&lt;/strong&gt;
-&lt;!--more--&gt;
-The current documentation, accessible until 25th August 2024, is available at the following addresses:&lt;/p&gt;
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;The current documentation, accessible until 25th August 2024, is available at the following addresses:&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/my_index_fatt.jsp&quot;&gt;Billing&lt;/a&gt;;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/my_index.jsp&quot;&gt;Other processes (Order Only, Ordering, Order Agreement, Despatch Advice)&lt;/a&gt;.&lt;/li&gt;
@@ -60,8 +61,9 @@ The current documentation, accessible until 25th August 2024, is available at th
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;strong&gt;Tali aggiornamenti avranno efficacia in via obbligatoria dal giorno 26 agosto 2024, ciononostante si consiglia di recepire per tempo tali modifiche e di scaricare gli schematron per la validazione dei documenti aggiornati.&lt;/strong&gt;
-&lt;!--more--&gt;
-Le specifiche tecniche che rimarranno in vigore fino al giorno 25 agosto 2024 sono disponibili agli indirizzi:&lt;/p&gt;
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;Le specifiche tecniche che rimarranno in vigore fino al giorno 25 agosto 2024 sono disponibili agli indirizzi:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/my_index_fatt.jsp&quot;&gt;Fatturazione&lt;/a&gt;;&lt;/li&gt;
@@ -70,7 +72,7 @@ Le specifiche tecniche che rimarranno in vigore fino al giorno 25 agosto 2024 so
 
 &lt;p&gt;Di seguito si riportano i cambiamenti effettuati con la May Release 2024:&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Cambiamenti alla documentazione, alla sintassi e alle code lists e artefatti di validazione - &lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/my_index.jsp&quot;&gt;Altri profili (ordine, ordine con risposta, ordine pre-concordato e documento di trasporto)&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cambiamenti alla documentazione, alla sintassi e alle code lists e artefatti di validazione - &lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/my_index.jsp&quot;&gt;Altri processi (ordine, ordine con risposta, ordine pre-concordato e documento di trasporto)&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Cambiamenti alle code lists e artefatti di validazione&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;

@@ -35,6 +35,12 @@
   registered_office: Via San Clemente, 53 - 24036 Ponte San Petro (BG)
   contact_point: Aruba PEC S.p.A.
   contact_info: info-peppol@staff.aruba.it
+- business_name: BLUENEXT S.r.l.
+  ap: true
+  smp: true
+  registered_office: Viale 23 Settembre 1845, 95 - 47921 Rimini
+  contact_point: Francesco Maccarrone
+  contact_info: francesco.maccarrone@bluenext.it
 - business_name: Consip S.p.A.
   ap: true
   smp: true

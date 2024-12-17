@@ -47,6 +47,6 @@ In caso di necessità, è possibile richiedere ad OpenPeppol la modifica dell’
 
 ### Documenti allegati
 
-- [PEPPOL Service Provider Agreement](/attachments/PeppolServiceProviderAgreement_V_1_1_giu2023.pdf)
+- [PEPPOL Service Provider Agreement](/attachments/PeppolServiceProviderAgreement_v4.0.1.pdf)
 - [Dichiarazione sostitutiva del certificato di iscrizione alla CCIAA](/attachments/dichirazione_rea_compilabile_rev201812.pdf)
 - [Guida alla firma del nuovo Service Provider Agreement](/attachments/Guide_signing_agreement_V_1_0.pdf)

@@ -51,5 +51,5 @@ If necessary, the Service Provider can request OpenPeppol to change the contact 
 
 ### Attached documents
 
-- [PEPPOL Service Provider Agreement](/attachments/PeppolServiceProviderAgreement_V_1_1_giu2023.pdf)
+- [PEPPOL Service Provider Agreement](/attachments/PeppolServiceProviderAgreement_v4.0.1.pdf)
 - [Guide to signing the new Service Provider Agreement](/attachments/Guide_signing_agreement_V_1_0.pdf)

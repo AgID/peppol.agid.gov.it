@@ -15,7 +15,7 @@ Procedura da seguire per sottoscrivere il Peppol Service Provider Agreement:
 
 2. Inviare via email il documento di cui al punto precedente all’indirizzo [membership@peppol.eu](mailto:membership@peppol.eu)
 
-3. Compilare e firmare digitalmente il documento [Peppol Service Provider Agreement](https://peppol.agid.gov.it//attachments\PeppolServiceProviderAgreement_v4.0.1.pdf) e la Visura Camerale della società, o in alternativa la [Dichiarazione sostitutiva del certificato di iscrizione alla CCIAA](https://peppol.agid.gov.it/attachments/dichirazione_rea_compilabile_rev201812.pdf)
+3. Compilare e firmare digitalmente il documento [Peppol Service Provider Agreement](https://peppol.agid.gov.it/attachments/PeppolServiceProviderAgreement_v4.0.1.pdf) e la Visura Camerale della società, o in alternativa la [Dichiarazione sostitutiva del certificato di iscrizione alla CCIAA](https://peppol.agid.gov.it/attachments/dichirazione_rea_compilabile_rev201812.pdf)
 
 4. Inviare via PEC i documenti di cui al punto precedente all’indirizzo [protocollo@pec.agid.gov.it](mailto:protocollo@pec.agid.gov.it) specificando l’oggetto come segue: _[PEPPOL] richiesta di \*nomeSocietà\* per sottoscrizione accordo Peppol_
 

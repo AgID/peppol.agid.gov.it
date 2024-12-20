@@ -16,7 +16,7 @@ _To become a SMP Provider you must register for the Addressing and Capability Lo
 
 2. Send via email the document above mentioned to the address [membership@peppol.eu](mailto:membership@peppol.eu)
 
-3. Fill in and digitally sign the [Peppol Service Provider Agreement](https://peppol.agid.gov.it/attachments/PeppolServiceProviderAgreement_v4.0.1.pdf) and the Certificate of registration with the Chamber of Commerce
+3. Fill in and digitally sign the [Peppol Service Provider Agreement](https://peppol.agid.gov.it/attachments/PeppolServiceProviderAgreement_v4.0.1_AGID_Final.pdf) and the Certificate of registration with the Chamber of Commerce
 
 4. Send via certified email the documents mentioned in the previous point to the address [protocollo@pec.agid.gov.it](mailto:protocollo@pec.agid.gov.it) specifying the object as follows: _[PEPPOL] request of *company name* to sign the Peppol agreement_
 
@@ -51,5 +51,5 @@ If necessary, the Service Provider can request OpenPeppol to change the contact 
 
 ### Attached documents
 
-- [PEPPOL Service Provider Agreement](/attachments/PeppolServiceProviderAgreement_v4.0.1.pdf)
+- [PEPPOL Service Provider Agreement](/attachments/PeppolServiceProviderAgreement_v4.0.1_AGID_Final.pdf)
 - [Guide to signing the new Service Provider Agreement](/attachments/Guide_signing_agreement_V_1_0.pdf)

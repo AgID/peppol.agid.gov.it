@@ -1,4 +1,135 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://peppol.agid.gov.it/feed.xml" rel="self" type="application/atom+xml" /><link href="https://peppol.agid.gov.it/" rel="alternate" type="text/html" /><updated>2024-12-19T16:22:07+00:00</updated><id>https://peppol.agid.gov.it/feed.xml</id><title type="html">PEPPOL</title><entry xml:lang="en"><title type="html">Single AP of the PA - technical maintenance notice 25/10/2024 at 13:00-16:00</title><link href="https://peppol.agid.gov.it/en/news/single-ap-maintenance-6/" rel="alternate" type="text/html" title="Single AP of the PA - technical maintenance notice 25/10/2024 at 13:00-16:00" /><published>2024-10-11T00:00:00+00:00</published><updated>2024-10-11T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/en/news/single-ap-maintenance-6</id><content type="html" xml:base="https://peppol.agid.gov.it/en/news/single-ap-maintenance-6/">&lt;p&gt;We inform you that AP Unico of the PA will be subject to a technical maintenance intervention from about 13 to 16:00 on Friday 25 october 2024.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://peppol.agid.gov.it/feed.xml" rel="self" type="application/atom+xml" /><link href="https://peppol.agid.gov.it/" rel="alternate" type="text/html" /><updated>2024-12-20T15:52:49+00:00</updated><id>https://peppol.agid.gov.it/feed.xml</id><title type="html">PEPPOL</title><entry xml:lang="en"><title type="html">Peppol November Release 2024 e other Italian modifications</title><link href="https://peppol.agid.gov.it/en/news/peppol-november-release-2024-en/" rel="alternate" type="text/html" title="Peppol November Release 2024 e other Italian modifications" /><published>2024-12-20T00:00:00+00:00</published><updated>2024-12-20T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/en/news/peppol-november-release-en</id><content type="html" xml:base="https://peppol.agid.gov.it/en/news/peppol-november-release-2024-en/">&lt;p&gt;We inform you that the updates related to the November Release 2024 of OpenPeppol and other modifications related to the Italian context have been published, the entire release notes are available at the following addresses:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/others/guides/release-notes-it/3-order-only/main.html&quot;&gt;Order only&lt;/a&gt;;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/others/guides/release-notes-it/28-ordering/main.html&quot;&gt;Ordering&lt;/a&gt;;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/others/guides/release-notes-it/42-orderagreement/main.html&quot;&gt;Order Agreement&lt;/a&gt;;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/others/guides/release-notes-it/30-despatchadvice/main.html&quot;&gt;Despatch Advice&lt;/a&gt;;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/invoice/guide/release-notes-it/main.html&quot;&gt;Billing&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;These updates will be mandatory starting from 17th February 2025, nevertheless we advise to implement these changes in time and to download the schematron for the validation of the updated documents.&lt;/strong&gt;
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;The current documentation, accessible until 16th February 2025, is available at the following addresses:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/my_index_fatt.jsp&quot;&gt;Billing&lt;/a&gt;;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/my_index.jsp&quot;&gt;Other Processes (Order only, Ordering, Order Agreement, Despatch Advice)&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The changes of the November Release 2024 are described below:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Changes to the specification (documentation), syntax and code lists and validation artifacts – &lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/my_index.jsp&quot;&gt;Other Processes (order only, ordering, order agreement and despatch advice)&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Syntax changes&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Order, Order Agreement, Despatch Advice – Added new optional element cbc:ID in the cac:AdditionalItemProperty structure;&lt;/li&gt;
+  &lt;li&gt;Despatch Advice:
+    &lt;ul&gt;
+      &lt;li&gt;Added new optional attribute @schemeID to the element cbc:ID in the cac:TransportHandlingUnit structure;&lt;/li&gt;
+      &lt;li&gt;Added new optional structure cac:DeliveryParty.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Changes to code lists and validation artifacts&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Order, Order Response, Order Agreement, Despatch Advice – Modification of the Item type identification code (UNCL7143), Dangerous goods regulations code (UNCL8273) Recommendation 20, including Recommendation 21 codes - prefixed with X (UN/ECE) codelists;&lt;/li&gt;
+  &lt;li&gt;Despatch Advice – Added new codelist Transport Handling Unit ID scheme (openPEPPOL) containg only the code [SSCC] &lt;em&gt;Serial Shipping Container Code&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Updates related to “BIS compliance”&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Order, Order Response, Order Agreement, Despatch Advice – Added new compliance rules on the use of sender/receiver identifiers when enveloping a BIS3 message in Peppol Business Message Envelope (SBDH).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Changes to the specification (documentation), syntax and code lists and validation artifacts – &lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/my_index_fatt.jsp&quot;&gt;Billing&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Changes to code lists and validation artifacts&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Formal revisions of specific Rules for italian CIUS (CIUS ID BR-IT-261; BR-IT-370; BR-IT-DC-480) and Rules for italian extensions (CIUS ID BR-IT-DE-013; BR-IT-DE-024; BR-IT-DE-026) to align with the technical rules of Agenzia delle Entrate related to the management of European invoices - version 2.5;&lt;/li&gt;
+  &lt;li&gt;Added new set of rules from DE-R-001 to DE-R-030 (Germany);&lt;/li&gt;
+  &lt;li&gt;•	Modification of the rules PEPPOL-EN16931-R002, NL-R-008 (Netherlands), SE-R-003 (Sweden), SE-R-004 (Sweden) and SE-R-013 (Sweden).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;EN 16931 schematrons updated&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Update of schematron EN 16931 to version 1.3.13.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Updates related to “BIS compliance”&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Added new compliance rules on the use of sender/receiver identifiers when enveloping a BIS3 message in Peppol Business Message Envelope (SBDH).&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="en" /><category term="news" /><summary type="html">We inform you that the updates related to the November Release 2024 of OpenPeppol and other modifications related to the Italian context have been published, the entire release notes are available at the following addresses: Order only; Ordering; Order Agreement; Despatch Advice; Billing. These updates will be mandatory starting from 17th February 2025, nevertheless we advise to implement these changes in time and to download the schematron for the validation of the updated documents.</summary></entry><entry xml:lang="it"><title type="html">Peppol November Release 2024 e altre modifiche italiane</title><link href="https://peppol.agid.gov.it/it/news/peppol-november-release-2024-it/" rel="alternate" type="text/html" title="Peppol November Release 2024 e altre modifiche italiane" /><published>2024-12-20T00:00:00+00:00</published><updated>2024-12-20T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/it/news/peppol-november-release-it</id><content type="html" xml:base="https://peppol.agid.gov.it/it/news/peppol-november-release-2024-it/">&lt;p&gt;Si comunica che sono stati pubblicati gli aggiornamenti relativi alla November Release 2024 di OpenPeppol e ad ulteriori modifiche relative al contesto italiano, le cui release notes complete sono disponibili agli indirizzi:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/others/guides/release-notes-it/3-order-only/main.html&quot;&gt;Ordinazione Semplice&lt;/a&gt;;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/others/guides/release-notes-it/28-ordering/main.html&quot;&gt;Ordinazione Completa&lt;/a&gt;;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/others/guides/release-notes-it/42-orderagreement/main.html&quot;&gt;Ordinazione Pre-concordata&lt;/a&gt;;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/others/guides/release-notes-it/30-despatchadvice/main.html&quot;&gt;Documento di Trasporto&lt;/a&gt;;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/invoice/guide/release-notes-it/main.html&quot;&gt;Fatturazione&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Tali aggiornamenti avranno efficacia in via obbligatoria dal giorno 17 febbraio 2025, ciononostante si consiglia di recepire per tempo tali modifiche e di scaricare gli schematron per la validazione dei documenti aggiornati.&lt;/strong&gt;
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;Le specifiche tecniche che rimarranno in vigore fino al giorno 16 febbraio 2025 sono disponibili agli indirizzi:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/my_index_fatt.jsp&quot;&gt;Fatturazione&lt;/a&gt;;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/my_index.jsp&quot;&gt;Altri processi (Ordinazione semplice, Ordinazione completa, Ordinazione pre-concordata, Documento di trasporto)&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Di seguito si riportano i cambiamenti effettuati con la November Release 2024:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Cambiamenti alla documentazione, alla sintassi e alle code lists e artefatti di validazione –&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/my_index.jsp&quot;&gt;Altri processi (ordine, ordine con risposta, ordine pre-concordato e documento di trasporto)&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Cambiamenti alla sintassi&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Ordine, Ordine Pre-Concordato, Documento di Trasporto – Aggiunto nuovo campo opzionale cbc:ID nella struttura cac:AdditionalItemProperty;&lt;/li&gt;
+  &lt;li&gt;Documento di Trasporto:
+    &lt;ul&gt;
+      &lt;li&gt;Aggiunto nuovo attributo opzionale @schemeID al campo cbc:ID nella struttura cac:TransportHandlingUnit;&lt;/li&gt;
+      &lt;li&gt;Aggiunta nuova struttura opzionale cac:DeliveryParty.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Cambiamenti alle code lists e artefatti di validazione&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Ordine, Risposta all’Ordine, Ordine Pre-Concordato, Documento di Trasporto – Aggiornate le codelist Item type identification code (UNCL7143), Dangerous goods regulations code (UNCL8273) Recommendation 20, including Recommendation 21 codes - prefixed with X (UN/ECE);&lt;/li&gt;
+  &lt;li&gt;Documento di Trasporto – Aggiunta nuova codelist Transport Handling Unit ID scheme (openPEPPOL) contentente unicamente il codice [SSCC] &lt;em&gt;Serial Shipping Container Code&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Aggiornamenti relativi alla “BIS compliance”&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Ordine, Risposta all’Ordine, Ordine Pre-Concordato, Documento di Trasporto – Aggiunte nuove regole di conformità sull’utilizzo degli identificatori del mittente/destinatario nell’inserimento di un messaggio BIS3 all’interno del Peppol Business Message Envelope (SBDH).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Cambiamenti alla documentazione, alla sintassi e alle code lists e artefatti di validazione – &lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/my_index_fatt.jsp&quot;&gt;Fatturazione&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Cambiamenti alle code lists e artefatti di validazione&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Revisioni formale di specifiche Regole di business CIUS italiana (CIUS ID BR-IT-261; BR-IT-370; BR-IT-DC-480) e Regole di business estensione italiana (CIUS ID BR-IT-DE-013; BR-IT-DE-024; BR-IT-DE-026) per allineamento alle Regole tecniche dell’Agenzia delle Entrate relative alla gestione delle fatture europee - versione 2.5;&lt;/li&gt;
+  &lt;li&gt;Introduzione delle nuove regole dalla DE-R-001 alla DE-R-030 (Germania);&lt;/li&gt;
+  &lt;li&gt;Aggiornamento dei controlli delle regole PEPPOL-EN16931-R002, NL-R-008 (Paesi Bassi), SE-R-003 (Svezia), SE-R-004 (Svezia) e SE-R-013 (Svezia).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Aggiornamento schematron EN 16931&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Aggiornamento dello schematron EN 16931 alla versione 1.3.13.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Aggiornamenti relativi alla “BIS compliance”&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Aggiunte nuove regole di conformità sull’utilizzo degli identificatori del mittente/destinatario nell’inserimento di un messaggio BIS3 all’interno del Peppol Business Message Envelope (SBDH).&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="it" /><category term="news" /><summary type="html">Si comunica che sono stati pubblicati gli aggiornamenti relativi alla November Release 2024 di OpenPeppol e ad ulteriori modifiche relative al contesto italiano, le cui release notes complete sono disponibili agli indirizzi: Ordinazione Semplice; Ordinazione Completa; Ordinazione Pre-concordata; Documento di Trasporto; Fatturazione. Tali aggiornamenti avranno efficacia in via obbligatoria dal giorno 17 febbraio 2025, ciononostante si consiglia di recepire per tempo tali modifiche e di scaricare gli schematron per la validazione dei documenti aggiornati.</summary></entry><entry xml:lang="en"><title type="html">Single AP of the PA - technical maintenance notice 25/10/2024 at 13:00-16:00</title><link href="https://peppol.agid.gov.it/en/news/single-ap-maintenance-6/" rel="alternate" type="text/html" title="Single AP of the PA - technical maintenance notice 25/10/2024 at 13:00-16:00" /><published>2024-10-11T00:00:00+00:00</published><updated>2024-10-11T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/en/news/single-ap-maintenance-6</id><content type="html" xml:base="https://peppol.agid.gov.it/en/news/single-ap-maintenance-6/">&lt;p&gt;We inform you that AP Unico of the PA will be subject to a technical maintenance intervention from about 13 to 16:00 on Friday 25 october 2024.&lt;/p&gt;
 
 &lt;p&gt;During this period, the &lt;strong&gt;PA Single PA may not be available&lt;/strong&gt; and therefore orders may not be delivered.&lt;/p&gt;</content><author><name></name></author><category term="en" /><category term="news" /><summary type="html">We inform you that AP Unico of the PA will be subject to a technical maintenance intervention from about 13 to 16:00 on Friday 25 october 2024. During this period, the PA Single PA may not be available and therefore orders may not be delivered.</summary></entry><entry xml:lang="it"><title type="html">AP Unico della PA - avviso di manutenzione tecnica 25/10/2024 ore 13:00-16:00</title><link href="https://peppol.agid.gov.it/it/news/manutenzione-ap-unico-6/" rel="alternate" type="text/html" title="AP Unico della PA - avviso di manutenzione tecnica 25/10/2024 ore 13:00-16:00" /><published>2024-10-11T00:00:00+00:00</published><updated>2024-10-11T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/it/news/manutenzione-ap-unico-6</id><content type="html" xml:base="https://peppol.agid.gov.it/it/news/manutenzione-ap-unico-6/">&lt;p&gt;Si comunica che AP Unico della PA sarà oggetto di un intervento tecnico di manutenzione dalle ore 13.00 alle ore 16:00 circa del giorno venerdì 25 ottobre 2024.&lt;/p&gt;
 
@@ -146,44 +277,4 @@
 &lt;p&gt;&lt;strong&gt;Aggiornamento schematron EN 16931&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;Aggiornamento dello schematron EN 16931 alla versione 1.3.12.;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="it" /><category term="news" /><summary type="html">Si comunica che sono stati pubblicati gli aggiornamenti relativi alla May Release 2024 di OpenPeppol, contenenti una serie di modifiche le cui release notes complete sono disponibili agli indirizzi: Ordinazione Semplice; Ordinazione Completa; Ordinazione Pre-concordata; Documento di Trasporto; Fatturazione. Tali aggiornamenti avranno efficacia in via obbligatoria dal giorno 26 agosto 2024, ciononostante si consiglia di recepire per tempo tali modifiche e di scaricare gli schematron per la validazione dei documenti aggiornati.</summary></entry><entry xml:lang="en"><title type="html">Scheduled maintenance for the second half of the year 2024</title><link href="https://peppol.agid.gov.it/en/news/scheduled-maintenance-2024/" rel="alternate" type="text/html" title="Scheduled maintenance for the second half of the year 2024" /><published>2024-06-25T00:00:00+00:00</published><updated>2024-06-25T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/en/news/scheduled-maintenance-2024</id><content type="html" xml:base="https://peppol.agid.gov.it/en/news/scheduled-maintenance-2024/">&lt;p&gt;We inform you that, in the course of the second half of the year 2024, the Access Point and the Single SMP of the PA will be subject to scheduled maintenance. During these interventions, possible unavailability of the system could occur.&lt;/p&gt;
-
-&lt;p&gt;Specifically, maintenance interventions are scheduled &lt;strong&gt;always from 13.00 to 15.30&lt;/strong&gt;, they will take place on the following dates:
-&lt;!--more--&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;July 26, 2024&lt;/li&gt;
-  &lt;li&gt;October 25, 2024&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;It is highlighted that the system may be affected by further releases of which any specific communication will be given via news.&lt;/p&gt;
-
-&lt;p&gt;We also inform you that the technical support available via email at the PEPPOL Assistance address &lt;a href=&quot;mailto:assistenzapeppol@agid.gov.it&quot;&gt;assistenzapeppol@agid.gov.it&lt;/a&gt; will observe the following scheduled closures:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;August 16, 2024&lt;/li&gt;
-  &lt;li&gt;December 24, 2024 - early closure at 1:00 p.m.&lt;/li&gt;
-  &lt;li&gt;December 27, 2024&lt;/li&gt;
-  &lt;li&gt;December 31, 2024 - early closure at 1:00 p.m.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;We recommend that you take note of the dates indicated above and we apologize for any inconvenience.&lt;/p&gt;</content><author><name></name></author><category term="en" /><category term="news" /><summary type="html">We inform you that, in the course of the second half of the year 2024, the Access Point and the Single SMP of the PA will be subject to scheduled maintenance. During these interventions, possible unavailability of the system could occur. Specifically, maintenance interventions are scheduled always from 13.00 to 15.30, they will take place on the following dates:</summary></entry><entry xml:lang="it"><title type="html">Calendario manutenzioni programmate per il secondo semestre dell’anno 2024</title><link href="https://peppol.agid.gov.it/it/news/calendario-manutenzione-2024/" rel="alternate" type="text/html" title="Calendario manutenzioni programmate per il secondo semestre dell’anno 2024" /><published>2024-06-25T00:00:00+00:00</published><updated>2024-06-25T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/it/news/calendario-manutenzione-2024</id><content type="html" xml:base="https://peppol.agid.gov.it/it/news/calendario-manutenzione-2024/">&lt;p&gt;Si informa che, nel secondo semestre dell’anno 2024 l’Access Point e l’SMP Unico della PA saranno oggetto di manutenzioni programmate. Durante tali interventi potrebbero verificarsi eventuali indisponibilità del sistema.&lt;/p&gt;
-
-&lt;p&gt;Nello specifico, gli interventi di manutenzione sono pianificati &lt;strong&gt;sempre dalle ore 13.00 alle ore 15.30&lt;/strong&gt;, avverranno nelle seguenti date:
-&lt;!--more--&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;26 luglio 2024&lt;/li&gt;
-  &lt;li&gt;25 ottobre 2024&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Si evidenza che il sistema potrà essere interessato da ulteriori rilasci di cui verrà data eventuale comunicazione specifica tramite news.&lt;/p&gt;
-
-&lt;p&gt;Inoltre si anticipa che, il supporto tecnico disponibile via mail all’indirizzo dell’Assistenza PEPPOL &lt;a href=&quot;mailto:assistenzapeppol@agid.gov.it&quot;&gt;assistenzapeppol@agid.gov.it&lt;/a&gt; osserverà le seguenti chiusure programmate:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;16 agosto 2024&lt;/li&gt;
-  &lt;li&gt;24 dicembre 2024 - chiusura anticipata alle ore 13:00&lt;/li&gt;
-  &lt;li&gt;27 dicembre 2024&lt;/li&gt;
-  &lt;li&gt;31 dicembre 2024 - chiusura anticipata alle ore 13:00&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Consigliamo di prendere nota delle date sopra indicate e ci scusiamo per eventuali disagi.&lt;/p&gt;</content><author><name></name></author><category term="it" /><category term="news" /><summary type="html">Si informa che, nel secondo semestre dell’anno 2024 l’Access Point e l’SMP Unico della PA saranno oggetto di manutenzioni programmate. Durante tali interventi potrebbero verificarsi eventuali indisponibilità del sistema. Nello specifico, gli interventi di manutenzione sono pianificati sempre dalle ore 13.00 alle ore 15.30, avverranno nelle seguenti date:</summary></entry></feed>
+&lt;/ul&gt;</content><author><name></name></author><category term="it" /><category term="news" /><summary type="html">Si comunica che sono stati pubblicati gli aggiornamenti relativi alla May Release 2024 di OpenPeppol, contenenti una serie di modifiche le cui release notes complete sono disponibili agli indirizzi: Ordinazione Semplice; Ordinazione Completa; Ordinazione Pre-concordata; Documento di Trasporto; Fatturazione. Tali aggiornamenti avranno efficacia in via obbligatoria dal giorno 26 agosto 2024, ciononostante si consiglia di recepire per tempo tali modifiche e di scaricare gli schematron per la validazione dei documenti aggiornati.</summary></entry></feed>

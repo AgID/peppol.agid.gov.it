@@ -55,3 +55,4 @@ If necessary, the Service Provider can request OpenPeppol to change the contact 
 
 - [PEPPOL Service Provider Agreement](/attachments/PeppolServiceProviderAgreement_v4.0.1_AGID_Final.pdf)
 - [Guide to signing the new Service Provider Agreement](/attachments/Guide_signing_agreement_V_1_0.pdf)
+- [Italian Peppol Authority Specific Requirements (PASR)](https://peppol.org/wp-content/uploads/2022/08/Italy-Peppol-Authority-Specific-Requirements.pdf)

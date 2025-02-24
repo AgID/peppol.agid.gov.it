@@ -52,3 +52,4 @@ In caso di necessità, è possibile richiedere ad OpenPeppol la modifica dell’
 - [PEPPOL Service Provider Agreement](/attachments/PeppolServiceProviderAgreement_v4.0.1_AGID_Final.pdf)
 - [Dichiarazione sostitutiva del certificato di iscrizione alla CCIAA](/attachments/dichirazione_rea_compilabile_rev201812.pdf)
 - [Guida alla firma del nuovo Service Provider Agreement](/attachments/Guide_signing_agreement_V_1_0.pdf)
+- [Peppol Authority Specific Requirements (PASR) Italiano](https://peppol.org/wp-content/uploads/2022/08/Italy-Peppol-Authority-Specific-Requirements.pdf)

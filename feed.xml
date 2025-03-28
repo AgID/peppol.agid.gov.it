@@ -1,4 +1,31 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://peppol.agid.gov.it/feed.xml" rel="self" type="application/atom+xml" /><link href="https://peppol.agid.gov.it/" rel="alternate" type="text/html" /><updated>2025-02-24T16:06:51+00:00</updated><id>https://peppol.agid.gov.it/feed.xml</id><title type="html">PEPPOL</title><entry xml:lang="it"><title type="html">Entrata in vigore della Peppol November Release 2024 e altre modifiche italiane</title><link href="https://peppol.agid.gov.it/it/news/entrata-vigore-peppol-november-release-2024/" rel="alternate" type="text/html" title="Entrata in vigore della Peppol November Release 2024 e altre modifiche italiane" /><published>2025-02-17T00:00:00+00:00</published><updated>2025-02-17T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/it/news/entrata-vigore-peppol-november-release-2024</id><content type="html" xml:base="https://peppol.agid.gov.it/it/news/entrata-vigore-peppol-november-release-2024/">&lt;p&gt;&lt;strong&gt;Si comunica che in data 17 febbraio 2025 sono diventati efficaci gli aggiornamenti relativi alla November Release 2024 di OpenPeppol e alle altre modifiche relative al contesto italiano&lt;/strong&gt;, di cui si è data evidenza attraverso la comunicazione pubblicata in data 20 dicembre 2024.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://peppol.agid.gov.it/feed.xml" rel="self" type="application/atom+xml" /><link href="https://peppol.agid.gov.it/" rel="alternate" type="text/html" /><updated>2025-03-28T16:41:23+00:00</updated><id>https://peppol.agid.gov.it/feed.xml</id><title type="html">PEPPOL</title><entry xml:lang="en"><title type="html">Publication of the new release of the Peppol BIS3 Invoicing Specification to adapt to the new version of the Technical Specifications FPA_v1.4, Technical Specifications FPR_v1.9 and The Controls SDI_v2.0</title><link href="https://peppol.agid.gov.it/en/news/new-peppol-bis3-it-FPA-v14-en/" rel="alternate" type="text/html" title="Publication of the new release of the Peppol BIS3 Invoicing Specification to adapt to the new version of the Technical Specifications FPA_v1.4, Technical Specifications FPR_v1.9 and The Controls SDI_v2.0" /><published>2025-03-28T00:00:00+00:00</published><updated>2025-03-28T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/en/news/new-peppol-bis3-it-FPA-v14_en</id><content type="html" xml:base="https://peppol.agid.gov.it/en/news/new-peppol-bis3-it-FPA-v14-en/">&lt;p&gt;We inform you that the updates related to the Italian Specification of Peppol BIS3 Billing, to adapt to the new version of the Technical Specifications FPA_v1.4, Technical Specifications FPR_v1.9 and The Controls SDI_v2.0, published on the 31/01/2025, have been published. The entire release note is available at the following address:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/invoice/guide/release-notes-it/main.html&quot;&gt;Billing&lt;/a&gt;. 
+&lt;!--more--&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;These updates will be mandatory starting from **1st of April 2025**, nevertheless we advise to implement these changes in time and to download the schematron for the validation of the updated documents.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The main changes are described below:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Introduction of a new Tax Regime RF20 - Cross-border VAT exemption scheme (EU Directive 2020/285);&lt;/li&gt;
+  &lt;li&gt;Introduction of a new Document Type TD29 - Communication for omitted or irregular invoicing (art. 6, paragraph 8, D.Lgs. 471/97).&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="en" /><category term="news" /><summary type="html">We inform you that the updates related to the Italian Specification of Peppol BIS3 Billing, to adapt to the new version of the Technical Specifications FPA_v1.4, Technical Specifications FPR_v1.9 and The Controls SDI_v2.0, published on the 31/01/2025, have been published. The entire release note is available at the following address: Billing.</summary></entry><entry xml:lang="it"><title type="html">Pubblicazione nuova release della Specifica Fatturazione Peppol BIS3 allineata alle Specifiche Tecniche FPA v.1.4, Specifiche tecniche FPR_v1.9 e I controlli SDI_v2.0</title><link href="https://peppol.agid.gov.it/it/news/new-peppol-bis3-it-FPA-v14/" rel="alternate" type="text/html" title="Pubblicazione nuova release della Specifica Fatturazione Peppol BIS3 allineata alle Specifiche Tecniche FPA v.1.4, Specifiche tecniche FPR_v1.9 e I controlli SDI_v2.0" /><published>2025-03-28T00:00:00+00:00</published><updated>2025-03-28T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/it/news/new-peppol-bis3-it-FPA-v14</id><content type="html" xml:base="https://peppol.agid.gov.it/it/news/new-peppol-bis3-it-FPA-v14/">&lt;p&gt;Si comunica che sono stati pubblicati gli aggiornamenti delle Specifiche italiane di Fatturazione Peppol BIS3 per adeguamento alla nuova versione delle Specifiche tecniche FPA_v1.4, Specifiche tecniche FPR_v1.9 e I controlli SDI_v2.0, pubblicati il 31/01/2025, la cui release note completa è disponibile al seguente indirizzo:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/invoice/guide/release-notes-it/main.html&quot;&gt;Fatturazione&lt;/a&gt;;
+&lt;!--more--&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Tali aggiornamenti avranno efficacia in via obbligatoria dal giorno **1 aprile 2025**, ciononostante si consiglia di recepire per tempo tali modifiche e di scaricare gli schematron per la validazione dei documenti aggiornati.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Di seguito si riportano i principali cambiamenti:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Introduzione di un nuovo Regime Fiscale RF20 - Regime transfrontaliero di Franchigia IVA (Direttiva UE 2020/285);&lt;/li&gt;
+  &lt;li&gt;Introduzione di un nuovo Tipo Documento TD29 - Comunicazione per omessa o irregolare fatturazione (art. 6, comma 8, D.Lgs. 471/97).&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="it" /><category term="news" /><summary type="html">Si comunica che sono stati pubblicati gli aggiornamenti delle Specifiche italiane di Fatturazione Peppol BIS3 per adeguamento alla nuova versione delle Specifiche tecniche FPA_v1.4, Specifiche tecniche FPR_v1.9 e I controlli SDI_v2.0, pubblicati il 31/01/2025, la cui release note completa è disponibile al seguente indirizzo: Fatturazione;</summary></entry><entry xml:lang="it"><title type="html">Entrata in vigore della Peppol November Release 2024 e altre modifiche italiane</title><link href="https://peppol.agid.gov.it/it/news/entrata-vigore-peppol-november-release-2024/" rel="alternate" type="text/html" title="Entrata in vigore della Peppol November Release 2024 e altre modifiche italiane" /><published>2025-02-17T00:00:00+00:00</published><updated>2025-02-17T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/it/news/entrata-vigore-peppol-november-release-2024</id><content type="html" xml:base="https://peppol.agid.gov.it/it/news/entrata-vigore-peppol-november-release-2024/">&lt;p&gt;&lt;strong&gt;Si comunica che in data 17 febbraio 2025 sono diventati efficaci gli aggiornamenti relativi alla November Release 2024 di OpenPeppol e alle altre modifiche relative al contesto italiano&lt;/strong&gt;, di cui si è data evidenza attraverso la comunicazione pubblicata in data 20 dicembre 2024.&lt;/p&gt;
 
 &lt;p&gt;Le specifiche tecniche attualmente in vigore sono disponibili agli indirizzi::&lt;/p&gt;
 
@@ -190,58 +217,4 @@
   &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/docs/ITA/invoice/guide/release-notes-it/main.html&quot;&gt;Fatturazione&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;</content><author><name></name></author><category term="it" /><category term="news" /><summary type="html">Si comunica che in data 26 agosto 2024 sono diventati efficaci gli aggiornamenti relativi alla May Release 2024 di OpenPeppol, di cui si è data evidenza attraverso la comunicazione pubblicata in data 28 giugno 2024. Le specifiche tecniche attualmente in vigore sono disponibili agli indirizzi: Fatturazione; Altri processi (Ordinazione semplice, Ordinazione completa, Ordinazione pre-concordata, Documento di trasporto).</summary></entry><entry xml:lang="en"><title type="html">Single AP of the PA - technical maintenance notice 26/07/2024 at 13:00-16:00</title><link href="https://peppol.agid.gov.it/en/news/single-ap-maintenance-5/" rel="alternate" type="text/html" title="Single AP of the PA - technical maintenance notice 26/07/2024 at 13:00-16:00" /><published>2024-07-16T00:00:00+00:00</published><updated>2024-07-16T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/en/news/single-ap-maintenance-5</id><content type="html" xml:base="https://peppol.agid.gov.it/en/news/single-ap-maintenance-5/">&lt;p&gt;We inform you that AP Unico of the PA will be subject to a technical maintenance intervention from about 13 to 16:00 on Friday 26 july 2024.&lt;/p&gt;
 
-&lt;p&gt;During this period, the &lt;strong&gt;PA Single PA may not be available&lt;/strong&gt; and therefore orders may not be delivered.&lt;/p&gt;</content><author><name></name></author><category term="en" /><category term="news" /><summary type="html">We inform you that AP Unico of the PA will be subject to a technical maintenance intervention from about 13 to 16:00 on Friday 26 july 2024. During this period, the PA Single PA may not be available and therefore orders may not be delivered.</summary></entry><entry xml:lang="it"><title type="html">AP Unico della PA - avviso di manutenzione tecnica 26/07/2024 ore 13:00-16:00</title><link href="https://peppol.agid.gov.it/it/news/manutenzione-ap-unico-5/" rel="alternate" type="text/html" title="AP Unico della PA - avviso di manutenzione tecnica 26/07/2024 ore 13:00-16:00" /><published>2024-07-16T00:00:00+00:00</published><updated>2024-07-16T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/it/news/manutenzione-ap-unico-5</id><content type="html" xml:base="https://peppol.agid.gov.it/it/news/manutenzione-ap-unico-5/">&lt;p&gt;Si comunica che AP Unico della PA sarà oggetto di un intervento tecnico di manutenzione dalle ore 13.00 alle ore 16:00 circa del giorno venerdì 26 luglio 2024.&lt;/p&gt;
-
-&lt;p&gt;Durante tale periodo l’&lt;strong&gt;AP Unico della PA potrebbe non essere disponibile&lt;/strong&gt; e pertanto gli ordini potrebbero non essere recapitati.&lt;/p&gt;</content><author><name></name></author><category term="it" /><category term="news" /><summary type="html">Si comunica che AP Unico della PA sarà oggetto di un intervento tecnico di manutenzione dalle ore 13.00 alle ore 16:00 circa del giorno venerdì 26 luglio 2024. Durante tale periodo l’AP Unico della PA potrebbe non essere disponibile e pertanto gli ordini potrebbero non essere recapitati.</summary></entry><entry xml:lang="en"><title type="html">Peppol May Release 2024</title><link href="https://peppol.agid.gov.it/en/news/peppol-may-release-2024-en/" rel="alternate" type="text/html" title="Peppol May Release 2024" /><published>2024-06-28T00:00:00+00:00</published><updated>2024-06-28T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/en/news/peppol-may-release-2024-en</id><content type="html" xml:base="https://peppol.agid.gov.it/en/news/peppol-may-release-2024-en/">&lt;p&gt;We inform you that the updates related to the May Release 2024 of OpenPeppol have been published, the entire release notes are available at the following addresses:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/others/guides/release-notes-it/3-order-only/main.html&quot;&gt;Order only&lt;/a&gt;;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/others/guides/release-notes-it/28-ordering/main.html&quot;&gt;Ordering&lt;/a&gt;;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/others/guides/release-notes-it/42-orderagreement/main.html&quot;&gt;Order Agreement&lt;/a&gt;;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/others/guides/release-notes-it/30-despatchadvice/main.html&quot;&gt;Despatch Advice&lt;/a&gt;;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/invoice/guide/release-notes-it/main.html&quot;&gt;Billing&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;These updates will be mandatory starting from 26th August 2024, nevertheless we advise to implement these changes in time and to download the schematron for the validation of the updated documents.&lt;/strong&gt;
-&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;p&gt;The current documentation, accessible until 25th August 2024, is available at the following addresses:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/my_index_fatt.jsp&quot;&gt;Billing&lt;/a&gt;;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/my_index.jsp&quot;&gt;Other processes (Order Only, Ordering, Order Agreement, Despatch Advice)&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The changes of the May Release 2024 are described below:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Changes to the specification (documentation), syntax and code lists and validation artifacts – &lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/my_index.jsp&quot;&gt;Other processes (Order Only, Ordering, Order Agreement and Despatch Advice)&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Changes to code lists and validation artifacts&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Order, Order Response, Order Agreement, Despatch Advice – Modification in the test of rule PEPPOL-COMMON-R049 (Sweden);&lt;/li&gt;
-  &lt;li&gt;Order Response:
-    &lt;ul&gt;
-      &lt;li&gt;Added new rule PEPPOL-T76-R007 regarding the check for the presence of at least one line in the case of an order response with response code ‘CA’ (Order accepted with modification), with severity level WARNING;&lt;/li&gt;
-      &lt;li&gt;Added new rule PEPPOL-T76-R008 regarding the check for the absence of lines in the case of an order response with response code “AP” (Order accepted without modification), with severity level WARNING;&lt;/li&gt;
-      &lt;li&gt;Added new rule PEPPOL-T76-R009 regarding the check for the absence of lines in the case of an order response with response code “RE” (Order rejected), with severity level WARNING;&lt;/li&gt;
-      &lt;li&gt;Added new rule PEPPOL-T76-R010 regarding the check for the absence of lines in the case of an order response with response code ‘AB’ (order received and not yet processed), with severity level FATAL.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Changes to the specification (documentation), syntax and code lists and validation artifacts - &lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/my_index_fatt.jsp&quot;&gt;Billing&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Changes to code lists and validation artifacts&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Added new rule SE-R-013 (Sweden);&lt;/li&gt;
-  &lt;li&gt;Modification in the test of rules NL-R-007 (Netherlands) and PEPPOL-COMMON-R049 (Sweden);&lt;/li&gt;
-  &lt;li&gt;Change in the code “SLL” with the code “SLE” (Sierra Leone) in the codelist ISO 4217 Currency codes;&lt;/li&gt;
-  &lt;li&gt;Added code “98” (JP, Electronically Recorded Monetary Claims) in the codelist Payment means code (UNCL4461). Inserted correspondence with Payment Method code “MP01” (Cash) of FatturaPA;&lt;/li&gt;
-  &lt;li&gt;Added code “GMN” (Global model number) in the codelist Item type identification code (UNCL7143);&lt;/li&gt;
-  &lt;li&gt;Added code “PRV” (Price variation) in the codelist codelist Charge reason code (UNCL7161);&lt;/li&gt;
-  &lt;li&gt;Added codes “VATEX-FR-FRANCHISE” (Francia) and “VATEX-FR-CNWVAT” (Francia) in the VATEX codelist.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;EN 16931 schematrons updated&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Update of schematron EN 16931 to version 1.3.12.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="en" /><category term="news" /><summary type="html">We inform you that the updates related to the May Release 2024 of OpenPeppol have been published, the entire release notes are available at the following addresses: Order only; Ordering; Order Agreement; Despatch Advice; Billing. These updates will be mandatory starting from 26th August 2024, nevertheless we advise to implement these changes in time and to download the schematron for the validation of the updated documents.</summary></entry></feed>
+&lt;p&gt;During this period, the &lt;strong&gt;PA Single PA may not be available&lt;/strong&gt; and therefore orders may not be delivered.&lt;/p&gt;</content><author><name></name></author><category term="en" /><category term="news" /><summary type="html">We inform you that AP Unico of the PA will be subject to a technical maintenance intervention from about 13 to 16:00 on Friday 26 july 2024. During this period, the PA Single PA may not be available and therefore orders may not be delivered.</summary></entry></feed>

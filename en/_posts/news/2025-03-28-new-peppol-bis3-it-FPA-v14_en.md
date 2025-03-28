@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Publication of the new release of the Peppol BIS3 Invoicing Specification to adapt to the new version of the Technical Specifications FPA_v1.4, Technical Specifications FPR_v1.9 and The Controls SDI_v2.0
+title: Publication of the new release of the Peppol BIS3 Invoicing Specification
 lang: en
 ref: new-peppol-bis3-it-FPA-v14-en
 excerpt_separator: <!--more-->
@@ -13,7 +13,7 @@ We inform you that the updates related to the Italian Specification of Peppol BI
 - [Billing](https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/invoice/guide/release-notes-it/main.html). 
 <!--more-->
 
-__These updates will be mandatory starting from **1st of April 2025**, nevertheless we advise to implement these changes in time and to download the schematron for the validation of the updated documents.__
+These updates will be mandatory starting from **1st of April 2025**, nevertheless we advise to implement these changes in time and to download the schematron for the validation of the updated documents.
 
 The main changes are described below:
 - Introduction of a new Tax Regime RF20 - Cross-border VAT exemption scheme (EU Directive 2020/285);

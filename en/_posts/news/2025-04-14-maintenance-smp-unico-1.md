@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PA Single SMP, Specifications Portal, Online Validator and Onboarding Platform - technical maintenance notice 18/04/2025 from 1:00 p.m. to 3:30 p.m.
-lang: it
+lang: en
 ref: maintenance-smp-single-1
 excerpt_separator: <!--more-->
 tags:

@@ -29,6 +29,12 @@
   registered_office: Corso Francia, 233/D - 10098 Rivoli (TO)
   contact_point: Giorgio Saglio
   contact_info: saglio@archivium.digital
+- business_name: Aria S.p.A. - Azienda Regionale per l'Innovazione e gli Acquisti
+  ap: true
+  smp: false
+  registered_office: Via Torquato Taramelli, 26 - 20124 Milano
+  contact_point: Emanuela Manfredi
+  contact_info: gestione-fatturazione@ariaspa.it
 - business_name: Aruba PEC S.p.A.
   ap: true
   smp: true

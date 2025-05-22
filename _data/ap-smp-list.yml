@@ -125,6 +125,12 @@
   registered_office: Via G. Medici 9/a - 35138 Padova
   contact_point: Andrea Rossi
   contact_info: peppol@ifin.it
+- business_name: IDC - Indicom Document Care S.p.A.
+  ap: true
+  smp: true
+  registered_office: Via Antonio Carnevali, 39 - 20158 Milano
+  contact_point: Antonio Gianluigi Porro
+  contact_info: Peppol_Contact@indicom.eu
 - business_name: IN.TE.SA S.p.A.
   ap: true
   smp: false

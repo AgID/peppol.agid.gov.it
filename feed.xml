@@ -1,4 +1,164 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://peppol.agid.gov.it/feed.xml" rel="self" type="application/atom+xml" /><link href="https://peppol.agid.gov.it/" rel="alternate" type="text/html" /><updated>2025-05-22T09:03:03+00:00</updated><id>https://peppol.agid.gov.it/feed.xml</id><title type="html">PEPPOL</title><entry xml:lang="en"><title type="html">Update of the OpenPeppol eDEC Specifications regarding Peppol network security.</title><link href="https://peppol.agid.gov.it/en/news/update-peppol-eDEC-1/" rel="alternate" type="text/html" title="Update of the OpenPeppol eDEC Specifications regarding Peppol network security." /><published>2025-05-16T00:00:00+00:00</published><updated>2025-05-16T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/en/news/update-peppol-eDEC-1</id><content type="html" xml:base="https://peppol.agid.gov.it/en/news/update-peppol-eDEC-1/">&lt;p&gt;Notice is hereby given that the eDEC Change Management Board has published the new document “Peppol CNAME to NAPTR Migration Process” within the &lt;a href=&quot;https://secure-web.cisco.com/1zl-Tgh8vFgZRRJEd2WFCYLNTdekyu06o9jcO5C8Yiy3wJyaGfJEUWSOzkITAgPjBgqldJPg9OYJB0Mz_4qE9zb_XpiVFqkx8BgwxqOBeEUHbb7-oMfUsOZlXiAmZJEeci98hxE2f9SJH1urMeJth9W0XEGtvlhdhNJ_ZrLDfoeJ2rYY2u8gVNpEDCBF7_s5sJu1QOZ5Y3mmzq_Cl75qzxxQAcTI7WAdNFOM1nZTVjN3MX7UNvjoEYt42IwJRmlqG9yKP0a7FY8KMwCYQcu4YBRyI-RTRtCKPkwFOGxCshg0d8hCsgKVWMsmCTylrNyw7/https%3A%2F%2Furldefense.com%2Fv3%2F__https%3A%2Fdocs.peppol.eu%2Fedelivery%2F__%3B%21%21LQkDIss%21UOLsfacB5NgYcr0mafhfXvB9OtqOD_barggrwiYiGGTXyZsbMFVDrxFd636ESM4lVh2NOXOiDdZexCADO78ZSe7FJi-AM7YA3WKFyA3Ex3w%24&quot;&gt;OpenPeppol eDEC Specifications&lt;/a&gt; to announce the changes made to the following documents:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://peppol.agid.gov.it/feed.xml" rel="self" type="application/atom+xml" /><link href="https://peppol.agid.gov.it/" rel="alternate" type="text/html" /><updated>2025-06-09T17:05:49+00:00</updated><id>https://peppol.agid.gov.it/feed.xml</id><title type="html">PEPPOL</title><entry xml:lang="en"><title type="html">Peppol May Release 2025</title><link href="https://peppol.agid.gov.it/en/news/peppol-may-release-2025-en/" rel="alternate" type="text/html" title="Peppol May Release 2025" /><published>2025-06-09T00:00:00+00:00</published><updated>2025-06-09T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/en/news/peppol-may-release-2025-en</id><content type="html" xml:base="https://peppol.agid.gov.it/en/news/peppol-may-release-2025-en/">&lt;p&gt;We inform you that the updates related to the May Release 2025 of OpenPeppol and other modifications related to the Italian context have been published, the entire release notes are available at the following addresses:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ENG/others/guides/release-notes-it/3-order-only/main.html&quot;&gt;Order only&lt;/a&gt;;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ENG/others/guides/release-notes-it/28-ordering/main.html&quot;&gt;Ordering&lt;/a&gt;;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ENG/others/guides/release-notes-it/30-despatchadvice/main.html&quot;&gt;Despatch Advice&lt;/a&gt;;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ENG/invoice/guide/release-notes-it/main.html&quot;&gt;Billing&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;These updates will be mandatory starting from 25th of August 2025, nevertheless we advise to implement these changes in time and to download the schematron for the validation of the updated documents.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;The current documentation, accessible until 24th of August 2025, is available at the following addresses:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/my_index_fatt-ENG.jsp&quot;&gt;Billing&lt;/a&gt;;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/my_index-ENG.jsp&quot;&gt;Other processes (Order Only, Ordering, Order Agreement, Despatch Advice)&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The changes of the May Release 2025 are described below:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Changes to the specification (documentation), syntax and code lists and validation artifacts – &lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/my_index-ENG.jsp&quot;&gt;Other Processes (order only, ordering and despatch advice)&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Changes to documentation&lt;/strong&gt;
+•	Order:
+o	Changed paragraph “7.16.1. Delivery Location (DeliveryLocation)”;
+o	Changed paragraph “7.4.2. Details on Medical Devices and their identification - UDI code”.
+•	Despatch Advice:
+o	Added new paragraph “4.2.1 Process of return of goods” that describes the scenario in case of returns advice;
+o	Added new paragraph “5.4 Despatch Type” that describes the different process of despatch (despatch advice, consignment dispatch advice, returns advice);
+o	Changed the paragraph “8.1.2. Details on Medical Devices and their identification - UDI code” as of the new element cac:ItemInstance/cbc:ProductTraceID to indicate the UDI code for medical devices.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Syntax changes&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Order:
+    &lt;ul&gt;
+      &lt;li&gt;Added new structure cac:Despatch with two elements cbc:RequestedDespatchDate and cbc:RequestedDespatchTime;&lt;/li&gt;
+      &lt;li&gt;Updated schematron to version 3.6;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Despatch Advice:
+    &lt;ul&gt;
+      &lt;li&gt;Added new element cac:ItemInstance/cbc:ProductTraceID and relative @schemeID to indicate the UDI code;&lt;/li&gt;
+      &lt;li&gt;Added new element cbc:DespatchAdviceTypeCode to indicate the type of despatch advice, if it is a despatch advice, consignment dispatch advice or returns advice.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Changes to code lists and validation artifacts&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Order, Order Response – Updated the codelists Electronic Address Scheme (EAS), ISO 6523 ICD list, ISO 4217 Currency codes, Item type identification code (UNCL7143);&lt;/li&gt;
+  &lt;li&gt;Order Response – Modification of the severity level from WARNING to FATAL of the rules PEPPOL-T76-R007, PEPPOL-T76-R008 e PEPPOL-T76-R009&lt;/li&gt;
+  &lt;li&gt;Despatch Advice – Updated the codelists Electronic Address Scheme (EAS), ISO 6523 ICD list, Item type identification code (UNCL7143), Measured attribute code for despatch advice (UNCL6313 Subset) and added new codelists ProductTraceIDschemeID and Despatch advice type code (UNCL1001 subset).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Changes to the specification (documentation), syntax and code lists and validation artifacts – &lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/my_index_fatt-ENG.jsp&quot;&gt;Billing&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Changes to documentation&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Small editorial changes.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Changes to syntax&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Removed reference to rule BR-CO-25 in the element cbc:PaymentDueDate in the Credit Note syntax.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Changes to code lists and validation artifacts&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Modification of the rules PEPPOL-EN16931-R051, PEPPOL-COMMON-R042, DK-R-003 (Denmark), DK-R-004 (Denmark) e DK-R-008 (Denmark);&lt;/li&gt;
+  &lt;li&gt;Small changed to codelists Electronic Address Scheme (EAS), ISO 6523 ICD list, ISO 4217 Currency codes, Invoiced object identifier scheme (UNCL 1153), Payment means code (UNCL4461), Item type identification code (UNCL7143), VATEX code list, Invoice type code (UNCL1001 subset).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;EN 16931 schematrons updated&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Update of schematron EN 16931.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="en" /><category term="news" /><summary type="html">We inform you that the updates related to the May Release 2025 of OpenPeppol and other modifications related to the Italian context have been published, the entire release notes are available at the following addresses: Order only; Ordering; Despatch Advice; Billing. These updates will be mandatory starting from 25th of August 2025, nevertheless we advise to implement these changes in time and to download the schematron for the validation of the updated documents.</summary></entry><entry xml:lang="it"><title type="html">Peppol May Release 2025</title><link href="https://peppol.agid.gov.it/it/news/peppol-may-release-2025-it/" rel="alternate" type="text/html" title="Peppol May Release 2025" /><published>2025-06-09T00:00:00+00:00</published><updated>2025-06-09T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/it/news/peppol-may-release-2025-it%20copy</id><content type="html" xml:base="https://peppol.agid.gov.it/it/news/peppol-may-release-2025-it/">&lt;p&gt;Si comunica che sono stati pubblicati gli aggiornamenti relativi alla May Release 2025 di OpenPeppol e ad ulteriori modifiche relative al contesto italiano, le cui release notes complete sono disponibili agli indirizzi:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/others/guides/release-notes-it/3-order-only/main.html&quot;&gt;Ordinazione Semplice&lt;/a&gt;;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/others/guides/release-notes-it/28-ordering/main.html&quot;&gt;Ordinazione Completa&lt;/a&gt;;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/others/guides/release-notes-it/30-despatchadvice/main.html&quot;&gt;Documento di Trasporto&lt;/a&gt;;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/invoice/guide/release-notes-it/main.html&quot;&gt;Fatturazione&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Tali aggiornamenti avranno efficacia in via obbligatoria dal giorno 25 agosto 2025, ciononostante si consiglia di recepire per tempo tali modifiche e di scaricare gli schematron per la validazione dei documenti aggiornati.&lt;/strong&gt;
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;Le specifiche tecniche che rimarranno in vigore fino al giorno 24 agosto 2025 sono disponibili agli indirizzi:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/my_index_fatt.jsp&quot;&gt;Fatturazione&lt;/a&gt;;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/my_index.jsp&quot;&gt;Altri processi (Ordinazione semplice, Ordinazione completa, Ordinazione pre-concordata, Documento di trasporto)&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Di seguito si riportano i cambiamenti effettuati con la May Release 2025:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Cambiamenti alla documentazione, alla sintassi e alle code lists e artefatti di validazione - &lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/my_index.jsp&quot;&gt;Altri processi (ordine, ordine con risposta, ordine pre-concordato e documento di trasporto)&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Cambiamenti alla documentazione&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Ordine:
+    &lt;ul&gt;
+      &lt;li&gt;Modificato paragrafo “7.4.2. Dettaglio sui Dispositivi Medici e loro identificazione - Codice UDI”;&lt;/li&gt;
+      &lt;li&gt;Modificato paragrafo “7.16.1. Luogo di consegna (DeliveryLocation)”;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Documento di Trasporto:
+    &lt;ul&gt;
+      &lt;li&gt;Aggiunto nuovo paragrafo “4.2.1 Processo di reso della merce” che descrive il flusso nel caso di documento di trasporto di reso;&lt;/li&gt;
+      &lt;li&gt;Aggiunto nuovo paragrafo “5.4 Tipologia di consegna” che descrive i diversi processi di consegna (acquisto, conto deposito, reso);&lt;/li&gt;
+      &lt;li&gt;Modificato il paragrafo “8.1.2. Dettaglio sui Dispositivi Medici e loro identificazione - Codice UDI” in virtù dell’aggiunta del nuovo campo cac:ItemInstance/cbc:ProductTraceID per indicare il codice UDI dei dispositivi medici.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Cambiamenti alla sintassi&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Ordine:
+    &lt;ul&gt;
+      &lt;li&gt;Aggiunta nuova struttura cac:Despatch contenente due campi cbc:RequestedDespatchDate e cbc:RequestedDespatchTime;&lt;/li&gt;
+      &lt;li&gt;Aggiornato lo schematron alla versione 3.6;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Documento di Trasporto:
+    &lt;ul&gt;
+      &lt;li&gt;Aggiunto nuovo campo cac:ItemInstance/cbc:ProductTraceID e relativo @schemeID per identificare il codice UDI;&lt;/li&gt;
+      &lt;li&gt;Aggiunto nuovo campo cbc:DespatchAdviceTypeCode per identificare il tipo di documento di trasporto, ossia il fatto che sia una semplice consegna, un’integrazione in conto deposito o un reso.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Cambiamenti alle code lists e artefatti di validazione&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Ordine, Risposta all’Ordine – Aggiornate le codelist Electronic Address Scheme (EAS), ISO 6523 ICD list, ISO 4217 Currency codes, Item type identification code (UNCL7143);&lt;/li&gt;
+  &lt;li&gt;Risposta all’Ordine – Modificato il livello di severità da WARNING a FATAL delle regole PEPPOL-T76-R007, PEPPOL-T76-R008 e PEPPOL-T76-R009&lt;/li&gt;
+  &lt;li&gt;Documento di Trasporto – Aggiornate le codelist Electronic Address Scheme (EAS), ISO 6523 ICD list, Item type identification code (UNCL7143), Measured attribute code for despatch advice (UNCL6313 Subset) e aggiunte nuove codelist ProductTraceIDschemeID e Despatch advice type code (UNCL1001 subset).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Cambiamenti alla documentazione, alla sintassi e alle code lists e artefatti di validazione – &lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/my_index_fatt.jsp&quot;&gt;Fatturazione&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Cambiamenti alla documentazione&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Piccole modifiche editoriali.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Cambiamenti alla sintassi&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Rimosso il riferimento alla regola BR-CO-25 nel campo cbc:PaymentDueDate nel tracciato della Nota di Credito.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Cambiamenti alle code lists e artefatti di validazione&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Modificate le regole PEPPOL-EN16931-R051, PEPPOL-COMMON-R042, DK-R-003 (Danimarca), DK-R-004 (Danimarca) e DK-R-008 (Danimarca);&lt;/li&gt;
+  &lt;li&gt;Piccole modifiche alla codelist Electronic Address Scheme (EAS), ISO 6523 ICD list, ISO 4217 Currency codes, Invoiced object identifier scheme (UNCL 1153), Payment means code (UNCL4461), Item type identification code (UNCL7143), VATEX code list, Invoice type code (UNCL1001 subset).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Aggiornamento schematron EN 16931&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Aggiornamento dello schematron EN 16931.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="it" /><category term="news" /><summary type="html">Si comunica che sono stati pubblicati gli aggiornamenti relativi alla May Release 2025 di OpenPeppol e ad ulteriori modifiche relative al contesto italiano, le cui release notes complete sono disponibili agli indirizzi: Ordinazione Semplice; Ordinazione Completa; Documento di Trasporto; Fatturazione. Tali aggiornamenti avranno efficacia in via obbligatoria dal giorno 25 agosto 2025, ciononostante si consiglia di recepire per tempo tali modifiche e di scaricare gli schematron per la validazione dei documenti aggiornati.</summary></entry><entry xml:lang="en"><title type="html">Update of the OpenPeppol eDEC Specifications regarding Peppol network security.</title><link href="https://peppol.agid.gov.it/en/news/update-peppol-eDEC-1/" rel="alternate" type="text/html" title="Update of the OpenPeppol eDEC Specifications regarding Peppol network security." /><published>2025-05-16T00:00:00+00:00</published><updated>2025-05-16T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/en/news/update-peppol-eDEC-1</id><content type="html" xml:base="https://peppol.agid.gov.it/en/news/update-peppol-eDEC-1/">&lt;p&gt;Notice is hereby given that the eDEC Change Management Board has published the new document “Peppol CNAME to NAPTR Migration Process” within the &lt;a href=&quot;https://secure-web.cisco.com/1zl-Tgh8vFgZRRJEd2WFCYLNTdekyu06o9jcO5C8Yiy3wJyaGfJEUWSOzkITAgPjBgqldJPg9OYJB0Mz_4qE9zb_XpiVFqkx8BgwxqOBeEUHbb7-oMfUsOZlXiAmZJEeci98hxE2f9SJH1urMeJth9W0XEGtvlhdhNJ_ZrLDfoeJ2rYY2u8gVNpEDCBF7_s5sJu1QOZ5Y3mmzq_Cl75qzxxQAcTI7WAdNFOM1nZTVjN3MX7UNvjoEYt42IwJRmlqG9yKP0a7FY8KMwCYQcu4YBRyI-RTRtCKPkwFOGxCshg0d8hCsgKVWMsmCTylrNyw7/https%3A%2F%2Furldefense.com%2Fv3%2F__https%3A%2Fdocs.peppol.eu%2Fedelivery%2F__%3B%21%21LQkDIss%21UOLsfacB5NgYcr0mafhfXvB9OtqOD_barggrwiYiGGTXyZsbMFVDrxFd636ESM4lVh2NOXOiDdZexCADO78ZSe7FJi-AM7YA3WKFyA3Ex3w%24&quot;&gt;OpenPeppol eDEC Specifications&lt;/a&gt; to announce the changes made to the following documents:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Peppol Policy for use of Identifiers v4.4.0;&lt;/li&gt;
@@ -152,69 +312,4 @@
 
 &lt;ul&gt;
   &lt;li&gt;Added new compliance rules on the use of sender/receiver identifiers when enveloping a BIS3 message in Peppol Business Message Envelope (SBDH).&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="en" /><category term="news" /><summary type="html">We inform you that the updates related to the November Release 2024 of OpenPeppol and other modifications related to the Italian context have been published, the entire release notes are available at the following addresses: Order only; Ordering; Order Agreement; Despatch Advice; Billing. These updates will be mandatory starting from 17th February 2025, nevertheless we advise to implement these changes in time and to download the schematron for the validation of the updated documents.</summary></entry><entry xml:lang="it"><title type="html">Peppol November Release 2024 e altre modifiche italiane</title><link href="https://peppol.agid.gov.it/it/news/peppol-november-release-2024-it/" rel="alternate" type="text/html" title="Peppol November Release 2024 e altre modifiche italiane" /><published>2024-12-20T00:00:00+00:00</published><updated>2024-12-20T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/it/news/peppol-november-release-it</id><content type="html" xml:base="https://peppol.agid.gov.it/it/news/peppol-november-release-2024-it/">&lt;p&gt;Si comunica che sono stati pubblicati gli aggiornamenti relativi alla November Release 2024 di OpenPeppol e ad ulteriori modifiche relative al contesto italiano, le cui release notes complete sono disponibili agli indirizzi:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/others/guides/release-notes-it/3-order-only/main.html&quot;&gt;Ordinazione Semplice&lt;/a&gt;;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/others/guides/release-notes-it/28-ordering/main.html&quot;&gt;Ordinazione Completa&lt;/a&gt;;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/others/guides/release-notes-it/42-orderagreement/main.html&quot;&gt;Ordinazione Pre-concordata&lt;/a&gt;;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/others/guides/release-notes-it/30-despatchadvice/main.html&quot;&gt;Documento di Trasporto&lt;/a&gt;;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/invoice/guide/release-notes-it/main.html&quot;&gt;Fatturazione&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Tali aggiornamenti avranno efficacia in via obbligatoria dal giorno 17 febbraio 2025, ciononostante si consiglia di recepire per tempo tali modifiche e di scaricare gli schematron per la validazione dei documenti aggiornati.&lt;/strong&gt;
-&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;p&gt;Le specifiche tecniche che rimarranno in vigore fino al giorno 16 febbraio 2025 sono disponibili agli indirizzi:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/my_index_fatt.jsp&quot;&gt;Fatturazione&lt;/a&gt;;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/my_index.jsp&quot;&gt;Altri processi (Ordinazione semplice, Ordinazione completa, Ordinazione pre-concordata, Documento di trasporto)&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Di seguito si riportano i cambiamenti effettuati con la November Release 2024:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Cambiamenti alla documentazione, alla sintassi e alle code lists e artefatti di validazione –&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/my_index.jsp&quot;&gt;Altri processi (ordine, ordine con risposta, ordine pre-concordato e documento di trasporto)&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Cambiamenti alla sintassi&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Ordine, Ordine Pre-Concordato, Documento di Trasporto – Aggiunto nuovo campo opzionale cbc:ID nella struttura cac:AdditionalItemProperty;&lt;/li&gt;
-  &lt;li&gt;Documento di Trasporto:
-    &lt;ul&gt;
-      &lt;li&gt;Aggiunto nuovo attributo opzionale @schemeID al campo cbc:ID nella struttura cac:TransportHandlingUnit;&lt;/li&gt;
-      &lt;li&gt;Aggiunta nuova struttura opzionale cac:DeliveryParty.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Cambiamenti alle code lists e artefatti di validazione&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Ordine, Risposta all’Ordine, Ordine Pre-Concordato, Documento di Trasporto – Aggiornate le codelist Item type identification code (UNCL7143), Dangerous goods regulations code (UNCL8273) Recommendation 20, including Recommendation 21 codes - prefixed with X (UN/ECE);&lt;/li&gt;
-  &lt;li&gt;Documento di Trasporto – Aggiunta nuova codelist Transport Handling Unit ID scheme (openPEPPOL) contentente unicamente il codice [SSCC] &lt;em&gt;Serial Shipping Container Code&lt;/em&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Aggiornamenti relativi alla “BIS compliance”&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Ordine, Risposta all’Ordine, Ordine Pre-Concordato, Documento di Trasporto – Aggiunte nuove regole di conformità sull’utilizzo degli identificatori del mittente/destinatario nell’inserimento di un messaggio BIS3 all’interno del Peppol Business Message Envelope (SBDH).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Cambiamenti alla documentazione, alla sintassi e alle code lists e artefatti di validazione – &lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/my_index_fatt.jsp&quot;&gt;Fatturazione&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Cambiamenti alle code lists e artefatti di validazione&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Revisioni formale di specifiche Regole di business CIUS italiana (CIUS ID BR-IT-261; BR-IT-370; BR-IT-DC-480) e Regole di business estensione italiana (CIUS ID BR-IT-DE-013; BR-IT-DE-024; BR-IT-DE-026) per allineamento alle Regole tecniche dell’Agenzia delle Entrate relative alla gestione delle fatture europee - versione 2.5;&lt;/li&gt;
-  &lt;li&gt;Introduzione delle nuove regole dalla DE-R-001 alla DE-R-030 (Germania);&lt;/li&gt;
-  &lt;li&gt;Aggiornamento dei controlli delle regole PEPPOL-EN16931-R002, NL-R-008 (Paesi Bassi), SE-R-003 (Svezia), SE-R-004 (Svezia) e SE-R-013 (Svezia).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Aggiornamento schematron EN 16931&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Aggiornamento dello schematron EN 16931 alla versione 1.3.13.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Aggiornamenti relativi alla “BIS compliance”&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Aggiunte nuove regole di conformità sull’utilizzo degli identificatori del mittente/destinatario nell’inserimento di un messaggio BIS3 all’interno del Peppol Business Message Envelope (SBDH).&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="it" /><category term="news" /><summary type="html">Si comunica che sono stati pubblicati gli aggiornamenti relativi alla November Release 2024 di OpenPeppol e ad ulteriori modifiche relative al contesto italiano, le cui release notes complete sono disponibili agli indirizzi: Ordinazione Semplice; Ordinazione Completa; Ordinazione Pre-concordata; Documento di Trasporto; Fatturazione. Tali aggiornamenti avranno efficacia in via obbligatoria dal giorno 17 febbraio 2025, ciononostante si consiglia di recepire per tempo tali modifiche e di scaricare gli schematron per la validazione dei documenti aggiornati.</summary></entry><entry xml:lang="en"><title type="html">Single AP of the PA - technical maintenance notice 25/10/2024 at 13:00-16:00</title><link href="https://peppol.agid.gov.it/en/news/single-ap-maintenance-6/" rel="alternate" type="text/html" title="Single AP of the PA - technical maintenance notice 25/10/2024 at 13:00-16:00" /><published>2024-10-11T00:00:00+00:00</published><updated>2024-10-11T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/en/news/single-ap-maintenance-6</id><content type="html" xml:base="https://peppol.agid.gov.it/en/news/single-ap-maintenance-6/">&lt;p&gt;We inform you that AP Unico of the PA will be subject to a technical maintenance intervention from about 13 to 16:00 on Friday 25 october 2024.&lt;/p&gt;
-
-&lt;p&gt;During this period, the &lt;strong&gt;PA Single PA may not be available&lt;/strong&gt; and therefore orders may not be delivered.&lt;/p&gt;</content><author><name></name></author><category term="en" /><category term="news" /><summary type="html">We inform you that AP Unico of the PA will be subject to a technical maintenance intervention from about 13 to 16:00 on Friday 25 october 2024. During this period, the PA Single PA may not be available and therefore orders may not be delivered.</summary></entry></feed>
+&lt;/ul&gt;</content><author><name></name></author><category term="en" /><category term="news" /><summary type="html">We inform you that the updates related to the November Release 2024 of OpenPeppol and other modifications related to the Italian context have been published, the entire release notes are available at the following addresses: Order only; Ordering; Order Agreement; Despatch Advice; Billing. These updates will be mandatory starting from 17th February 2025, nevertheless we advise to implement these changes in time and to download the schematron for the validation of the updated documents.</summary></entry></feed>

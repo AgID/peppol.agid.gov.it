@@ -41,7 +41,9 @@ _If you need guidance on how to retrieve test certificates, you can refer to the
 **PHASE 2** (after passing PHASE 1): Qualification of the specific services for the Italian context, to be performed through the execution of a complete session of all the test cases envisaged by the accreditation process of the Access Points afferent to the Italian Peppol Authority. The test session is run on the [Onboarding Platform](https://peppol.agid.gov.it/en/qualification-ap-smp/onboarding-platform/), whose interface is described in [Onboarding Platform user manual](https://peppol-docs.agid.gov.it/manuali_utente/onboarding). 
 Upon successful completion of the test session, the SP sends the document containing the test results to the Peppol Authority directly via the [Onboarding Platform](https://peppol.agid.gov.it/en/qualification-ap-smp/onboarding-platform/)
 
-10. The Peppol Authority verifies the submitted documentation and authorises the release of digital certificates for the production environment
+10. Send request to the Peppol Service Desk regarding the issuance of digital production certificates by filling out the appropriate [form](https://openpeppol.atlassian.net/servicedesk/customer/portal/1/group/1/create/13).
+      
+      _The email address indicated in the “Email confirmation to” field of the request will be censored by OpenPeppol as the SP's contact address for communications related to AP/SMP PKI Certificates (e.g., notification of certificate expiration). It is recommended that the technical contact address listed in the Peppol Service Provider Agreement be provided for receiving support and security issue notifications (Annex 3, p. 23 of the Agreement) and that a group email be used._
 
 11. Perform the download and the installation of the production certificates
 

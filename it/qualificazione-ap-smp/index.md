@@ -15,7 +15,7 @@ Procedura da seguire per sottoscrivere il Peppol Service Provider Agreement:
 
 2. Inviare via email il documento di cui al punto precedente all’indirizzo [membership@peppol.eu](mailto:membership@peppol.eu)
 
-3. Compilare e firmare digitalmente il documento [Peppol Service Provider Agreement](https://peppol.agid.gov.it/attachments/PeppolServiceProviderAgreement_v4.0.1_AGID_Final.pdf) e la Visura Camerale della società, o in alternativa la [Dichiarazione sostitutiva del certificato di iscrizione alla CCIAA](https://peppol.agid.gov.it/attachments/dichirazione_rea_compilabile_rev201812.pdf)
+3. Compilare e firmare digitalmente il documento [Peppol Service Provider Agreement](https://peppol.agid.gov.it/attachments/PeppolServiceProviderAgreement_v4.0.2_AGID_final.pdf) e la Visura Camerale della società, o in alternativa la [Dichiarazione sostitutiva del certificato di iscrizione alla CCIAA](https://peppol.agid.gov.it/attachments/dichirazione_rea_compilabile_rev201812.pdf)
 
       _Si specifica che sottoscrivendo il Peppol Service Provider Agreement ci si impegna a rispettare i requisiti specifici stabiliti dalla Peppol Authority, definiti all’interno del [Peppol Authority Specific Requirements (PASR) Italiano](https://peppol.org/wp-content/uploads/2022/08/Italy-Peppol-Authority-Specific-Requirements.pdf). Pertanto si invita il provider a consultare il documento e a verificare il rispetto di tali requisiti._
 
@@ -37,6 +37,7 @@ Procedura da seguire per sottoscrivere il Peppol Service Provider Agreement:
     - **FASE 1**: Qualificazione dei servizi base, da eseguire attraverso il completamento della suite “Accreditation” del [Peppol Testbed](https://www.testbed.peppol.org/). Al termine dei test, il SP comunica il relativo esito attraverso l’invio di una richiesta al Peppol Service Desk, compilando il relativo [form](https://openpeppol.atlassian.net/servicedesk/customer/portal/1/group/1/create/16)
     - **FASE 2**: (dopo il superamento della FASE1): Qualificazione dei servizi specifici per il contesto italiano, da eseguire attraverso l’esecuzione di una sessione completa di tutti i casi di test previsti dal processo di accreditamento degli Access Point afferenti alla Peppol Authority AGID. La sessione di test viene eseguita sulla [Piattaforma di Onboarding](https://peppol.agid.gov.it/it/qualificazione-ap-smp/piattaforma-onboarding/), la cui interfaccia viene descritte nel [manuale utente della Piattaforma di Onboarding](https://peppol-docs.agid.gov.it/manuali_utente/onboarding). Una volta completata con successo la sessione di test , il SP invia il documento contenente l’esito dei test alla Peppol Authority direttamente attraverso la <a href="https://peppol-onboarding.agid.gov.it/piattaforma-onboarding/" data-proofer-ignore>Piattaforma di Onboarding</a>.
 
+
 10. Inviare richiesta al Peppol Service Desk relativa al rilascio dei certificati digitali di produzione, compilando il relativo [form](https://openpeppol.atlassian.net/servicedesk/customer/portal/1/group/1/create/13).
       
       _L’indirizzo mail indicato nel campo “Email confirmation to” della richiesta sarà censito da OpenPeppol come indirizzo di contatto del SP per le comunicazioni relative ai Certificati PKI di AP/SMP (es. notifica di scadenza dei certificati). Si consiglia di indicare l’indirizzo di contatto tecnico indicato nel Peppol Service Provider Agreement per ricevere le segnalazioni di support e security issue (Annex 3, pag. 23 dell’Agreement) e di utilizzare una mail di gruppo._
@@ -51,7 +52,7 @@ In caso di necessità, è possibile richiedere ad OpenPeppol la modifica dell’
 
 ### Documenti allegati
 
-- [PEPPOL Service Provider Agreement](/attachments/PeppolServiceProviderAgreement_v4.0.1_AGID_Final.pdf)
+- [PEPPOL Service Provider Agreement](/attachments/PeppolServiceProviderAgreement_v4.0.2_AGID_final.pdf)
 - [Dichiarazione sostitutiva del certificato di iscrizione alla CCIAA](/attachments/dichirazione_rea_compilabile_rev201812.pdf)
 - [Guida alla firma del nuovo Service Provider Agreement](/attachments/Guide_signing_agreement_V_1_0.pdf)
 - [Peppol Authority Specific Requirements (PASR) Italiano](https://peppol.org/wp-content/uploads/2022/08/Italy-Peppol-Authority-Specific-Requirements.pdf)

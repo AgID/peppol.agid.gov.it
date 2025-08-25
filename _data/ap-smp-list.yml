@@ -113,6 +113,12 @@
   registered_office: Piazzale dell’Agricoltura, 24 - 00144 Roma
   contact_point: Cosimo Nigro
   contact_info: cosimo.nigro@eng.it
+- business_name: Eos Reply srl con socio unico
+  ap: true
+  smp: false
+  registered_office: Corso Francia, 110 - 10138 Torino
+  contact_point: Andrea Bertolini
+  contact_info: a.bertolini@reply.it
 - business_name: Faber System S.r.l.
   ap: true
   smp: true

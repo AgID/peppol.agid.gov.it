@@ -1,4 +1,38 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://peppol.agid.gov.it/feed.xml" rel="self" type="application/atom+xml" /><link href="https://peppol.agid.gov.it/" rel="alternate" type="text/html" /><updated>2025-07-04T09:33:37+00:00</updated><id>https://peppol.agid.gov.it/feed.xml</id><title type="html">PEPPOL</title><entry xml:lang="en"><title type="html">Peppol May Release 2025</title><link href="https://peppol.agid.gov.it/en/news/peppol-may-release-2025-en/" rel="alternate" type="text/html" title="Peppol May Release 2025" /><published>2025-06-09T00:00:00+00:00</published><updated>2025-06-09T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/en/news/peppol-may-release-2025-en</id><content type="html" xml:base="https://peppol.agid.gov.it/en/news/peppol-may-release-2025-en/">&lt;p&gt;We inform you that the updates related to the May Release 2025 of OpenPeppol and other modifications related to the Italian context have been published, the entire release notes are available at the following addresses:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://peppol.agid.gov.it/feed.xml" rel="self" type="application/atom+xml" /><link href="https://peppol.agid.gov.it/" rel="alternate" type="text/html" /><updated>2025-08-25T08:35:13+00:00</updated><id>https://peppol.agid.gov.it/feed.xml</id><title type="html">PEPPOL</title><entry xml:lang="en"><title type="html">Effective Date Peppol May Release 2025</title><link href="https://peppol.agid.gov.it/en/news/effective-date-peppol-may-release-2025-en/" rel="alternate" type="text/html" title="Effective Date Peppol May Release 2025" /><published>2025-08-25T00:00:00+00:00</published><updated>2025-08-25T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/en/news/effective-peppol-may-release-2025-en</id><content type="html" xml:base="https://peppol.agid.gov.it/en/news/effective-date-peppol-may-release-2025-en/">&lt;p&gt;Please note that on August 25, 2025, the updates relating to the May Release 2025 of OpenPeppol and other changes relating to the Italian context, as highlighted in the communication published on June 9, 2025, became effective.&lt;/p&gt;
+
+&lt;p&gt;The technical specifications currently in force are available at the following addresses:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/my_index_fatt.jsp&quot;&gt;Billing&lt;/a&gt;;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/my_index.jsp&quot;&gt;Other processes (Order Only, Ordering, Order Agreement, Despatch Advice)&lt;/a&gt;.
+&lt;!--more--&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The new features introduced with the May Release 2025 are described in the Release Notes for each individual process, available at the following addresses:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/docs/ITA/others/guides/release-notes-it/3-order-only/main.html&quot;&gt;Simple Ordering&lt;/a&gt;;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/docs/ITA/others/guides/release-notes-it/28-ordering/main.html&quot;&gt;Complete Ordering&lt;/a&gt;;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/docs/ITA/others/guides/release-notes-it/30-despatchadvice/main.html&quot;&gt;Despatch Advice&lt;/a&gt;;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/docs/ITA/invoice/guide/release-notes-it/main.html&quot;&gt;Billing&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="en" /><category term="news" /><summary type="html">Please note that on August 25, 2025, the updates relating to the May Release 2025 of OpenPeppol and other changes relating to the Italian context, as highlighted in the communication published on June 9, 2025, became effective. The technical specifications currently in force are available at the following addresses: Billing; Other processes (Order Only, Ordering, Order Agreement, Despatch Advice).</summary></entry><entry xml:lang="it"><title type="html">Entrata in vigore della Peppol May Release 2025</title><link href="https://peppol.agid.gov.it/it/news/entrata-vigore-peppol-may-release-2025-it/" rel="alternate" type="text/html" title="Entrata in vigore della Peppol May Release 2025" /><published>2025-08-25T00:00:00+00:00</published><updated>2025-08-25T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/it/news/efficacia-peppol-may-release-2025-it</id><content type="html" xml:base="https://peppol.agid.gov.it/it/news/entrata-vigore-peppol-may-release-2025-it/">&lt;p&gt;Si comunica che in data 25 agosto 2025 sono diventati efficaci gli aggiornamenti relativi alla May Release 2025 di OpenPeppol e alle altre modifiche relative al contesto italiano, di cui si è data evidenza attraverso la comunicazione pubblicata in data 9 giugno 2025.&lt;/p&gt;
+
+&lt;p&gt;Le specifiche tecniche attualmente in vigore sono disponibili agli indirizzi:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/my_index_fatt.jsp&quot;&gt;Fatturazione&lt;/a&gt;;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/my_index.jsp&quot;&gt;Altri processi (Ordinazione semplice, Ordinazione completa, Ordinazione pre-concordata, Documento di trasporto)&lt;/a&gt;.
+&lt;!--more--&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Le novità introdotte con la May Release 2025 sono descritte nelle Note di Rilascio relative al singolo processo, disponibili agli indirizzi:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/docs/ITA/others/guides/release-notes-it/3-order-only/main.html&quot;&gt;Ordinazione Semplice&lt;/a&gt;;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/docs/ITA/others/guides/release-notes-it/28-ordering/main.html&quot;&gt;Ordinazione Completa&lt;/a&gt;;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/docs/ITA/others/guides/release-notes-it/30-despatchadvice/main.html&quot;&gt;Documento di Trasporto&lt;/a&gt;;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/docs/ITA/invoice/guide/release-notes-it/main.html&quot;&gt;Fatturazione&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="it" /><category term="news" /><summary type="html">Si comunica che in data 25 agosto 2025 sono diventati efficaci gli aggiornamenti relativi alla May Release 2025 di OpenPeppol e alle altre modifiche relative al contesto italiano, di cui si è data evidenza attraverso la comunicazione pubblicata in data 9 giugno 2025. Le specifiche tecniche attualmente in vigore sono disponibili agli indirizzi: Fatturazione; Altri processi (Ordinazione semplice, Ordinazione completa, Ordinazione pre-concordata, Documento di trasporto).</summary></entry><entry xml:lang="en"><title type="html">Peppol May Release 2025</title><link href="https://peppol.agid.gov.it/en/news/peppol-may-release-2025-en/" rel="alternate" type="text/html" title="Peppol May Release 2025" /><published>2025-06-09T00:00:00+00:00</published><updated>2025-06-09T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/en/news/peppol-may-release-2025-en</id><content type="html" xml:base="https://peppol.agid.gov.it/en/news/peppol-may-release-2025-en/">&lt;p&gt;We inform you that the updates related to the May Release 2025 of OpenPeppol and other modifications related to the Italian context have been published, the entire release notes are available at the following addresses:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ENG/others/guides/release-notes-it/3-order-only/main.html&quot;&gt;Order only&lt;/a&gt;;&lt;/li&gt;
@@ -225,91 +259,4 @@ o	Changed the paragraph “8.1.2. Details on Medical Devices and their identific
 &lt;ul&gt;
   &lt;li&gt;Introduzione di un nuovo Regime Fiscale RF20 - Regime transfrontaliero di Franchigia IVA (Direttiva UE 2020/285);&lt;/li&gt;
   &lt;li&gt;Introduzione di un nuovo Tipo Documento TD29 - Comunicazione per omessa o irregolare fatturazione (art. 6, comma 8, D.Lgs. 471/97).&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="it" /><category term="news" /><summary type="html">Si comunica che sono stati pubblicati gli aggiornamenti delle Specifiche italiane di Fatturazione Peppol BIS3 per adeguamento alla nuova versione delle Specifiche tecniche FPA_v1.4, Specifiche tecniche FPR_v1.9 e I controlli SDI_v2.0, pubblicati il 31/01/2025, la cui release note completa è disponibile al seguente indirizzo: Fatturazione;</summary></entry><entry xml:lang="it"><title type="html">Entrata in vigore della Peppol November Release 2024 e altre modifiche italiane</title><link href="https://peppol.agid.gov.it/it/news/entrata-vigore-peppol-november-release-2024/" rel="alternate" type="text/html" title="Entrata in vigore della Peppol November Release 2024 e altre modifiche italiane" /><published>2025-02-17T00:00:00+00:00</published><updated>2025-02-17T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/it/news/entrata-vigore-peppol-november-release-2024</id><content type="html" xml:base="https://peppol.agid.gov.it/it/news/entrata-vigore-peppol-november-release-2024/">&lt;p&gt;&lt;strong&gt;Si comunica che in data 17 febbraio 2025 sono diventati efficaci gli aggiornamenti relativi alla November Release 2024 di OpenPeppol e alle altre modifiche relative al contesto italiano&lt;/strong&gt;, di cui si è data evidenza attraverso la comunicazione pubblicata in data 20 dicembre 2024.&lt;/p&gt;
-
-&lt;p&gt;Le specifiche tecniche attualmente in vigore sono disponibili agli indirizzi::&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/my_index_fatt.jsp&quot;&gt;Fatturazione&lt;/a&gt;;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/my_index.jsp&quot;&gt;Altri processi&lt;/a&gt; (Ordinazione semplice, Ordinazione completa, Ordinazione pre-concordata, Documento di trasporto).
-&lt;!--more--&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Le novità introdotte con la November Release 2024 sono descritte nelle Note di Rilascio relative al singolo processo, disponibili agli indirizzi:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/docs/ITA/others/guides/release-notes-it/3-order-only/main.html&quot;&gt;Ordinazione Semplice&lt;/a&gt;;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/docs/ITA/others/guides/release-notes-it/28-ordering/main.html&quot;&gt;Ordinazione Completa&lt;/a&gt;;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/docs/ITA/others/guides/release-notes-it/42-orderagreement/main.html&quot;&gt;Ordinazione Pre-concordata&lt;/a&gt;;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/docs/ITA/others/guides/release-notes-it/30-despatchadvice/main.html&quot;&gt;Documento di Trasporto&lt;/a&gt;;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/docs/ITA/invoice/guide/release-notes-it/main.html&quot;&gt;Fatturazione&lt;/a&gt;.
- &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="it" /><category term="news" /><summary type="html">Si comunica che in data 17 febbraio 2025 sono diventati efficaci gli aggiornamenti relativi alla November Release 2024 di OpenPeppol e alle altre modifiche relative al contesto italiano, di cui si è data evidenza attraverso la comunicazione pubblicata in data 20 dicembre 2024. Le specifiche tecniche attualmente in vigore sono disponibili agli indirizzi:: Fatturazione; Altri processi (Ordinazione semplice, Ordinazione completa, Ordinazione pre-concordata, Documento di trasporto).</summary></entry><entry xml:lang="en"><title type="html">Peppol November Release 2024 e other Italian modifications</title><link href="https://peppol.agid.gov.it/en/news/peppol-november-release-2024-en/" rel="alternate" type="text/html" title="Peppol November Release 2024 e other Italian modifications" /><published>2024-12-20T00:00:00+00:00</published><updated>2024-12-20T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/en/news/peppol-november-release-en</id><content type="html" xml:base="https://peppol.agid.gov.it/en/news/peppol-november-release-2024-en/">&lt;p&gt;We inform you that the updates related to the November Release 2024 of OpenPeppol and other modifications related to the Italian context have been published, the entire release notes are available at the following addresses:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/others/guides/release-notes-it/3-order-only/main.html&quot;&gt;Order only&lt;/a&gt;;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/others/guides/release-notes-it/28-ordering/main.html&quot;&gt;Ordering&lt;/a&gt;;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/others/guides/release-notes-it/42-orderagreement/main.html&quot;&gt;Order Agreement&lt;/a&gt;;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/others/guides/release-notes-it/30-despatchadvice/main.html&quot;&gt;Despatch Advice&lt;/a&gt;;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/invoice/guide/release-notes-it/main.html&quot;&gt;Billing&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;These updates will be mandatory starting from 17th February 2025, nevertheless we advise to implement these changes in time and to download the schematron for the validation of the updated documents.&lt;/strong&gt;
-&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;p&gt;The current documentation, accessible until 16th February 2025, is available at the following addresses:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/my_index_fatt.jsp&quot;&gt;Billing&lt;/a&gt;;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/my_index.jsp&quot;&gt;Other Processes (Order only, Ordering, Order Agreement, Despatch Advice)&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The changes of the November Release 2024 are described below:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Changes to the specification (documentation), syntax and code lists and validation artifacts – &lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/my_index.jsp&quot;&gt;Other Processes (order only, ordering, order agreement and despatch advice)&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Syntax changes&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Order, Order Agreement, Despatch Advice – Added new optional element cbc:ID in the cac:AdditionalItemProperty structure;&lt;/li&gt;
-  &lt;li&gt;Despatch Advice:
-    &lt;ul&gt;
-      &lt;li&gt;Added new optional attribute @schemeID to the element cbc:ID in the cac:TransportHandlingUnit structure;&lt;/li&gt;
-      &lt;li&gt;Added new optional structure cac:DeliveryParty.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Changes to code lists and validation artifacts&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Order, Order Response, Order Agreement, Despatch Advice – Modification of the Item type identification code (UNCL7143), Dangerous goods regulations code (UNCL8273) Recommendation 20, including Recommendation 21 codes - prefixed with X (UN/ECE) codelists;&lt;/li&gt;
-  &lt;li&gt;Despatch Advice – Added new codelist Transport Handling Unit ID scheme (openPEPPOL) containg only the code [SSCC] &lt;em&gt;Serial Shipping Container Code&lt;/em&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Updates related to “BIS compliance”&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Order, Order Response, Order Agreement, Despatch Advice – Added new compliance rules on the use of sender/receiver identifiers when enveloping a BIS3 message in Peppol Business Message Envelope (SBDH).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Changes to the specification (documentation), syntax and code lists and validation artifacts – &lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/my_index_fatt.jsp&quot;&gt;Billing&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Changes to code lists and validation artifacts&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Formal revisions of specific Rules for italian CIUS (CIUS ID BR-IT-261; BR-IT-370; BR-IT-DC-480) and Rules for italian extensions (CIUS ID BR-IT-DE-013; BR-IT-DE-024; BR-IT-DE-026) to align with the technical rules of Agenzia delle Entrate related to the management of European invoices - version 2.5;&lt;/li&gt;
-  &lt;li&gt;Added new set of rules from DE-R-001 to DE-R-030 (Germany);&lt;/li&gt;
-  &lt;li&gt;•	Modification of the rules PEPPOL-EN16931-R002, NL-R-008 (Netherlands), SE-R-003 (Sweden), SE-R-004 (Sweden) and SE-R-013 (Sweden).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;EN 16931 schematrons updated&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Update of schematron EN 16931 to version 1.3.13.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Updates related to “BIS compliance”&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Added new compliance rules on the use of sender/receiver identifiers when enveloping a BIS3 message in Peppol Business Message Envelope (SBDH).&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="en" /><category term="news" /><summary type="html">We inform you that the updates related to the November Release 2024 of OpenPeppol and other modifications related to the Italian context have been published, the entire release notes are available at the following addresses: Order only; Ordering; Order Agreement; Despatch Advice; Billing. These updates will be mandatory starting from 17th February 2025, nevertheless we advise to implement these changes in time and to download the schematron for the validation of the updated documents.</summary></entry></feed>
+&lt;/ul&gt;</content><author><name></name></author><category term="it" /><category term="news" /><summary type="html">Si comunica che sono stati pubblicati gli aggiornamenti delle Specifiche italiane di Fatturazione Peppol BIS3 per adeguamento alla nuova versione delle Specifiche tecniche FPA_v1.4, Specifiche tecniche FPR_v1.9 e I controlli SDI_v2.0, pubblicati il 31/01/2025, la cui release note completa è disponibile al seguente indirizzo: Fatturazione;</summary></entry></feed>

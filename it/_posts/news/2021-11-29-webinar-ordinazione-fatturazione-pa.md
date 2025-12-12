@@ -9,7 +9,7 @@ categories: news
 permalink: /it/news/webinar-ordinazione-fatturazione-pa/
 ---
 
-Nell’ambito degli incontri previsti dal progetto "Centro di competenze" di Intercent-ER, al [primo appuntamento](https://intercenter.regione.emilia-romagna.it/help/centro-di-competenze/appuntamenti/ordinazione-e-fatturazione-elettronica-nella-p-a-impatti-e-scenari-duso-degli-standard-europei) 
+Nell’ambito degli incontri previsti dal progetto "Centro di competenze" di Intercent-ER, al [primo appuntamento](https://intercenter.regione.emilia-romagna.it/help/eventi-e-formazione/centro-di-competenze/video-e-slide/ordinazione-e-fatturazione-elettronica-nella-p-a-impatti-e-scenari-d2019uso-degli-standard-europei) 
 dedicato al tema: "Ordinazione e fatturazione elettronica nella P.A.: impatti e scenari d'uso degli standard
 europei", interverrà l’Agenzia per l’Italia Digitale per fornire il quadro di riferimento nazionale nel settore
 degli acquisti pubblici e comprendere il ruolo di PEPPOL nella trasformazione digitale del procurement pubblico.<!--more-->

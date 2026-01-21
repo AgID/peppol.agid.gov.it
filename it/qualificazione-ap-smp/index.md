@@ -15,7 +15,7 @@ Procedura da seguire per sottoscrivere il Peppol Service Provider Agreement:
 
 2. Inviare via email il documento di cui al punto precedente all’indirizzo [membership@peppol.eu](mailto:membership@peppol.eu)
 
-3. Compilare e firmare digitalmente il documento [Peppol Service Provider Agreement](https://peppol.agid.gov.it/attachments/PeppolServiceProviderAgreement_v4.0.2_AGID_final.pdf) e la Visura Camerale della società, o in alternativa la [Dichiarazione sostitutiva del certificato di iscrizione alla CCIAA](https://peppol.agid.gov.it/attachments/dichirazione_rea_compilabile_rev201812.pdf)
+3. Compilare e firmare digitalmente il documento [Peppol Service Provider Agreement](https://peppol.agid.gov.it/attachments/PeppolServiceProviderAgreement_v4.0.2_AGID_update_final.pdf) e la Visura Camerale della società, o in alternativa la [Dichiarazione sostitutiva del certificato di iscrizione alla CCIAA](https://peppol.agid.gov.it/attachments/dichirazione_rea_compilabile_rev201812.pdf)
 
       _Si specifica che sottoscrivendo il Peppol Service Provider Agreement ci si impegna a rispettare i requisiti specifici stabiliti dalla Peppol Authority, definiti all’interno del [Peppol Authority Specific Requirements (PASR) Italiano](https://peppol.org/wp-content/uploads/2022/08/Italy-Peppol-Authority-Specific-Requirements.pdf). Pertanto si invita il provider a consultare il documento e a verificare il rispetto di tali requisiti._
 
@@ -52,7 +52,7 @@ In caso di necessità, è possibile richiedere ad OpenPeppol la modifica dell’
 
 ### Documenti allegati
 
-- [PEPPOL Service Provider Agreement](/attachments/PeppolServiceProviderAgreement_v4.0.2_AGID_final.pdf)
+- [PEPPOL Service Provider Agreement](/attachments/PeppolServiceProviderAgreement_v4.0.2_AGID_update_final.pdf)
 - [Dichiarazione sostitutiva del certificato di iscrizione alla CCIAA](/attachments/dichirazione_rea_compilabile_rev201812.pdf)
 - [Guida alla firma del nuovo Service Provider Agreement](/attachments/Guide_signing_agreement_V_1_0.pdf)
 - [Peppol Authority Specific Requirements (PASR) Italiano](https://peppol.org/wp-content/uploads/2022/08/Italy-Peppol-Authority-Specific-Requirements.pdf)

@@ -49,10 +49,10 @@
   contact_info: francesco.maccarrone@bluenext.it
 - business_name: Consip S.p.A.
   ap: true
-  smp: true
+  smp: false
   registered_office: Via Isonzo 19/E - 00198 Rome
-  contact_point: Caterina Marcantonio
-  contact_info: segreteria.eproc@consip.it
+  contact_point: Patrizia Bramini
+  contact_info: segreteria.dpair@consip.it
 - business_name: Credemtel S.p.a 
   ap: true
   smp: true

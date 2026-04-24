@@ -9,7 +9,7 @@ categories: news
 permalink: /en/news/scheduled-maintenance-2026/
 ---
 
-Notice is hereby given that the PA Unified SMP, Specifics Portal, Online Validator, and On-boarding Platform will undergo technical maintenance from approximately 14:00 pm to 3:30 pm on these days:
+Notice is hereby given that the PA Unified SMP, Specifics Portal, Online Validator, and On-boarding Platform will undergo technical maintenance from approximately 2:00 pm to 3:30 pm on these days:
 
 <!--more-->
  - 24th April 2026

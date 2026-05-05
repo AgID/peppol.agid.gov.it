@@ -1,4 +1,90 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://peppol.agid.gov.it/feed.xml" rel="self" type="application/atom+xml" /><link href="https://peppol.agid.gov.it/" rel="alternate" type="text/html" /><updated>2026-04-24T09:38:13+00:00</updated><id>https://peppol.agid.gov.it/feed.xml</id><title type="html">PEPPOL</title><entry xml:lang="en"><title type="html">Scheduled maintenance for the second half of the year 2026</title><link href="https://peppol.agid.gov.it/en/news/scheduled-maintenance-2026/" rel="alternate" type="text/html" title="Scheduled maintenance for the second half of the year 2026" /><published>2026-04-22T00:00:00+00:00</published><updated>2026-04-22T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/en/news/scheduled-maintenance-2026</id><content type="html" xml:base="https://peppol.agid.gov.it/en/news/scheduled-maintenance-2026/">&lt;p&gt;Notice is hereby given that the PA Unified SMP, Specifics Portal, Online Validator, and On-boarding Platform will undergo technical maintenance from approximately 2:00 pm to 3:30 pm on these days:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://peppol.agid.gov.it/feed.xml" rel="self" type="application/atom+xml" /><link href="https://peppol.agid.gov.it/" rel="alternate" type="text/html" /><updated>2026-05-05T15:45:29+00:00</updated><id>https://peppol.agid.gov.it/feed.xml</id><title type="html">PEPPOL</title><entry xml:lang="it"><title type="html">Attività per la migrazione del Service Metadata Locator (SML) di OpenPeppol</title><link href="https://peppol.agid.gov.it/it/news/migrazione-SML/" rel="alternate" type="text/html" title="Attività per la migrazione del Service Metadata Locator (SML) di OpenPeppol" /><published>2026-05-05T00:00:00+00:00</published><updated>2026-05-05T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/it/news/migrazione-SML</id><content type="html" xml:base="https://peppol.agid.gov.it/it/news/migrazione-SML/">&lt;p&gt;Si comunica che è in corso l’attività di migrazione del Service Metadata Locator (SML), attualmente gestito dalla Commissione Europea (DG DIGIT), ad OpenPeppol. L’obiettivo dell’Associazione è di acquisire il pieno controllo operativo e contrattuale di questa infrastruttura critica, mantenendo continuità e stabilità della rete Peppol.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;L’SML è un componente fondamentale dell’architettura di Dynamic Discovery di Peppol che consente la ricerca DNS tra un Partecipant Identifier e il relativo Service Metadata Publisher (SMP), permettendo agli Access Point di localizzare i metadati e gli endpoint tecnici necessari per lo scambio dei documenti.&lt;/p&gt;
+
+&lt;p&gt;Pertanto, si chiede ai Service Provider di aggiornare i puntamenti sia in ambiente di produzione che in ambiente di test, come segue:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Per gli AP provider&lt;/strong&gt;: aggiornare gli endpoint DNS per le ricerche di lookup verso il nuovo SML Peppol.
+&lt;strong&gt;Per i SMP provider&lt;/strong&gt;: aggiornare gli endpoint API di registrazione verso il nuovo SML Peppol&lt;/p&gt;
+
+&lt;p&gt;Il piano di migrazione previsto da OpenPeppol prevede che le attività siano completate entro le seguenti date:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;31 maggio 2026 – SMP Provider&lt;/strong&gt;: scadenza per l’aggiornamento degli endpoint API di registrazione SML&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;&lt;strong&gt;Endpoint utilizzabili fino a 31 maggio&lt;/strong&gt;&lt;/th&gt;
+      &lt;th&gt;&lt;strong&gt;Endpoint utilizzabili dal 1° giugno&lt;/strong&gt;&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Test Management Interface&lt;/strong&gt; EC Environment (SMK)&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;Test Management Interface&lt;/strong&gt; Peppol Environment (T-SML)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Domain: https://acc.edelivery.tech.ec.europa.eu&lt;/td&gt;
+      &lt;td&gt;Domain: https://api.sml.test.tech.peppol.org&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Service name: edelivery-sml/&lt;/td&gt;
+      &lt;td&gt;Service name: edelivery-sml/&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;URL:https://acc.edelivery.tech.ec.europa.eu/edelivery-sml/&lt;/td&gt;
+      &lt;td&gt;URL: https://api.sml.test.tech.peppol.org/edelivery-sml/&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;URL:https://acc.edelivery.tech.ec.europa.eu/edelivery-sml/&lt;/td&gt;
+      &lt;td&gt;URL: https://api.sml.test.tech.peppol.org/edelivery-sml/&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Production Lookup&lt;/strong&gt; EC Environment (SML)&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;Production Lookup&lt;/strong&gt; Peppol Environment (SML)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Domain: https://edelivery.tech.ec.europa.eu&lt;/td&gt;
+      &lt;td&gt;Domain: https://api.sml.prod.tech.peppol.org&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;31 agosto 2026 – AP Provider&lt;/strong&gt;: scadenza per l’aggiornamento degli endpoint DNS per le ricerche di lookup&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;&lt;strong&gt;Endpoint utilizzabili fino a 31 agosto&lt;/strong&gt;&lt;/th&gt;
+      &lt;th&gt;&lt;strong&gt;Endpoint utilizzabili dal 1° settembre&lt;/strong&gt;&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Test Lookup&lt;/strong&gt; EC Environment (SMK)&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;Test Lookup&lt;/strong&gt; Peppol Environment (T-SML)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Domain: https://acc.edelivery.tech.ec.europa.eu&lt;/td&gt;
+      &lt;td&gt;Domain: https://participant.sml.test.tech.peppol.org&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Production Lookup&lt;/strong&gt; EC Environment (SML)&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;Production Lookup&lt;/strong&gt; Peppol Environment (SML)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Domain: https://edelivery.tech.ec.europa.eu&lt;/td&gt;
+      &lt;td&gt;Domain: https://participant.sml.prod.tech.peppol.org&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Per ulteriori informazioni si rimanda alla pagina dedicata &lt;a href=&quot;https://openpeppol.atlassian.net/wiki/spaces/PTPUB/pages/5059608580/SML+Insourcing&quot;&gt;SML Insourcing&lt;/a&gt; di OpenPeppol e al piano di migrazione allegato.&lt;/p&gt;</content><author><name></name></author><category term="it" /><category term="news" /><summary type="html">Si comunica che è in corso l’attività di migrazione del Service Metadata Locator (SML), attualmente gestito dalla Commissione Europea (DG DIGIT), ad OpenPeppol. L’obiettivo dell’Associazione è di acquisire il pieno controllo operativo e contrattuale di questa infrastruttura critica, mantenendo continuità e stabilità della rete Peppol.</summary></entry><entry xml:lang="en"><title type="html">Scheduled maintenance for the second half of the year 2026</title><link href="https://peppol.agid.gov.it/en/news/scheduled-maintenance-2026/" rel="alternate" type="text/html" title="Scheduled maintenance for the second half of the year 2026" /><published>2026-04-22T00:00:00+00:00</published><updated>2026-04-22T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/en/news/scheduled-maintenance-2026</id><content type="html" xml:base="https://peppol.agid.gov.it/en/news/scheduled-maintenance-2026/">&lt;p&gt;Notice is hereby given that the PA Unified SMP, Specifics Portal, Online Validator, and On-boarding Platform will undergo technical maintenance from approximately 2:00 pm to 3:30 pm on these days:&lt;/p&gt;
 
 &lt;!--more--&gt;
 &lt;ul&gt;
@@ -222,6 +308,4 @@
 
 &lt;p&gt;L’identificativo è composto da quattro caratteri alfanumerici, la stringa “AP” seguita da due caratteri numerici, e viene attribuito al Service Provider dalla Peppol Authority Italiana all’atto della Certificazione da parte di AgID.&lt;/p&gt;</content><author><name></name></author><category term="it" /><category term="news" /><summary type="html">Si comunica che in data 26 settembre 2025 è stato rilasciato un aggiornamento sull’SMP Unico della PA relativo alla funzionalità di registrazione di Participant ID Peppol con schemeID 0201 (IndicePA).</summary></entry><entry xml:lang="en"><title type="html">PA Single SMP, Specifications Portal, Online Validator and Onboarding Platform - technical maintenance notice 31/10/2025 from 1:00 p.m. to 3:30 p.m.</title><link href="https://peppol.agid.gov.it/en/news/maintenance-smp-single-2/" rel="alternate" type="text/html" title="PA Single SMP, Specifications Portal, Online Validator and Onboarding Platform - technical maintenance notice 31/10/2025 from 1:00 p.m. to 3:30 p.m." /><published>2025-10-02T00:00:00+00:00</published><updated>2025-10-02T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/en/news/maintenance-smp-unico-2</id><content type="html" xml:base="https://peppol.agid.gov.it/en/news/maintenance-smp-single-2/">&lt;p&gt;Notice is hereby given that the PA Unified SMP, Specifics Portal, Online Validator, and Onboarding Platform will undergo technical maintenance from approximately 1:00 pm to 3:30 pm on 31/10/2025.&lt;/p&gt;
 
-&lt;p&gt;During this period, the systems may be unavailable and therefore there may be some disruption in the receipt of orders from Participants registered on PA Unified SMP.&lt;/p&gt;</content><author><name></name></author><category term="en" /><category term="news" /><summary type="html">Notice is hereby given that the PA Unified SMP, Specifics Portal, Online Validator, and Onboarding Platform will undergo technical maintenance from approximately 1:00 pm to 3:30 pm on 31/10/2025. During this period, the systems may be unavailable and therefore there may be some disruption in the receipt of orders from Participants registered on PA Unified SMP.</summary></entry><entry xml:lang="en"><title type="html">PA Single SMP, Specifications Portal, Online Validator and Onboarding Platform - technical maintenance notice 31/01/2026 from 2:00 p.m. to 3:30 p.m.</title><link href="https://peppol.agid.gov.it/en/news/maintenance-smp-single-3/" rel="alternate" type="text/html" title="PA Single SMP, Specifications Portal, Online Validator and Onboarding Platform - technical maintenance notice 31/01/2026 from 2:00 p.m. to 3:30 p.m." /><published>2025-10-02T00:00:00+00:00</published><updated>2025-10-02T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/en/news/maintenance-smp-unico-3</id><content type="html" xml:base="https://peppol.agid.gov.it/en/news/maintenance-smp-single-3/">&lt;p&gt;Notice is hereby given that the PA Unified SMP, Specifics Portal, Online Validator, and Onboarding Platform will undergo technical maintenance from 2:00 pm to 3:30 pm on 31/01/2026.&lt;/p&gt;
-
-&lt;p&gt;During this period, it will not be possible to send or receive documents and, in general, the entire PA Unified SMP system will be unavailable.&lt;/p&gt;</content><author><name></name></author><category term="en" /><category term="news" /><summary type="html">Notice is hereby given that the PA Unified SMP, Specifics Portal, Online Validator, and Onboarding Platform will undergo technical maintenance from 2:00 pm to 3:30 pm on 31/01/2026. During this period, it will not be possible to send or receive documents and, in general, the entire PA Unified SMP system will be unavailable.</summary></entry></feed>
+&lt;p&gt;During this period, the systems may be unavailable and therefore there may be some disruption in the receipt of orders from Participants registered on PA Unified SMP.&lt;/p&gt;</content><author><name></name></author><category term="en" /><category term="news" /><summary type="html">Notice is hereby given that the PA Unified SMP, Specifics Portal, Online Validator, and Onboarding Platform will undergo technical maintenance from approximately 1:00 pm to 3:30 pm on 31/10/2025. During this period, the systems may be unavailable and therefore there may be some disruption in the receipt of orders from Participants registered on PA Unified SMP.</summary></entry></feed>

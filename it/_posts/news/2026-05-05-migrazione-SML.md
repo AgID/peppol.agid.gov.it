@@ -45,6 +45,8 @@ Il piano di migrazione previsto da OpenPeppol prevede che le attività siano com
 |Domain: https://acc.edelivery.tech.ec.europa.eu             |Domain: https://participant.sml.test.tech.peppol.org      |
 |**Production Lookup** EC Environment (SML)                  |**Production Lookup** Peppol Environment (SML)            |
 |Domain: https://edelivery.tech.ec.europa.eu                 |Domain: https://participant.sml.prod.tech.peppol.org      |
+
+
 ---
 
 

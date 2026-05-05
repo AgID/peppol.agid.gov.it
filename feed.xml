@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://peppol.agid.gov.it/feed.xml" rel="self" type="application/atom+xml" /><link href="https://peppol.agid.gov.it/" rel="alternate" type="text/html" /><updated>2026-05-05T16:44:09+00:00</updated><id>https://peppol.agid.gov.it/feed.xml</id><title type="html">PEPPOL</title><entry xml:lang="en"><title type="html">Activities for the migration of the Service Metadata Locator (SML)</title><link href="https://peppol.agid.gov.it/en/news/SML-migration/" rel="alternate" type="text/html" title="Activities for the migration of the Service Metadata Locator (SML)" /><published>2026-05-05T00:00:00+00:00</published><updated>2026-05-05T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/en/news/SML-Migration</id><content type="html" xml:base="https://peppol.agid.gov.it/en/news/SML-migration/">&lt;p&gt;It is hereby communicated that the migration of the Service Metadata Locator (SML), currently managed by the European Commission (DG DIGIT), to OpenPeppol is underway. The objective of the Association is to acquire full operational and contractual control over this critical infrastructure, while maintaining continuity and stability of the Peppol Network.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://peppol.agid.gov.it/feed.xml" rel="self" type="application/atom+xml" /><link href="https://peppol.agid.gov.it/" rel="alternate" type="text/html" /><updated>2026-05-05T16:51:41+00:00</updated><id>https://peppol.agid.gov.it/feed.xml</id><title type="html">PEPPOL</title><entry xml:lang="en"><title type="html">Activities for the migration of the Service Metadata Locator (SML)</title><link href="https://peppol.agid.gov.it/en/news/SML-migration/" rel="alternate" type="text/html" title="Activities for the migration of the Service Metadata Locator (SML)" /><published>2026-05-05T00:00:00+00:00</published><updated>2026-05-05T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/en/news/SML-Migration</id><content type="html" xml:base="https://peppol.agid.gov.it/en/news/SML-migration/">&lt;p&gt;It is hereby communicated that the migration of the Service Metadata Locator (SML), currently managed by the European Commission (DG DIGIT), to OpenPeppol is underway. The objective of the Association is to acquire full operational and contractual control over this critical infrastructure, while maintaining continuity and stability of the Peppol Network.
 &lt;!--more--&gt;&lt;/p&gt;
 
 &lt;p&gt;The SML is a key component of the Peppol Dynamic Discovery architecture. It enables DNS lookup between a Participant Identifier and the corresponding Service Metadata Publisher (SMP), allowing Access Points to locate the metadata and technical endpoints required for document exchange.&lt;/p&gt;
@@ -161,13 +161,34 @@
   &lt;li&gt;&lt;strong&gt;31 agosto 2026 – AP Provider&lt;/strong&gt;: scadenza per l’aggiornamento degli endpoint DNS per le ricerche di lookup&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;|         &lt;strong&gt;Endpoint utilizzabili fino a 31 agosto&lt;/strong&gt;         |         &lt;strong&gt;Endpoint utilizzabili dal 1° settembre&lt;/strong&gt;       |
-|:———————————————————-:|:——————————————————–:|
-|&lt;strong&gt;Test Lookup&lt;/strong&gt; EC Environment (SMK)                        |&lt;strong&gt;Test Lookup&lt;/strong&gt; Peppol Environment (T-SML)                |
-|Domain: https://acc.edelivery.tech.ec.europa.eu             |Domain: https://participant.sml.test.tech.peppol.org      |
-|&lt;strong&gt;Production Lookup&lt;/strong&gt; EC Environment (SML)                  |&lt;strong&gt;Production Lookup&lt;/strong&gt; Peppol Environment (SML)            |
-|Domain: https://edelivery.tech.ec.europa.eu                 |Domain: https://participant.sml.prod.tech.peppol.org      |
-—&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;strong&gt;Endpoint utilizzabili fino a 31 agosto&lt;/strong&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;strong&gt;Endpoint utilizzabili dal 1° settembre&lt;/strong&gt;&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;strong&gt;Test Lookup&lt;/strong&gt; EC Environment (SMK)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;strong&gt;Test Lookup&lt;/strong&gt; Peppol Environment (T-SML)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Domain: https://acc.edelivery.tech.ec.europa.eu&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Domain: https://participant.sml.test.tech.peppol.org&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;strong&gt;Production Lookup&lt;/strong&gt; EC Environment (SML)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;strong&gt;Production Lookup&lt;/strong&gt; Peppol Environment (SML)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Domain: https://edelivery.tech.ec.europa.eu&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Domain: https://participant.sml.prod.tech.peppol.org&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;hr /&gt;
 
 &lt;p&gt;Per ulteriori informazioni si rimanda alla pagina dedicata &lt;a href=&quot;https://openpeppol.atlassian.net/wiki/spaces/PTPUB/pages/5059608580/SML+Insourcing&quot;&gt;SML Insourcing&lt;/a&gt; di OpenPeppol e al piano di migrazione allegato.&lt;/p&gt;</content><author><name></name></author><category term="it" /><category term="news" /><summary type="html">Si comunica che è in corso l’attività di migrazione del Service Metadata Locator (SML), attualmente gestito dalla Commissione Europea (DG DIGIT), ad OpenPeppol. L’obiettivo dell’Associazione è di acquisire il pieno controllo operativo e contrattuale di questa infrastruttura critica, mantenendo continuità e stabilità della rete Peppol.</summary></entry><entry xml:lang="en"><title type="html">Scheduled maintenance for the second half of the year 2026</title><link href="https://peppol.agid.gov.it/en/news/scheduled-maintenance-2026/" rel="alternate" type="text/html" title="Scheduled maintenance for the second half of the year 2026" /><published>2026-04-22T00:00:00+00:00</published><updated>2026-04-22T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/en/news/scheduled-maintenance-2026</id><content type="html" xml:base="https://peppol.agid.gov.it/en/news/scheduled-maintenance-2026/">&lt;p&gt;Notice is hereby given that the PA Unified SMP, Specifics Portal, Online Validator, and On-boarding Platform will undergo technical maintenance from approximately 2:00 pm to 3:30 pm on these days:&lt;/p&gt;
 

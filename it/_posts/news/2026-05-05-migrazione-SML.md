@@ -35,6 +35,7 @@ Il piano di migrazione previsto da OpenPeppol prevede che le attività siano com
 | Service name: edelivery-sml/                               | Service name: edelivery-sml/                             |
 | URL: https://edelivery.tech.ec.europa.eu/edelivery-sml/    | URL: https://api.sml.prod.tech.peppol.org/edelivery-sml/ |
 
+---
 
 - **31 agosto 2026 – AP Provider**: scadenza per l'aggiornamento degli endpoint DNS per le ricerche di lookup
  
@@ -44,7 +45,7 @@ Il piano di migrazione previsto da OpenPeppol prevede che le attività siano com
 |Domain: https://acc.edelivery.tech.ec.europa.eu             |Domain: https://participant.sml.test.tech.peppol.org      |
 |**Production Lookup** EC Environment (SML)                  |**Production Lookup** Peppol Environment (SML)            |
 |Domain: https://edelivery.tech.ec.europa.eu                 |Domain: https://participant.sml.prod.tech.peppol.org      |
-
+---
 
 
 

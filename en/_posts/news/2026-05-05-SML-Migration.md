@@ -23,6 +23,7 @@ The migration plan defined by OpenPeppol requires that activities be completed b
 
 - **31st May 2026 – AP Provider**: deadline for updating the SML registration API endpoints
 
+
 |            **Endpoints valid until May 31st**              |             **Endpoints valid from June 1st**            |
 |:----------------------------------------------------------:|:--------------------------------------------------------:|
 | **Test Management Interface** EC Environment (SMK)         | **Test Management Interface** Peppol Environment (T-SML) |
@@ -34,8 +35,10 @@ The migration plan defined by OpenPeppol requires that activities be completed b
 | Service name: edelivery-sml/                               | Service name: edelivery-sml/                             |
 | URL: https://edelivery.tech.ec.europa.eu/edelivery-sml/    | URL: https://api.sml.prod.tech.peppol.org/edelivery-sml/ |
 
+---
 
 - **31st August 2026 – AP Provider**: mandatory deadline for updating DNS lookup domains
+
 
 |            **Endpoints valid until August 31st**           |            **Endpoint valid from September 1st**         |
 |:----------------------------------------------------------:|:--------------------------------------------------------:|
@@ -44,7 +47,7 @@ The migration plan defined by OpenPeppol requires that activities be completed b
 |**Production Lookup** EC Environment (SML)                  |**Production Lookup** Peppol Environment (SML)            |
 |Domain: https://edelivery.tech.ec.europa.eu                 |Domain: https://participant.sml.prod.tech.peppol.org      |
 
-
+---
 
 For more information, consult the [dedicated OpenPeppol page](https://openpeppol.atlassian.net/wiki/spaces/PTPUB/pages/5059608580/SML+Insourcing) and the attached migration plan.
 

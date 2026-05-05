@@ -38,9 +38,9 @@ Il piano di migrazione previsto da OpenPeppol prevede che le attività siano com
 |**Endpoint utilizzabili fino a 31 agosto**|**Endpoint utilizzabili dal 1° settembre**|
 |------------------------------------------|------------------------------------------|
 |**Test Lookup** EC Environment (SMK)|**Test Lookup** Peppol Environment (T-SML)|
-|Domain: acc.edelivery.tech.ec.europa.eu|Domain: participant.sml.test.tech.peppol.org|
+|Domain: https://acc.edelivery.tech.ec.europa.eu|Domain: https://participant.sml.test.tech.peppol.org|
 |**Production Lookup** EC Environment (SML)|**Production Lookup** Peppol Environment (SML)|
-|Domain: edelivery.tech.ec.europa.eu|Domain: participant.sml.prod.tech.peppol.org|
+|Domain: https://edelivery.tech.ec.europa.eu|Domain: https://participant.sml.prod.tech.peppol.org|
 
 
 Per ulteriori informazioni si rimanda alla pagina dedicata [SML Insourcing](https://openpeppol.atlassian.net/wiki/spaces/PTPUB/pages/5059608580/SML+Insourcing) di OpenPeppol e al piano di migrazione allegato.

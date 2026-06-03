@@ -24,7 +24,7 @@ _To become a SMP Provider you must register for the Addressing and Capability Lo
 
 5. The Peppol Authority AGID verifies the submitted documentation and communicates the outcome to the Service Provider contact indicated in the Peppol Service Provider Agreement to receive formal communications (Annex 3, p. 23)
 
-6. Send a request to Peppol Service Desk concerning the release of the digital certificates for the conduction of the tests, by filling the relevant [form](https://openpeppol.atlassian.net/servicedesk/customer/portal/1/group/1/create/13)
+6. Send a request to Peppol Service Desk concerning the release of the digital certificates for the conduction of the tests, by filling the relevant [form](https://openpeppol.atlassian.net/servicedesk/customer/portal/1/group/1/create/16)
 
 _The email address indicated in the "Email confirmation to" field of the request will be recorded by OpenPeppol as the SP's contact address for communications relating to AP/SMP PKI Certificates (e.g. notification of certificate expiry). It is advisable to indicate the technical contact address mentioned in the Peppol Service Provider Agreement to receive support and security issues alerts (Annex 3, p. 23 of the Agreement) and to use a group mail._
 

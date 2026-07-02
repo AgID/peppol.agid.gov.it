@@ -23,9 +23,9 @@ Procedura da seguire per sottoscrivere il Peppol Service Provider Agreement:
 
 5. La Peppol Authority AGID svolge le verifiche sulla documentazione inviata e comunica l’esito delle stesse al contatto del Service Provider indicato nel Peppol Service Provider Agreement per ricevere le comunicazioni formali (Annex 3, pag. 23)
 
-6. Inviare richiesta al Peppol Service Desk relativa al rilascio dei certificati digitali per lo svolgimento dei test, compilando il relativo [form](https://openpeppol.atlassian.net/servicedesk/customer/portal/1/group/1/create/16).
-
-      _L’indirizzo mail indicato nel campo “Email confirmation to” della richiesta sarà censito da OpenPeppol come indirizzo di contatto del SP per le comunicazioni relative ai Certificati PKI di AP/SMP (es. notifica di scadenza dei certificati). Si consiglia di indicare l’indirizzo di contatto tecnico indicato nel Peppol Service Provider Agreement per ricevere le segnalazioni di support e security issue (Annex 3, pag. 23 dell’Agreement) e di utilizzare una mail di gruppo._
+6. Inviare richiesta al Peppol Service Desk relativa al rilascio dei certificati digitali per lo svolgimento dei test, compilando il form relativo a **Test and Onboarding**  tramite il [Service Desk di OpenPeppol](https://openpeppol.atlassian.net/servicedesk/customer/portals)”.
+     
+     _L’indirizzo mail indicato nel campo “Email confirmation to” della richiesta sarà censito da OpenPeppol come indirizzo di contatto del SP per le comunicazioni relative ai Certificati PKI di AP/SMP (es. notifica di scadenza dei certificati). Si consiglia di indicare l’indirizzo di contatto tecnico indicato nel Peppol Service Provider Agreement per ricevere le segnalazioni di support e security issue (Annex 3, pag. 23 dell’Agreement) e di utilizzare una mail di gruppo._
 
 7. La Peppol Authority autorizza il rilascio dei certificati digitali per l’ambiente di test.
 
@@ -38,7 +38,7 @@ Procedura da seguire per sottoscrivere il Peppol Service Provider Agreement:
     - **FASE 2**: (dopo il superamento della FASE1): Qualificazione dei servizi specifici per il contesto italiano, da eseguire attraverso l’esecuzione di una sessione completa di tutti i casi di test previsti dal processo di accreditamento degli Access Point afferenti alla Peppol Authority AGID. La sessione di test viene eseguita sulla [Piattaforma di Onboarding](https://peppol.agid.gov.it/it/qualificazione-ap-smp/piattaforma-onboarding/), la cui interfaccia viene descritte nel [manuale utente della Piattaforma di Onboarding](https://peppol-docs.agid.gov.it/manuali_utente/onboarding). Una volta completata con successo la sessione di test , il SP invia il documento contenente l’esito dei test alla Peppol Authority direttamente attraverso la <a href="https://peppol-onboarding.agid.gov.it/piattaforma-onboarding/" data-proofer-ignore>Piattaforma di Onboarding</a>.
 
 
-10. Inviare richiesta al Peppol Service Desk relativa al rilascio dei certificati digitali di produzione, compilando il relativo [form](https://openpeppol.atlassian.net/servicedesk/customer/portal/1/group/1/create/13).
+10. Inviare richiesta al Peppol Service Desk relativa al rilascio dei certificati digitali di produzione, compilando il form relativo a **Test and Onboarding**  tramite il [Service Desk di OpenPeppol](https://openpeppol.atlassian.net/servicedesk/customer/portals)”.
       
       _L’indirizzo mail indicato nel campo “Email confirmation to” della richiesta sarà censito da OpenPeppol come indirizzo di contatto del SP per le comunicazioni relative ai Certificati PKI di AP/SMP (es. notifica di scadenza dei certificati). Si consiglia di indicare l’indirizzo di contatto tecnico indicato nel Peppol Service Provider Agreement per ricevere le segnalazioni di support e security issue (Annex 3, pag. 23 dell’Agreement) e di utilizzare una mail di gruppo._
 

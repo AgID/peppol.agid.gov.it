@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Certificazione ISO/IEC 27001 obbligatoria per i Service Provider Peppol dal 1° luglio 2027
-ref: Certificazione ISO/IEC 27001 obbligatoria per i Service Provider Peppol dal 1° luglio 2027
+title: Certificazione ISO/IEC 27001 obbligatoria per i Service Provider Peppol dal primo luglio 2027
+ref: Certificazione ISO/IEC 27001 obbligatoria per i Service Provider Peppol dal primo luglio 2027
 excerpt_separator: <!--more-->
 tags:
 categories: news
-permalink: /it/news/Certificazione ISO/IEC 27001 obbligatoria per i Service Provider Peppol dal 1° luglio 2027/
+permalink: /it/news/Certificazione ISO/IEC 27001 obbligatoria per i Service Provider Peppol dal primo luglio 2027/
 ---
 
 

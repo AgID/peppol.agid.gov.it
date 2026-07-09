@@ -1,15 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://peppol.agid.gov.it/feed.xml" rel="self" type="application/atom+xml" /><link href="https://peppol.agid.gov.it/" rel="alternate" type="text/html" /><updated>2026-07-09T19:46:46+00:00</updated><id>https://peppol.agid.gov.it/feed.xml</id><title type="html">PEPPOL</title><entry xml:lang="en"><title type="html">Peppol May Release 2026</title><link href="https://peppol.agid.gov.it/en/news/Peppol%20May%20Release%202026/" rel="alternate" type="text/html" title="Peppol May Release 2026" /><published>2026-07-09T00:00:00+00:00</published><updated>2026-07-09T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/en/news/Peppol%20May%20Release%202026</id><content type="html" xml:base="https://peppol.agid.gov.it/en/news/Peppol%20May%20Release%202026/">&lt;p&gt;We inform you that the updates related to the May Release 2026 of OpenPeppol have been published. The entire release notes are available at the following addresses:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://peppol.agid.gov.it/feed.xml" rel="self" type="application/atom+xml" /><link href="https://peppol.agid.gov.it/" rel="alternate" type="text/html" /><updated>2026-07-09T20:21:55+00:00</updated><id>https://peppol.agid.gov.it/feed.xml</id><title type="html">PEPPOL</title><entry xml:lang="en"><title type="html">Peppol May Release 2026</title><link href="https://peppol.agid.gov.it/en/news/Peppol%20May%20Release%202026/" rel="alternate" type="text/html" title="Peppol May Release 2026" /><published>2026-07-09T00:00:00+00:00</published><updated>2026-07-09T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/en/news/Peppol%20May%20Release%202026</id><content type="html" xml:base="https://peppol.agid.gov.it/en/news/Peppol%20May%20Release%202026/">&lt;p&gt;We inform you that the updates related to the May Release 2026 of OpenPeppol have been published. The entire release notes are available at the following addresses:&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ENG/invoice/guide/release-notes-it/main.html&quot;&gt;Billing&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ENG/others/guides/release-notes-it/3-order-only/main.html&quot;&gt;Order only&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ENG/others/guides/release-notes-it/28-ordering/main.html&quot;&gt;Ordering&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ENG/others/guides/release-notes-it/42-orderagreement/main.html&quot;&gt;Order Agreement&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ENG/others/guides/release-notes-it/30-despatchadvice/main.html&quot;&gt;Dispatch Advice&lt;/a&gt;
-These updates will be mandatory starting from &lt;strong&gt;17th of August 2026&lt;/strong&gt;, nevertheless we advise implementing these changes in time and downloading the schematron for the validation of the updated documents.
-&lt;!--more--&gt;
-The current documentation, accessible until 16th of August 2026, is available at the following addresses:&lt;/p&gt;
-  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ENG/others/guides/release-notes-it/30-despatchadvice/main.html&quot;&gt;Dispatch Advice&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These updates will be mandatory starting from &lt;strong&gt;17th of August 2026&lt;/strong&gt;, nevertheless we advise implementing these changes in time and downloading the schematron for the validation of the updated documents.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;The current documentation, accessible until 16th of August 2026, is available at the following addresses:&lt;/p&gt;
+
+&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/my_index_fatt-ENG.jsp&quot;&gt; Billing&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/my_index-ENG.jsp&quot;&gt;Other processes (Order Only, Ordering, Order Agreement, Despatch Advice)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -18,16 +21,14 @@ The current documentation, accessible until 16th of August 2026, is available at
 
 &lt;p&gt;&lt;strong&gt;Changes to the syntax, code lists and validation artifacts - &lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/my_index-ENG.jsp&quot;&gt;Other processes (Order Only, Ordering, Order Agreement, Despatch Advice)&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Changes to the syntax&lt;/p&gt;
-
-&lt;p&gt;Order:&lt;/p&gt;
+&lt;p&gt;Changes to the syntax
+Order:&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;Added the new structure cac:QuotationLineReference with the element cbc:LineID within the structure cac:OrderLine to indicate the reference to a specific line of the quotation document.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Changes to code lists and validation artifacts&lt;/p&gt;
-
-&lt;p&gt;Order Only, Ordering, Order Agreement, Despatch Advice:&lt;/p&gt;
+&lt;p&gt;Changes to code lists and validation artifacts 
+Order Only, Ordering, Order Agreement, Despatch Advice:&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;Electronic Address Scheme (EAS)
     &lt;ul&gt;
@@ -53,9 +54,7 @@ The current documentation, accessible until 16th of August 2026, is available at
       &lt;li&gt;Aggiunti: CAX, CAY, CAZ, DAC, DAF, DAG, DAH, DAI, DAJ, DAK, DAL, DAM, DAN, DAO, DAP, DAQ, PRV&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Changed rule PEPPOL-COMMON-R052 (Denmark) and PEPPOL-COMMON-R053 (Denmark) to be errors instead of warnings, as the rules are now mandatory for all profiles.&lt;/p&gt;
-  &lt;/li&gt;
+  &lt;li&gt;Changed rule PEPPOL-COMMON-R052 (Denmark) and PEPPOL-COMMON-R053 (Denmark) to be errors instead of warnings, as the rules are now mandatory for all profiles.&lt;/li&gt;
   &lt;li&gt;New rule PEPPOL-COMMON-R054 (Netherlands), PEPPOL-COMMON-R055 (Netherlands), PEPPOL-COMMON-R056-1 (Netherlands), PEPPOL-COMMON-R056-2 (Netherlands), PEPPOL-COMMON-R057 (Netherlands) as warnings. Rules will become fatal in future release, but are warnings in this release to allow for transition period for implementers to update their systems and data.&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -64,12 +63,16 @@ The current documentation, accessible until 16th of August 2026, is available at
   &lt;li&gt;Update of schematron&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;strong&gt;Changes to the specification, code lists and validation artifacts – Billing – &lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/my_index_fatt-ENG.jsp&quot;&gt;Billing&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Changes to the specification, code lists and validation artifacts – &lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/my_index_fatt-ENG.jsp&quot;&gt;Billing&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Changes to the documentation
-New optional profile added for a process where an invoice response is a required step in the collaboration. The profile (02) requires a separate SMP registration. The same profile identifier has been added to the Invoice Response BIS, which specification is available at the OpenPeppol&lt;a href=&quot;https://docs.peppol.eu/poacc/upgrade-3/upcoming/&quot;&gt;Other BIS&lt;/a&gt; site.&lt;/p&gt;
+&lt;p&gt;Changes to the documentation&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;New optional profile added for a process where an invoice response is a required step in the collaboration. The profile (02) requires a separate SMP registration. The same profile identifier has been added to the Invoice Response BIS, which specification is available at the OpenPeppol &lt;a href=&quot;https://docs.peppol.eu/poacc/upgrade-3/upcoming/&quot;&gt;Other BIS&lt;/a&gt; site.&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;Changes to code lists and validation artifacts&lt;/p&gt;
+
 &lt;ul&gt;
   &lt;li&gt;Electronic Address Scheme (EAS)
     &lt;ul&gt;
@@ -124,10 +127,15 @@ I Service Provider che non dispongono ancora della certificazione devono avviare
   &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/others/guides/release-notes-it/3-order-only/main.html&quot;&gt;Ordinazione Semplice&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/others/guides/release-notes-it/28-ordering/main.html&quot;&gt;Ordinazione Completa&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/others/guides/release-notes-it/42-orderagreement/main.html&quot;&gt;Ordinazione Pre-Concordata&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/others/guides/release-notes-it/30-despatchadvice/main.html&quot;&gt;Documento di Trasporto&lt;/a&gt;
-Tali aggiornamenti avranno efficacia in via obbligatoria dal giorno &lt;strong&gt;17 agosto 2026&lt;/strong&gt;, ciononostante si consiglia di recepire per tempo tali modifiche e di scaricare gli schematron per la validazione dei documenti aggiornati.
-&lt;!--more--&gt;
-Le specifiche tecniche che rimarranno in vigore fino al giorno 16 agosto 2026 sono disponibili agli indirizzi:&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/others/guides/release-notes-it/30-despatchadvice/main.html&quot;&gt;Documento di Trasporto&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Tali aggiornamenti avranno efficacia in via obbligatoria dal giorno &lt;strong&gt;17 agosto 2026&lt;/strong&gt;, ciononostante si consiglia di recepire per tempo tali modifiche e di scaricare gli schematron per la validazione dei documenti aggiornati.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;Le specifiche tecniche che rimarranno in vigore fino al giorno 16 agosto 2026 sono disponibili agli indirizzi:&lt;/p&gt;
+
+&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/my_index_fatt.jsp&quot;&gt;Fatturazione&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/my_index.jsp&quot;&gt;Altri processi (Ordinazione semplice, Ordinazione completa, Ordinazione pre-concordata, Documento di trasporto)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -136,9 +144,9 @@ Le specifiche tecniche che rimarranno in vigore fino al giorno 16 agosto 2026 so
 
 &lt;p&gt;&lt;strong&gt;Cambiamenti alla sintassi, code lists e artefatti di validazione - &lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/&quot;&gt;Altri processi (ordine, ordine con risposta, ordine pre-concordato e documento di trasporto)&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Cambiamenti alla sintassi&lt;/p&gt;
+&lt;p&gt;Cambiamenti alla sintassi
+Ordine:&lt;/p&gt;
 
-&lt;p&gt;Ordine:&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;Aggiunta la nuova struttura cac:QuotationLineReference contenente l’elemento cbc:LineID all’interno della struttura cac:OrderLine per indicare il riferimento ad una specifica riga del documento di preventivo.&lt;/li&gt;
 &lt;/ul&gt;
@@ -157,16 +165,17 @@ Le specifiche tecniche che rimarranno in vigore fino al giorno 16 agosto 2026 so
   &lt;li&gt;ISO 6523 ICD list
     &lt;ul&gt;
       &lt;li&gt;Aggiunti: 0245,0246,0247,0248&lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Modificati: 0096,0158,0241,0243&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;ISO 4217 Currency codes
-        &lt;ul&gt;
-          &lt;li&gt;Rimossi: ANG, BGN, STD&lt;/li&gt;
-          &lt;li&gt;Aggiunti: STN, XCG&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;UNCL7161&lt;/li&gt;
+      &lt;li&gt;Modificati: 0096,0158,0241,0243&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;ISO 4217 Currency codes
+    &lt;ul&gt;
+      &lt;li&gt;Rimossi: ANG, BGN, STD&lt;/li&gt;
+      &lt;li&gt;Aggiunti: STN, XCG&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;UNCL7161
+    &lt;ul&gt;
       &lt;li&gt;Aggiunti: CAX, CAY, CAZ, DAC, DAF, DAG, DAH, DAI, DAJ, DAK, DAL, DAM, DAN, DAO, DAP, DAQ, PRV&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
@@ -184,11 +193,13 @@ Le specifiche tecniche che rimarranno in vigore fino al giorno 16 agosto 2026 so
 &lt;p&gt;&lt;strong&gt;Cambiamenti alla documentazione, alle code lists e artefatti di validazione – &lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/my_index_fatt.jsp&quot;&gt;Fatturazione&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Cambiamenti alla documentazione&lt;/p&gt;
+
 &lt;ul&gt;
   &lt;li&gt;Inserito nuovo profilo opzionale Profilo 02 – Fatturazione con risposta che consente di gestire un processo in cui a seguito della ricezione della fattura, è richiesto l’invio di una risposta alla fattura. Questo profilo richiede una registrazione separata nell’SMP e utilizza il documento di Invoice Response BIS. Le specifiche di questo documento sono disponibili sul portale specifiche di OpenPeppol &lt;a href=&quot;https://docs.peppol.eu/poacc/upgrade-3/upcoming/&quot;&gt;Other BIS&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Cambiamenti alle code lists e artefatti di validazione&lt;/p&gt;
+
 &lt;ul&gt;
   &lt;li&gt;Electronic Address Scheme (EAS)
     &lt;ul&gt;
@@ -208,7 +219,9 @@ Le specifiche tecniche che rimarranno in vigore fino al giorno 16 agosto 2026 so
       &lt;li&gt;Aggiunti: XCG&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;Modifica da “warning” a “fatal” della severità delle regole PEPPOL-COMMON-R052 (Danimarca) e PEPPOL-COMMON-R053 (Danimarca).&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Modifica da “warning” a “fatal” della severità delle regole PEPPOL-COMMON-R052 (Danimarca) e PEPPOL-COMMON-R053 (Danimarca).&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;Inserimento delle nuove regole PEPPOL-COMMON-R054 (Paesi Bassi), PEPPOL-COMMON-R055 (Paesi Bassi), PEPPOL-COMMON-R056-1 (Paesi Bassi), PEPPOL-COMMON-R056-2 (Paesi Bassi), PEPPOL-COMMON-R057 (Paesi Bassi) con severità “warning”. Le regole saranno poste a severità “fatal” in una successiva release.&lt;/li&gt;
 &lt;/ul&gt;
 

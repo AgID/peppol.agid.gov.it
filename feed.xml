@@ -1,4 +1,224 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://peppol.agid.gov.it/feed.xml" rel="self" type="application/atom+xml" /><link href="https://peppol.agid.gov.it/" rel="alternate" type="text/html" /><updated>2026-07-09T08:53:26+00:00</updated><id>https://peppol.agid.gov.it/feed.xml</id><title type="html">PEPPOL</title><entry xml:lang="en"><title type="html">Activities for the migration of the Service Metadata Locator (SML)</title><link href="https://peppol.agid.gov.it/en/news/SML-migration/" rel="alternate" type="text/html" title="Activities for the migration of the Service Metadata Locator (SML)" /><published>2026-05-05T00:00:00+00:00</published><updated>2026-05-05T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/en/news/SML-Migration</id><content type="html" xml:base="https://peppol.agid.gov.it/en/news/SML-migration/">&lt;p&gt;It is hereby communicated that the migration of the Service Metadata Locator (SML), currently managed by the European Commission (DG DIGIT), to OpenPeppol is underway. The objective of the Association is to acquire full operational and contractual control over this critical infrastructure, while maintaining continuity and stability of the Peppol Network.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://peppol.agid.gov.it/feed.xml" rel="self" type="application/atom+xml" /><link href="https://peppol.agid.gov.it/" rel="alternate" type="text/html" /><updated>2026-07-09T19:46:46+00:00</updated><id>https://peppol.agid.gov.it/feed.xml</id><title type="html">PEPPOL</title><entry xml:lang="en"><title type="html">Peppol May Release 2026</title><link href="https://peppol.agid.gov.it/en/news/Peppol%20May%20Release%202026/" rel="alternate" type="text/html" title="Peppol May Release 2026" /><published>2026-07-09T00:00:00+00:00</published><updated>2026-07-09T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/en/news/Peppol%20May%20Release%202026</id><content type="html" xml:base="https://peppol.agid.gov.it/en/news/Peppol%20May%20Release%202026/">&lt;p&gt;We inform you that the updates related to the May Release 2026 of OpenPeppol have been published. The entire release notes are available at the following addresses:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ENG/invoice/guide/release-notes-it/main.html&quot;&gt;Billing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ENG/others/guides/release-notes-it/3-order-only/main.html&quot;&gt;Order only&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ENG/others/guides/release-notes-it/28-ordering/main.html&quot;&gt;Ordering&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ENG/others/guides/release-notes-it/42-orderagreement/main.html&quot;&gt;Order Agreement&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ENG/others/guides/release-notes-it/30-despatchadvice/main.html&quot;&gt;Dispatch Advice&lt;/a&gt;
+These updates will be mandatory starting from &lt;strong&gt;17th of August 2026&lt;/strong&gt;, nevertheless we advise implementing these changes in time and downloading the schematron for the validation of the updated documents.
+&lt;!--more--&gt;
+The current documentation, accessible until 16th of August 2026, is available at the following addresses:&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/my_index_fatt-ENG.jsp&quot;&gt; Billing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/my_index-ENG.jsp&quot;&gt;Other processes (Order Only, Ordering, Order Agreement, Despatch Advice)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The changes of the May Release 2026 are described below:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Changes to the syntax, code lists and validation artifacts - &lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/my_index-ENG.jsp&quot;&gt;Other processes (Order Only, Ordering, Order Agreement, Despatch Advice)&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Changes to the syntax&lt;/p&gt;
+
+&lt;p&gt;Order:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Added the new structure cac:QuotationLineReference with the element cbc:LineID within the structure cac:OrderLine to indicate the reference to a specific line of the quotation document.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Changes to code lists and validation artifacts&lt;/p&gt;
+
+&lt;p&gt;Order Only, Ordering, Order Agreement, Despatch Advice:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Electronic Address Scheme (EAS)
+    &lt;ul&gt;
+      &lt;li&gt;Added: 0242,0245,0246,0248&lt;/li&gt;
+      &lt;li&gt;Removed: 0037,0177,0193,0212,0213,0215,0147,0154,0170,0194,0203,0217&lt;/li&gt;
+      &lt;li&gt;Modified: 0088,0096,0184,0190,0191,0192,0195,0196,0198,0204,9959&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;ISO 6523 ICD list
+    &lt;ul&gt;
+      &lt;li&gt;Added: 0245,0246,0247,0248&lt;/li&gt;
+      &lt;li&gt;Modified: 0096,0158,0241,0243&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;ISO 4217 Currency codes
+    &lt;ul&gt;
+      &lt;li&gt;Removed: ANG, BGN, STD&lt;/li&gt;
+      &lt;li&gt;Added: STN, XCG&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;UNCL7161
+    &lt;ul&gt;
+      &lt;li&gt;Aggiunti: CAX, CAY, CAZ, DAC, DAF, DAG, DAH, DAI, DAJ, DAK, DAL, DAM, DAN, DAO, DAP, DAQ, PRV&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Changed rule PEPPOL-COMMON-R052 (Denmark) and PEPPOL-COMMON-R053 (Denmark) to be errors instead of warnings, as the rules are now mandatory for all profiles.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;New rule PEPPOL-COMMON-R054 (Netherlands), PEPPOL-COMMON-R055 (Netherlands), PEPPOL-COMMON-R056-1 (Netherlands), PEPPOL-COMMON-R056-2 (Netherlands), PEPPOL-COMMON-R057 (Netherlands) as warnings. Rules will become fatal in future release, but are warnings in this release to allow for transition period for implementers to update their systems and data.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Schematron update&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Update of schematron&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Changes to the specification, code lists and validation artifacts – Billing – &lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/my_index_fatt-ENG.jsp&quot;&gt;Billing&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Changes to the documentation
+New optional profile added for a process where an invoice response is a required step in the collaboration. The profile (02) requires a separate SMP registration. The same profile identifier has been added to the Invoice Response BIS, which specification is available at the OpenPeppol&lt;a href=&quot;https://docs.peppol.eu/poacc/upgrade-3/upcoming/&quot;&gt;Other BIS&lt;/a&gt; site.&lt;/p&gt;
+
+&lt;p&gt;Changes to code lists and validation artifacts&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Electronic Address Scheme (EAS)
+    &lt;ul&gt;
+      &lt;li&gt;Removed: 0037,0147,0154,0170,0177,0193,0194 ,0203 ,0212,0213,0215,0217&lt;/li&gt;
+      &lt;li&gt;Modified: 0088,0184,0190,0191,0192,0195,0196,0198,0199,0204,9959&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;ISO 6523 ICD list
+    &lt;ul&gt;
+      &lt;li&gt;Added: 0246,0247,0248&lt;/li&gt;
+      &lt;li&gt;Modified: 0096,0158,0208,0241,0243&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;ISO 4217 Currency codes
+    &lt;ul&gt;
+      &lt;li&gt;Removed: ANG, BGN&lt;/li&gt;
+      &lt;li&gt;Added: XCG&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Changed rule PEPPOL-COMMON-R052 (Denmark) and PEPPOL-COMMON-R053 (Denmark) to be fatal instead of warnings, as the rules are now mandatory for all profiles.&lt;/li&gt;
+  &lt;li&gt;New rule PEPPOL-COMMON-R054 (Netherlands), PEPPOL-COMMON-R055 (Netherlands), PEPPOL-COMMON-R056-1 (Netherlands), PEPPOL-COMMON-R056-2 (Netherlands), PEPPOL-COMMON-R057 (Netherlands) as warnings. Rules will become fatal in future release, but are warnings in this release to allow for transition period for implementers to update their systems and data.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Schematron update EN 16931&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Update of schematron EN 1693&lt;/li&gt;
+  &lt;li&gt;Removed rule BR-CO-25&lt;/li&gt;
+  &lt;li&gt;Update rule PEPPOL-EN16931-R004&lt;/li&gt;
+  &lt;li&gt;Added in rule PEPPOL-EN16931-R007 for France 2 new temporary profiles on UBL Invoice and Credit Note&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="en" /><category term="news" /><summary type="html">We inform you that the updates related to the May Release 2026 of OpenPeppol have been published. The entire release notes are available at the following addresses: Billing Order only Ordering Order Agreement Dispatch Advice These updates will be mandatory starting from 17th of August 2026, nevertheless we advise implementing these changes in time and downloading the schematron for the validation of the updated documents.</summary></entry><entry><title type="html">Certificazione ISO/IEC 27001 obbligatoria per i Service Provider Peppol dal 1° luglio 2027</title><link href="https://peppol.agid.gov.it/it/news/Certificazione%20ISO/IEC%2027001%20obbligatoria%20per%20i%20Service%20Provider%20Peppol%20dal%201%C2%B0%20luglio%202027/" rel="alternate" type="text/html" title="Certificazione ISO/IEC 27001 obbligatoria per i Service Provider Peppol dal 1° luglio 2027" /><published>2026-07-09T00:00:00+00:00</published><updated>2026-07-09T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/it/news/Certificazione%20ISO/Certificazione%20ISOIEC%2027001%20obbligatoria%20per%20i%20Service%20Provider%20Peppol%20dal%201%C2%B0%20luglio%202027y</id><content type="html" xml:base="https://peppol.agid.gov.it/it/news/Certificazione%20ISO/IEC%2027001%20obbligatoria%20per%20i%20Service%20Provider%20Peppol%20dal%201%C2%B0%20luglio%202027/">&lt;p&gt;&lt;strong&gt;Certificazione ISO/IEC 27001 obbligatoria per i Service Provider Peppol dal 1° luglio 2027&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Si comunica che a partire dal &lt;strong&gt;1° luglio 2027&lt;/strong&gt; tutti i Service Provider Peppol dovranno essere in possesso di una certificazione &lt;strong&gt;ISO/IEC 27001&lt;/strong&gt; valida e attiva. Tale certificazione rappresenta un requisito fondamentale per continuare a operare sulla rete Peppol e garantire la sicurezza delle informazioni gestite.&lt;/p&gt;
+
+&lt;p&gt;La certificazione ISO/IEC 27001 attesta che il Service Provider dispone di un Sistema di Gestione della Sicurezza delle Informazioni (SGSI) conforme agli standard internazionali, sottoposto a verifiche indipendenti e ricorrenti. Questo garantisce ai partecipanti della rete Peppol un livello di garanzie coerente e verificabile in materia di sicurezza informatica.&lt;/p&gt;
+
+&lt;p&gt;I Service Provider che già dispongono di una certificazione ISO/IEC 27001 devono verificare che lo &lt;strong&gt;Statement of Applicability&lt;/strong&gt; (SOA) copra esplicitamente l’ambito delle operazioni Peppol (Access Point, Service Metadata Publisher, End User Identification, gestione documenti, controlli di integrità, logging e audit trail, backup e continuità operativa).
+I Service Provider che non dispongono ancora della certificazione devono avviare tempestivamente il progetto di implementazione, coinvolgendo un organismo di certificazione accreditato specializzato in ISO/IEC 27001.&lt;/p&gt;
+
+&lt;p&gt;OpenPeppol ha definito un calendario strutturato per traguardare i Service Provider nel percorso di certificazione:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;30 giugno 2026 (T0)&lt;/strong&gt;: Scadenza per la presentazione di richiesta di equivalenza di altri certificati già posseduti&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;1° settembre 2026 (T1)&lt;/strong&gt;: Scadenza per la presentazione dei certificati ISO/IEC 27001 già in possesso&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;1° ottobre 2026 (T2)&lt;/strong&gt;: Scadenza per la presentazione delle evidenze per i progetti di certificazione in corso&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;1° febbraio 2027 (T3)&lt;/strong&gt;: Primo rapporto di stato di avanzamento sui lavori di certificazione in corso&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;1° maggio 2027 (T4)&lt;/strong&gt;: Secondo rapporto di stato di avanzamento sui lavori di certificazione in corso&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;1° luglio 2027 (T5)&lt;/strong&gt;: Scadenza obbligatoria per il conseguimento della certificazione&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Per ulteriori informazioni si rimanda alla pagina dedicata &lt;a href=&quot;https://openpeppol.atlassian.net/wiki/spaces/Security/pages/5232230408/ISO+IEC+27001&quot;&gt;ISO/IEC 27001&lt;/a&gt; di OpenPeppol e al piano di implementazione allegato.&lt;/p&gt;</content><author><name></name></author><category term="it" /><category term="news" /><summary type="html">Certificazione ISO/IEC 27001 obbligatoria per i Service Provider Peppol dal 1° luglio 2027 Si comunica che a partire dal 1° luglio 2027 tutti i Service Provider Peppol dovranno essere in possesso di una certificazione ISO/IEC 27001 valida e attiva. Tale certificazione rappresenta un requisito fondamentale per continuare a operare sulla rete Peppol e garantire la sicurezza delle informazioni gestite. La certificazione ISO/IEC 27001 attesta che il Service Provider dispone di un Sistema di Gestione della Sicurezza delle Informazioni (SGSI) conforme agli standard internazionali, sottoposto a verifiche indipendenti e ricorrenti. Questo garantisce ai partecipanti della rete Peppol un livello di garanzie coerente e verificabile in materia di sicurezza informatica. I Service Provider che già dispongono di una certificazione ISO/IEC 27001 devono verificare che lo Statement of Applicability (SOA) copra esplicitamente l’ambito delle operazioni Peppol (Access Point, Service Metadata Publisher, End User Identification, gestione documenti, controlli di integrità, logging e audit trail, backup e continuità operativa). I Service Provider che non dispongono ancora della certificazione devono avviare tempestivamente il progetto di implementazione, coinvolgendo un organismo di certificazione accreditato specializzato in ISO/IEC 27001. OpenPeppol ha definito un calendario strutturato per traguardare i Service Provider nel percorso di certificazione: 30 giugno 2026 (T0): Scadenza per la presentazione di richiesta di equivalenza di altri certificati già posseduti 1° settembre 2026 (T1): Scadenza per la presentazione dei certificati ISO/IEC 27001 già in possesso 1° ottobre 2026 (T2): Scadenza per la presentazione delle evidenze per i progetti di certificazione in corso 1° febbraio 2027 (T3): Primo rapporto di stato di avanzamento sui lavori di certificazione in corso 1° maggio 2027 (T4): Secondo rapporto di stato di avanzamento sui lavori di certificazione in corso 1° luglio 2027 (T5): Scadenza obbligatoria per il conseguimento della certificazione Per ulteriori informazioni si rimanda alla pagina dedicata ISO/IEC 27001 di OpenPeppol e al piano di implementazione allegato.</summary></entry><entry xml:lang="it"><title type="html">Peppol May Release 2026</title><link href="https://peppol.agid.gov.it/it/news/Peppol%20May%20Release%202026/" rel="alternate" type="text/html" title="Peppol May Release 2026" /><published>2026-07-09T00:00:00+00:00</published><updated>2026-07-09T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/it/news/Peppol%20May%20Release%202026</id><content type="html" xml:base="https://peppol.agid.gov.it/it/news/Peppol%20May%20Release%202026/">&lt;p&gt;Si comunica che sono stati pubblicati gli aggiornamenti relativi alla May Release 2026 di OpenPeppol, le cui release notes complete sono disponibili agli indirizzi:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/invoice/guide/release-notes-it/main.html&quot;&gt;Fatturazione&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/others/guides/release-notes-it/3-order-only/main.html&quot;&gt;Ordinazione Semplice&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/others/guides/release-notes-it/28-ordering/main.html&quot;&gt;Ordinazione Completa&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/others/guides/release-notes-it/42-orderagreement/main.html&quot;&gt;Ordinazione Pre-Concordata&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/others/guides/release-notes-it/30-despatchadvice/main.html&quot;&gt;Documento di Trasporto&lt;/a&gt;
+Tali aggiornamenti avranno efficacia in via obbligatoria dal giorno &lt;strong&gt;17 agosto 2026&lt;/strong&gt;, ciononostante si consiglia di recepire per tempo tali modifiche e di scaricare gli schematron per la validazione dei documenti aggiornati.
+&lt;!--more--&gt;
+Le specifiche tecniche che rimarranno in vigore fino al giorno 16 agosto 2026 sono disponibili agli indirizzi:&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/my_index_fatt.jsp&quot;&gt;Fatturazione&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/my_index.jsp&quot;&gt;Altri processi (Ordinazione semplice, Ordinazione completa, Ordinazione pre-concordata, Documento di trasporto)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Di seguito si riportano i cambiamenti effettuati con la May Release 2026:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Cambiamenti alla sintassi, code lists e artefatti di validazione - &lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/&quot;&gt;Altri processi (ordine, ordine con risposta, ordine pre-concordato e documento di trasporto)&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Cambiamenti alla sintassi&lt;/p&gt;
+
+&lt;p&gt;Ordine:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Aggiunta la nuova struttura cac:QuotationLineReference contenente l’elemento cbc:LineID all’interno della struttura cac:OrderLine per indicare il riferimento ad una specifica riga del documento di preventivo.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Cambiamenti alle code lists e artefatti di validazione&lt;/p&gt;
+
+&lt;p&gt;Ordine, Risposta all’Ordine, Ordine Pre-Concordato, Documento di Trasporto:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Electronic Address Scheme (EAS)
+    &lt;ul&gt;
+      &lt;li&gt;Aggiunti: 0242,0245,0246,0248&lt;/li&gt;
+      &lt;li&gt;Rimossi: 0037,0177,0193,0212,0213,0215,0147,0154,0170,0194,0203,0217&lt;/li&gt;
+      &lt;li&gt;Modificati: 0088,0096,0184,0190,0191,0192,0195,0196,0198,0204,9959&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;ISO 6523 ICD list
+    &lt;ul&gt;
+      &lt;li&gt;Aggiunti: 0245,0246,0247,0248&lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Modificati: 0096,0158,0241,0243&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;ISO 4217 Currency codes
+        &lt;ul&gt;
+          &lt;li&gt;Rimossi: ANG, BGN, STD&lt;/li&gt;
+          &lt;li&gt;Aggiunti: STN, XCG&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;UNCL7161&lt;/li&gt;
+      &lt;li&gt;Aggiunti: CAX, CAY, CAZ, DAC, DAF, DAG, DAH, DAI, DAJ, DAK, DAL, DAM, DAN, DAO, DAP, DAQ, PRV&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Modifica da “warning” a “fatal” la severità delle regole PEPPOL-COMMON-R052 (Danimarca) e PEPPOL-COMMON-R053 (Danimarca).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Inserimento delle nuove regole PEPPOL-COMMON-R054 (Paesi Bassi), PEPPOL-COMMON-R055 (Paesi Bassi), PEPPOL-COMMON-R056-1 (Paesi Bassi), PEPPOL-COMMON-R056-2 (Paesi Bassi), PEPPOL-COMMON-R057 (Paesi Bassi) con severità “warning”. Le regole saranno poste a severità “fatal” in una successiva release.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Aggiornamento schematron&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Aggiornamento schematron&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Cambiamenti alla documentazione, alle code lists e artefatti di validazione – &lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/my_index_fatt.jsp&quot;&gt;Fatturazione&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Cambiamenti alla documentazione&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Inserito nuovo profilo opzionale Profilo 02 – Fatturazione con risposta che consente di gestire un processo in cui a seguito della ricezione della fattura, è richiesto l’invio di una risposta alla fattura. Questo profilo richiede una registrazione separata nell’SMP e utilizza il documento di Invoice Response BIS. Le specifiche di questo documento sono disponibili sul portale specifiche di OpenPeppol &lt;a href=&quot;https://docs.peppol.eu/poacc/upgrade-3/upcoming/&quot;&gt;Other BIS&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Cambiamenti alle code lists e artefatti di validazione&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Electronic Address Scheme (EAS)
+    &lt;ul&gt;
+      &lt;li&gt;Rimossi: 0037,0147,0154,0170,0177,0193,0194 ,0203 ,0212,0213,0215,0217&lt;/li&gt;
+      &lt;li&gt;Modificati: 0088,0184,0190,0191,0192,0195,0196,0198,0199,0204,9959&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;ISO 6523 ICD list
+    &lt;ul&gt;
+      &lt;li&gt;Aggiunti: 0246,0247,0248&lt;/li&gt;
+      &lt;li&gt;Modificati: 0096,0158,0208,0241,0243&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;ISO 4217 Currency codes
+    &lt;ul&gt;
+      &lt;li&gt;Rimossi: ANG, BGN&lt;/li&gt;
+      &lt;li&gt;Aggiunti: XCG&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Modifica da “warning” a “fatal” della severità delle regole PEPPOL-COMMON-R052 (Danimarca) e PEPPOL-COMMON-R053 (Danimarca).&lt;/li&gt;
+  &lt;li&gt;Inserimento delle nuove regole PEPPOL-COMMON-R054 (Paesi Bassi), PEPPOL-COMMON-R055 (Paesi Bassi), PEPPOL-COMMON-R056-1 (Paesi Bassi), PEPPOL-COMMON-R056-2 (Paesi Bassi), PEPPOL-COMMON-R057 (Paesi Bassi) con severità “warning”. Le regole saranno poste a severità “fatal” in una successiva release.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Aggiornamento schematron EN 16931&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Aggiornamento schematron EN 16931&lt;/li&gt;
+  &lt;li&gt;Eliminazione regola BR-CO-25&lt;/li&gt;
+  &lt;li&gt;Aggiornamento regola PEPPOL-EN16931-R004.&lt;/li&gt;
+  &lt;li&gt;Aggiunta nella regola PEPPOL-EN16931-R007 (Francia) di due nuovi profili temporanei per Fattura UBL e Nota di Credito&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="it" /><category term="news" /><summary type="html">Si comunica che sono stati pubblicati gli aggiornamenti relativi alla May Release 2026 di OpenPeppol, le cui release notes complete sono disponibili agli indirizzi: Fatturazione Ordinazione Semplice Ordinazione Completa Ordinazione Pre-Concordata Documento di Trasporto Tali aggiornamenti avranno efficacia in via obbligatoria dal giorno 17 agosto 2026, ciononostante si consiglia di recepire per tempo tali modifiche e di scaricare gli schematron per la validazione dei documenti aggiornati.</summary></entry><entry xml:lang="en"><title type="html">Activities for the migration of the Service Metadata Locator (SML)</title><link href="https://peppol.agid.gov.it/en/news/SML-migration/" rel="alternate" type="text/html" title="Activities for the migration of the Service Metadata Locator (SML)" /><published>2026-05-05T00:00:00+00:00</published><updated>2026-05-05T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/en/news/SML-Migration</id><content type="html" xml:base="https://peppol.agid.gov.it/en/news/SML-migration/">&lt;p&gt;It is hereby communicated that the migration of the Service Metadata Locator (SML), currently managed by the European Commission (DG DIGIT), to OpenPeppol is underway. The objective of the Association is to acquire full operational and contractual control over this critical infrastructure, while maintaining continuity and stability of the Peppol Network.
 &lt;!--more--&gt;&lt;/p&gt;
 
 &lt;p&gt;The SML is a key component of the Peppol Dynamic Discovery architecture. It enables DNS lookup between a Participant Identifier and the corresponding Service Metadata Publisher (SMP), allowing Access Points to locate the metadata and technical endpoints required for document exchange.&lt;/p&gt;
@@ -251,165 +471,4 @@
  &lt;/li&gt;
 &lt;/ul&gt;</content><author><name></name></author><category term="it" /><category term="news" /><summary type="html">Si comunica che in data 23 febbraio 2026 sono diventati efficaci gli aggiornamenti relativi alla November Release 2025 di OpenPeppol di cui si è data evidenza attraverso la comunicazione pubblicata in data 18 dicembre 2025. Le specifiche tecniche attualmente in vigore sono disponibili agli indirizzi: Fatturazione; Altri processi (Ordinazione semplice, Ordinazione completa, Ordinazione pre-concordata, Documento di trasporto).</summary></entry><entry xml:lang="it"><title type="html">SMP Unico della PA, portale specifiche, Validatore Online e Piattaforma di onboarding - avviso di manutenzione tecnica 30/01/2026 dalle ore 14:00 alle ore 15:30</title><link href="https://peppol.agid.gov.it/it/news/manutenzione-smp-unico-3/" rel="alternate" type="text/html" title="SMP Unico della PA, portale specifiche, Validatore Online e Piattaforma di onboarding - avviso di manutenzione tecnica 30/01/2026 dalle ore 14:00 alle ore 15:30" /><published>2026-01-29T00:00:00+00:00</published><updated>2026-01-29T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/it/news/manutenzione-smp-unico-3</id><content type="html" xml:base="https://peppol.agid.gov.it/it/news/manutenzione-smp-unico-3/">&lt;p&gt;Si comunica che SMP Unico della PA, Portale specifiche Peppol, Online validator e Piattaforma di on boarding saranno oggetto di un intervento tecnico di manutenzione dalle ore 14.00 alle ore 15:30 circa del giorno venerdì 30 gennaio 2026.&lt;/p&gt;
 
-&lt;p&gt;Durante tale periodo non sarà possibile inviare e ricevere documenti e, in generale, l’intero sistema SMP Unico della PA non sarà disponibile.&lt;/p&gt;</content><author><name></name></author><category term="it" /><category term="news" /><summary type="html">Si comunica che SMP Unico della PA, Portale specifiche Peppol, Online validator e Piattaforma di on boarding saranno oggetto di un intervento tecnico di manutenzione dalle ore 14.00 alle ore 15:30 circa del giorno venerdì 30 gennaio 2026. Durante tale periodo non sarà possibile inviare e ricevere documenti e, in generale, l’intero sistema SMP Unico della PA non sarà disponibile.</summary></entry><entry xml:lang="en"><title type="html">Peppol November Release 2025 e other Italian modifications</title><link href="https://peppol.agid.gov.it/en/news/peppol-november-release-2025-en/" rel="alternate" type="text/html" title="Peppol November Release 2025 e other Italian modifications" /><published>2025-12-18T00:00:00+00:00</published><updated>2025-12-18T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/en/news/peppol-november-release-en</id><content type="html" xml:base="https://peppol.agid.gov.it/en/news/peppol-november-release-2025-en/">&lt;p&gt;We inform you that the updates related to the November Release 2025 of OpenPeppol have been published, the entire release notes are available at the following addresses:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ENG/invoice/guide/release-notes-it/main.html&quot;&gt;Billing&lt;/a&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ENG/others/guides/release-notes-it/3-order-only/main.html&quot;&gt;Order only&lt;/a&gt;;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ENG/others/guides/release-notes-it/28-ordering/main.html&quot;&gt;Ordering&lt;/a&gt;;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ENG/others/guides/release-notes-it/42-orderagreement/main.html&quot;&gt;Order Agreement&lt;/a&gt;;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ENG/others/guides/release-notes-it/30-despatchadvice/main.html&quot;&gt;Despatch Advice&lt;/a&gt;;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;These updates will be mandatory starting from 23rd of February 2026, nevertheless we advise to implement these changes in time and to download the schematron for the validation of the updated documents&lt;/strong&gt;
-&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;p&gt;The current documentation, accessible until 22nd of February 2026, is available at the following addresses:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/my_index_fatt-ENG.jsp&quot;&gt;Billing&lt;/a&gt;;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/my_index-ENG.jsp&quot;&gt;Other Processes (Order only, Ordering, Order Agreement, Despatch Advice)&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The changes of the November Release 2025 are described below:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Changes to the syntax and code lists and validation artifacts – &lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/my_index-ENG.jsp&quot;&gt;Other Processes (order only, ordering, order agreement and despatch advice)&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Changes to the syntax&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Order:
-    &lt;ul&gt;
-      &lt;li&gt;Added the new structure cac:DeliveryLocation within the structure cac:Delivery at the order line level;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Despatch Advice:
-    &lt;ul&gt;
-      &lt;li&gt;Added the new structure cac:AdditionalItemProperty within the structure cac:ItemInstance.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Changes to code lists and validation artifacts&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Order, Order Response, Order Agreement, Despatch Advice:
-    &lt;ul&gt;
-      &lt;li&gt;Updated the code lists Electronic Address Scheme (EAS), ISO 6523 ICD list, ISO 4217 Currency codes;&lt;/li&gt;
-      &lt;li&gt;Added the rules PEPPOL-COMMON-R042 (Denmark), PEPPOL-COMMON-R052 (Denmark) and PEPPOL-COMMON-R053 (Denmark).&lt;/li&gt;
-      &lt;li&gt;Removed the rule PEPPOL-COMMON-R048 (Italy).&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Changes to the specification (documentation), syntax and code lists and validation artifacts&lt;/strong&gt; - &lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/my_index_fatt-ENG.jsp&quot;&gt;Billing&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Changes to the documentation”&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;In paragraph 7.2.10, remove the following text: “The attachment functionality is not intended for of including a copy of the invoice in an image format (such as PDF). Attaching an invoice copy is not in compliance with this specification.”&lt;/li&gt;
-  &lt;li&gt;In paragraph 11.3.10 revised the UBL example of reference to the main invoice.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Changes to syntax&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Textual revision of descriptions of the cac:BillingReference, cac:InvoiceDocumentReference, cac:AdditionalDocumentReference elements;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Changes to code lists and validation artifacts&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Updated the codelists Electronic Address Scheme (EAS), ISO 6523 ICD list, ISO 4217 Currency codes, VATEX codelist.&lt;/li&gt;
-  &lt;li&gt;Added the rules PEPPOL-COMMON-R052 (Denmark), PEPPOL-COMMON-R053 (Denmark) and DK-R-017 (Denmark); updated the text of the rule DK-R-010 (Denmark).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Schematron update EN 16931&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Update of schematron EN 16931.&lt;/li&gt;
-  &lt;li&gt;Removed rule UBL-CR-631.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="en" /><category term="news" /><summary type="html">We inform you that the updates related to the November Release 2025 of OpenPeppol have been published, the entire release notes are available at the following addresses: Billing. Order only; Ordering; Order Agreement; Despatch Advice; These updates will be mandatory starting from 23rd of February 2026, nevertheless we advise to implement these changes in time and to download the schematron for the validation of the updated documents</summary></entry><entry xml:lang="it"><title type="html">Peppol November Release 2025 e altre modifiche italiane</title><link href="https://peppol.agid.gov.it/it/news/peppol-november-release-2025-it/" rel="alternate" type="text/html" title="Peppol November Release 2025 e altre modifiche italiane" /><published>2025-12-18T00:00:00+00:00</published><updated>2025-12-18T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/it/news/peppol-november-release-it</id><content type="html" xml:base="https://peppol.agid.gov.it/it/news/peppol-november-release-2025-it/">&lt;p&gt;Si comunica che sono stati pubblicati gli aggiornamenti relativi alla November Release 2025 di OpenPeppol, le cui release notes complete sono disponibili agli indirizzi:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/invoice/guide/release-notes-it/main.html&quot;&gt;Fatturazione&lt;/a&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/others/guides/release-notes-it/3-order-only/main.html&quot;&gt;Ordinazione Semplice&lt;/a&gt;;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/others/guides/release-notes-it/28-ordering/main.html&quot;&gt;Ordinazione Completa&lt;/a&gt;;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/others/guides/release-notes-it/42-orderagreement/main.html&quot;&gt;Ordinazione Pre-concordata&lt;/a&gt;;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/docs/ITA/others/guides/release-notes-it/30-despatchadvice/main.html&quot;&gt;Documento di Trasporto&lt;/a&gt;;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Tali aggiornamenti avranno efficacia in via obbligatoria dal giorno 23 febbraio 2026, ciononostante si consiglia di recepire per tempo tali modifiche e di scaricare gli schematron per la validazione dei documenti aggiornati.&lt;/strong&gt;
-&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;p&gt;Le specifiche tecniche che rimarranno in vigore fino al giorno 22 febbraio 2026 sono disponibili agli indirizzi:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/my_index_fatt.jsp&quot;&gt;Fatturazione&lt;/a&gt;;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs/my_index.jsp&quot;&gt;Altri processi (Ordinazione semplice, Ordinazione completa, Ordinazione pre-concordata, Documento di trasporto)&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Di seguito si riportano i cambiamenti effettuati con la November Release 2025:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Cambiamenti alla sintassi e alle code lists e artefatti di validazione –&lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/my_index.jsp&quot;&gt;Altri processi (ordine, ordine con risposta, ordine pre-concordato e documento di trasporto)&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Cambiamenti alla sintassi&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Ordine:
-    &lt;ul&gt;
-      &lt;li&gt;Aggiunta la nuova struttura cac:DeliveryLocation all’interno della struttura  cac:Delivery a livello della riga dell’ordine.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Documento di Trasporto:
-    &lt;ul&gt;
-      &lt;li&gt;Aggiunta la nuova struttura cac:AdditionalItemProperty all’interno della struttura cac:ItemInstance.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Cambiamenti alle code lists e artefatti di validazione&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Ordine, Risposta all’Ordine, Ordine Pre-Concordato, Documento di Trasporto:
-    &lt;ul&gt;
-      &lt;li&gt;Aggiornate le codelist Electronic Address Scheme (EAS), ISO 6523 ICD list, ISO 4217 Currency codes.&lt;/li&gt;
-      &lt;li&gt;Introduzione delle regole PEPPOL-COMMON-R042 (Danimarca), PEPPOL-COMMON-R052 (Danimarca) e PEPPOL-COMMON-R053 (Danimarca).&lt;/li&gt;
-      &lt;li&gt;Rimozione della regola PEPPOL-COMMON-R048 (Italia).&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Cambiamenti alla documentazione, alla sintassi e alle code lists e artefatti di validazione – &lt;a href=&quot;https://peppol-docs.agid.gov.it/docs-next-release/my_index_fatt.jsp&quot;&gt;Fatturazione&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Cambiamenti alla documentazione&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Nel paragrafo 7.2.10 rimozione del seguente testo: “La funzionalità dell’allegato non è inteso per includere una copia della fattura in un formato immagine (come un PDF). Allegare una copia della fattura non è compatibile con questa specifica.”&lt;/li&gt;
-  &lt;li&gt;Nel paragrafo 11.3.10 revisione dell’esempio UBL per il riferimento alla fattura principale.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Cambiamenti alla sintassi&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Revisione testuale della descrizione degli elementi cac:BillingReference, cac:InvoiceDocumentReference, cac:AdditionalDocumentReference.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Cambiamenti alle code lists e artefatti di validazione&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Aggiornate le codelist Electronic Address Scheme (EAS), ISO 6523 ICD list, ISO 4217 Currency codes, VATEX code list.&lt;/li&gt;
-  &lt;li&gt;Introduzione delle regole PEPPOL-COMMON-R052 (Danimarca), PEPPOL-COMMON-R053 (Danimarca) e DK-R-017 (Danimarca); aggiornamento del testo della regola DK-R-010 (Danimarca).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Aggiornamento schematron EN 16931&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Aggiornamento schematron EN 16931;&lt;/li&gt;
-  &lt;li&gt;Rimozione regola UBL-CR-631.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="it" /><category term="news" /><summary type="html">Si comunica che sono stati pubblicati gli aggiornamenti relativi alla November Release 2025 di OpenPeppol, le cui release notes complete sono disponibili agli indirizzi: Fatturazione. Ordinazione Semplice; Ordinazione Completa; Ordinazione Pre-concordata; Documento di Trasporto; Tali aggiornamenti avranno efficacia in via obbligatoria dal giorno 23 febbraio 2026, ciononostante si consiglia di recepire per tempo tali modifiche e di scaricare gli schematron per la validazione dei documenti aggiornati.</summary></entry><entry xml:lang="it"><title type="html">Aggiornamento SMP Unico della PA relativo alla funzionalità di registrazione di Participant ID Peppol con schemeID 0201 (IndicePA)</title><link href="https://peppol.agid.gov.it/it/news/aggiornamento-smp-unico/" rel="alternate" type="text/html" title="Aggiornamento SMP Unico della PA relativo alla funzionalità di registrazione di Participant ID Peppol con schemeID 0201 (IndicePA)" /><published>2025-10-21T00:00:00+00:00</published><updated>2025-10-21T00:00:00+00:00</updated><id>https://peppol.agid.gov.it/it/news/aggiornamento-smp-unico</id><content type="html" xml:base="https://peppol.agid.gov.it/it/news/aggiornamento-smp-unico/">&lt;p&gt;Si comunica che in data 26 settembre 2025 è stato rilasciato un aggiornamento sull’SMP Unico della PA relativo alla funzionalità di registrazione di Participant ID Peppol con schemeID 0201 (IndicePA).
-&lt;!--more--&gt;
-È ora possibile registrare un Participant ID Peppol di una PA a partire dal Codice Univoco di un Ufficio della stessa censito sull’IndicePA con la capacità di ricezione dei documenti di ordinazione elettronica e di consegna elettronica (DDT) tramite il proprio Access Point Peppol.&lt;/p&gt;
-
-&lt;p&gt;Si coglie l’occasione per ricordare che &lt;strong&gt;resta inalterata la modalità di registrazione di un Participant ID&lt;/strong&gt; relativo ad un Codice Univoco di un Ufficio IPA &lt;strong&gt;per la ricezione dei documenti di fatturazione elettronica&lt;/strong&gt; (fatture e note di credito) &lt;strong&gt;tramite l’associazione sull’indice IPA del canale Peppol&lt;/strong&gt; e l’indicazione del codice dall’Access Point scelto.&lt;/p&gt;
-
-&lt;p&gt;Nello specifico, i passi per l’associazione del canale Peppol a ciascun ufficio di fatturazione sono:&lt;/p&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;-all’interno della maschera di modifica IPA, l’Ente deve valorizzare il campo Intermediario a “Sì”
--inserire nel campo “CanalePeppol” il codice Identificativo dell’Access Point Peppol utilizzato dall’Ente.
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;L’identificativo è composto da quattro caratteri alfanumerici, la stringa “AP” seguita da due caratteri numerici, e viene attribuito al Service Provider dalla Peppol Authority Italiana all’atto della Certificazione da parte di AgID.&lt;/p&gt;</content><author><name></name></author><category term="it" /><category term="news" /><summary type="html">Si comunica che in data 26 settembre 2025 è stato rilasciato un aggiornamento sull’SMP Unico della PA relativo alla funzionalità di registrazione di Participant ID Peppol con schemeID 0201 (IndicePA).</summary></entry></feed>
+&lt;p&gt;Durante tale periodo non sarà possibile inviare e ricevere documenti e, in generale, l’intero sistema SMP Unico della PA non sarà disponibile.&lt;/p&gt;</content><author><name></name></author><category term="it" /><category term="news" /><summary type="html">Si comunica che SMP Unico della PA, Portale specifiche Peppol, Online validator e Piattaforma di on boarding saranno oggetto di un intervento tecnico di manutenzione dalle ore 14.00 alle ore 15:30 circa del giorno venerdì 30 gennaio 2026. Durante tale periodo non sarà possibile inviare e ricevere documenti e, in generale, l’intero sistema SMP Unico della PA non sarà disponibile.</summary></entry></feed>

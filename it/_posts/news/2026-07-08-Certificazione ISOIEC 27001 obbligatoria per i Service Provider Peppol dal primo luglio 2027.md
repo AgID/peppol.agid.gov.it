@@ -13,6 +13,7 @@ permalink: /it/news/Certificazione ISO/IEC 27001 obbligatoria per i Service Prov
 **Certificazione ISO/IEC 27001 obbligatoria per i Service Provider Peppol dal 1° luglio 2027**
 
 Si comunica che a partire dal **1° luglio 2027** tutti i Service Provider Peppol dovranno essere in possesso di una certificazione **ISO/IEC 27001** valida e attiva. Tale certificazione rappresenta un requisito fondamentale per continuare a operare sulla rete Peppol e garantire la sicurezza delle informazioni gestite.
+<!--more-->
 
 La certificazione ISO/IEC 27001 attesta che il Service Provider dispone di un Sistema di Gestione della Sicurezza delle Informazioni (SGSI) conforme agli standard internazionali, sottoposto a verifiche indipendenti e ricorrenti. Questo garantisce ai partecipanti della rete Peppol un livello di garanzie coerente e verificabile in materia di sicurezza informatica.
 

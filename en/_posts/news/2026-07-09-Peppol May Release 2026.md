@@ -2,7 +2,7 @@
 layout: post
 title: Peppol May Release 2026
 lang: en
-ref: Peppol May Release 2026
+ref: Peppol-May-Release-2026
 excerpt_separator: <!--more-->
 tags:
 categories: news

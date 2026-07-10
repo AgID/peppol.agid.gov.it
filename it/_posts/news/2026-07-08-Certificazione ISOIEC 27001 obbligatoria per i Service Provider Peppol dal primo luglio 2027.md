@@ -27,4 +27,5 @@ OpenPeppol ha definito un calendario strutturato per traguardare i Service Provi
 - **1° maggio 2027 (T4)**: Secondo rapporto di stato di avanzamento sui lavori di certificazione in corso
 - **1° luglio 2027 (T5)**: Scadenza obbligatoria per il conseguimento della certificazione
 
-Per ulteriori informazioni si rimanda alla pagina dedicata [ISO/IEC 27001](https://openpeppol.atlassian.net/wiki/spaces/Security/pages/5232230408/ISO+IEC+27001) di OpenPeppol e al piano di implementazione [allegato](https://peppol.agid.gov.it/Implementation plan ISO-27001 v1rc.docx).
+Per ulteriori informazioni si rimanda alla pagina dedicata [ISO/IEC 27001](https://openpeppol.atlassian.net/wiki/spaces/Security/pages/5232230408/ISO+IEC+27001) di OpenPeppol e al piano di implementazione 
+[allegato](https://peppol.agid.gov.it/attachments/Implementation plan ISO-27001 v1rc.docx).

@@ -6,7 +6,7 @@ ref: SMP-Unico-della-PA-Portale-specifiche-Validatore-Online-e-Piattaforma-di-on
 excerpt_separator: <!--more-->
 tags:
 categories: news
-permalink: /en/news/SMP-Unico-della-PA-Portale-specifiche-Validatore-Online-e-Piattaforma-di-onboarding - avviso-di-manutenzione-tecnica-31-07-2026/
+permalink: /it/news/SMP-Unico-della-PA-Portale-specifiche-Validatore-Online-e-Piattaforma-di-onboarding - avviso-di-manutenzione-tecnica-31-07-2026/
 ---
 
 

@@ -6,7 +6,7 @@ ref: Entrata-in-vigore-della-Peppol-May-Release-2026-e-altre-modifiche-italiane
 excerpt_separator: <!--more-->
 tags:
 categories: news
-permalink: /it/news/Entrata in vigore della Peppol May Release 2026 e altre modifiche italiane/
+permalink: /it/news/Entrata-in-vigore-della-Peppol-May-Release-2026-e-altre-modifiche-italiane/
 ---
 
 **Si comunica che in data 17 agosto 2026 sono diventati efficaci gli aggiornamenti relativi alla May Release 2026 di OpenPeppol di cui si è data evidenza attraverso la comunicazione pubblicata in data 9 luglio 2026.**

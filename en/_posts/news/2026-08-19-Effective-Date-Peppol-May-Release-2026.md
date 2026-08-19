@@ -18,8 +18,7 @@ The technical specifications currently in force are available at the following a
  
 The new features introduced with the May 2026 Release are described in the Release Notes for each individual process, available at the following addresses:
 
-- [Order only](https://peppol-docs.agid.gov.it/docs/docs/ENG/others/guides/release-notes-it/3-order-only/main.html)
-           
+- [Order only](https://peppol-docs.agid.gov.it/docs/docs/ENG/others/guides/release-notes-it/3-order-only/main.html)           
 - [Ordering](https://peppol-docs.agid.gov.it/docs/docs/ENG/others/guides/release-notes-it/28-ordering/main.html)
 - [Order agreement](https://peppol-docs.agid.gov.it/docs/docs/ENG/others/guides/release-notes-it/42-orderagreement/main.html)
 - [Dispatch advice](hhttps://peppol-docs.agid.gov.it/docs/docs/ENG/others/guides/release-notes-it/30-despatchadvice/main.html)

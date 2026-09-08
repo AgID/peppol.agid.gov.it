@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Effective Date Peppol May Release 2026 
+title: Effective Date Peppol May Release 2026
 lang: en
 ref: effective-date-peppol-may-release-2026
 excerpt_separator: <!--more-->
@@ -8,6 +8,7 @@ tags:
 categories: news
 permalink: /en/news/effective-date-peppol-may-release-2026/
 ---
+
 **Please note that on 17th August 2026, the updates relating to the May 2026 Release of OpenPeppol, as announced in the communication published on 9th July 2026, became effective.**
 <!--more-->
 
@@ -17,8 +18,7 @@ The technical specifications currently in force are available at the following a
  
 The new features introduced with the May 2026 Release are described in the Release Notes for each individual process, available at the following addresses:
 
-- [Order only](https://peppol-docs.agid.gov.it/docs/docs/ENG/others/guides/release-notes-it/3-order-only/main.html)
-           
+- [Order only](https://peppol-docs.agid.gov.it/docs/docs/ENG/others/guides/release-notes-it/3-order-only/main.html)           
 - [Ordering](https://peppol-docs.agid.gov.it/docs/docs/ENG/others/guides/release-notes-it/28-ordering/main.html)
 - [Order agreement](https://peppol-docs.agid.gov.it/docs/docs/ENG/others/guides/release-notes-it/42-orderagreement/main.html)
 - [Dispatch advice](hhttps://peppol-docs.agid.gov.it/docs/docs/ENG/others/guides/release-notes-it/30-despatchadvice/main.html)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2026 09 08 SMP Unico della PA, Portale specifiche, Validatore Online e Piattaforma di onboarding - avviso di manutenzione tecnica 30/10/2026 dalle ore 14:00 alle ore 15:30
+title: SMP Unico della PA, Portale specifiche, Validatore Online e Piattaforma di onboarding - avviso di manutenzione tecnica 30/10/2026 dalle ore 14:00 alle ore 15:30
 
 lang: it
 ref: 2026-09-08-SMP-Unico-della-PA Portale-specifiche Validatore-Oline-e-Piattaforma-di-onboarding - avviso-di-manutenzione-tecnica 30-ottobre-2026 dalle-ore- 14_00 alle-ore 15_30
